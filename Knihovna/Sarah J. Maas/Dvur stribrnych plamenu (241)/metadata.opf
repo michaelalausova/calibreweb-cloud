@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c42b21d-c417-4cac-b5dc-b90388217830</dc:identifier>
+        <dc:title>Dvůr stříbrných plamenů</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-21T10:28:08+00:00</dc:date>
+        <dc:description>Nesta Archeron se marně snaží zapomenout na hrůzy války a vydobýt si své místo mezi vznešenými vílami. Na Nočním dvoře navíc stále potkává Cassiana, který ji přivádí k zuřivosti… a zároveň ji nebezpečně přitahuje. Mezitím zrádné lidské královny ohrožují křehký mír a jejich plány zhatí možná jen to, že se Nesta s Cassianem postaví své temné minulosti. Oba se budou muset utkat s démony všeho druhu, aby našli přijetí – a uzdravení – v náruči toho druhého.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Dvůr trnů a růží"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:30:44+00:00"/>
+        <meta name="calibre:title_sort" content="Dvůr stříbrných plamenů"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

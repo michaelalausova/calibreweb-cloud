@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce5fea21-5dc7-4b9f-88da-bada9892291b</dc:identifier>
+        <dc:title>A co bylo dál</dc:title>
+        <dc:creator opf:file-as="Swan, T. L." opf:role="aut">T. L. Swan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Jameson s Emily se snaží o svého prvního potomka. Tedy, Emily se snaží. Jameson je jako obvykle v pracovním stresu, což nakonec dožene Emily k tomu, že Jamesona unese do thajského wellness resortu, kde by si oba měli odpočinout a zbavit se napětí ve vztahu. Jak je ovšem u Jamesona pravidlem, nic se neobejde bez humorných a přehnaně dramatických výlevů. &lt;/p&gt;
+&lt;p&gt;Tristan se chystá na převzetí Claiřina podniku, snaží se ze svých adoptivních synů vychovat schopné mladé muže, s Claire očekávají první dítě a do toho všeho připravují svatbu, která bude tak velkolepá, jak se jen na Milesovi sluší. Doufejme, že vše proběhne hladce pokud někdo ohlídá Pochcánka. &lt;/p&gt;
+&lt;p&gt;Elliot a Kate měli za to, že už všechny překážky ve vztahu překonali. Od Elliotových pochyb o pravé lásce po Kateinu sestru podvodnici, ti dva si už vytrpěli dost. Osud jim však připravil ještě jednu velkou zkoušku, ale zdá se, že řešení je blíž, než by se zdálo. &lt;/p&gt;
+&lt;p&gt;Sledovat zpovzdálí Christophera, jak se snaží sžít s venkovem, je Haydenina nejoblíbenější volnočasová aktivita. Spolu s Eddiem se smějí Chrisovým pokusům navázat kontakt se sousedy, ulovit vlka, který údajně terorizuje okolí, ale nikdo ho neviděl, či pořídit nejplodnější býky, které trh nabízí. Eddie však pomalu dospívá a jeho budoucnost leží právě v rukou jeho adoptivních rodičů.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grada Publishing a.s.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027171330</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">t5bxEAAAQBAJ</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Miles High Club"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:19:56+00:00"/>
+        <meta name="calibre:title_sort" content="A co bylo dál"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

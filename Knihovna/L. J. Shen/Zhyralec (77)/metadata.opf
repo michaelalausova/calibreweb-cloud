@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cc39503-f5c4-469f-96a3-7db431270949</dc:identifier>
+        <dc:title>Zhýralec</dc:title>
+        <dc:creator opf:file-as="Shen, L. J." opf:role="aut">L. J. Shen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-05-02T13:46:05+00:00</dc:date>
+        <dc:description>Emmabelle Penroseová ve svém životě nikdy nepotřebovala muže. Až doteď – právě se totiž rozhodla, že musí mít dítě. Devon Whitehall měří metr devadesát, má prvotřídní DNA, závratný majetek i řadu britských šlechtických titulů. Když jí nabídne své sperma i podporu, vypadá to jako dokonalá dohoda. Ta se však rychle zvrhne v tornádo lží, temné minulosti a odhalených tajemství. Uvnitř tohoto chaosu jsou Emmabelle a Devon nuceni čelit strašlivé pravdě: jsou schopni lásky. A co hůř, možná ji cítí jeden k druhému.</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Boston Belles"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:22:41+00:00"/>
+        <meta name="calibre:title_sort" content="Zhýralec"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

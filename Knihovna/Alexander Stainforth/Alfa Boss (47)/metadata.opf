@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68eadc1c-b75e-42bb-aeca-1c6d27820bae</dc:identifier>
+        <dc:title>Alfa Boss</dc:title>
+        <dc:creator opf:file-as="Stainforth, Alexander" opf:role="aut">Alexander Stainforth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;POKRAČOVÁNÍ MM ROMANCE BOSS
+&lt;br&gt;​
+&lt;br&gt;Co se stane v pohádce, ve které princ najde svého prince? Budou žít šťastně až do smrti, nebo jim osud přichystá další překážky?
+&lt;br&gt;Erik a Teo to ani tentokrát nemají jednoduché, stín minulosti nad nimi visí jako bouřkový mrak. Erika pronásledují noční můry, Teo zjišťuje, jak velké problémy má s důvěrou a jak snadno by mohl jejich vztah zničit.
+&lt;br&gt;Ale pokud někoho milujeme, neměli bychom podniknout třeba i ten sebeztřeštěnější plán, abychom ho získali zpátky?
+&lt;br&gt;
+&lt;br&gt;Alfa boss je emotivní gay romance o lásce, bolesti a cestě za vykoupením, ale především o tom, že po každém konci může přijít další příběh.&lt;/p&gt;</dc:description>
+        <dc:publisher>David Kaps</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9990001852665</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">8957eb62-4cfc-46ec-b2f1-5abf9bd15d6a</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>MM</dc:subject>
+        <meta name="calibre:series" content="Boss"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:20:19+00:00"/>
+        <meta name="calibre:title_sort" content="Alfa Boss"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

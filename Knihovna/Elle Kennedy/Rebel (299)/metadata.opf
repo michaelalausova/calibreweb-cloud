@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec3f38df-8863-416a-be4e-ca8a51e1316f</dc:identifier>
+        <dc:title>Rebel</dc:title>
+        <dc:creator opf:file-as="Kennedy, Elle" opf:role="aut">Elle Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-12T19:23:31+00:00</dc:date>
+        <dc:description>Už je to dlouho, co měla Casey pocit, že drží svůj život pevně v rukách. Po autonehodě, při níž málem ztratila to nejcennější, se alespoň může opřít o svého kamaráda Fenna… nebo si to aspoň myslí. Za Fennovou pěknou tvářičkou se skrývá nebezpečná pravda o noci, kdy skoro zemřela, a on se musí spojit s nevlastním bratrem RJem a ostatními delikventy z Akademie Sandover, aby odhalili celou pravdu o její nehodě. Co když ale Casey už nechce být tou dívkou, do níž se zamiloval?</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Prep"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:04+00:00"/>
+        <meta name="calibre:title_sort" content="Rebel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

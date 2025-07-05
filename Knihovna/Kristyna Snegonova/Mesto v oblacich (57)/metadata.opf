@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edf0e0e7-cdec-4f1c-9f76-3d791fe9fa03</dc:identifier>
+        <dc:title>Město v oblacích</dc:title>
+        <dc:creator opf:file-as="Sněgoňová, Kristýna" opf:role="aut">Kristýna Sněgoňová</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Svět je v troskách. Když se hroutil, postavili lidé svou spásu – město na obrovských pilířích, chráněné před vším zmarem tam dole. Ale to bylo dávno. Tak dávno, že už si to nikdo nepamatuje. A kdo o tom něco tuší, je v nebezpečí, mohla by po něm totiž jít císařská tajná služba, Polit, protože svět mimo město přece neexistuje. Alespoň ne pro ty, kdo nejsou vyvolení. Jenže stará tajemství se ráda nečekaně vynořují, a když se ve městě začnou záhadným způsobem ztrácet děti, nejlepší vyšetřovatel Politu pochopí, že věci mohou být jinak, než mu celý život tvrdili. Nový román Kristýny Sněgoňové přináší mezi troskami světa po apokalypse temné dobrodružství, jaké tu dlouho nebylo.  "Originální postapo, které čtenáře chytne od začátku až do konce. Zábavné, akční a k tomu skvělý hlavní hrdina, který člověku přiroste k srdci. Kristýna Sněgoňová překonala cokoliv, co dosud napsala." František Kotleta</dc:description>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Město v oblacích"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:20:51+00:00"/>
+        <meta name="calibre:title_sort" content="Město v oblacích"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

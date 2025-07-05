@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d376dbf5-3e8f-412c-896b-459dc518dc1b</dc:identifier>
+        <dc:title>Lucas</dc:title>
+        <dc:creator opf:file-as="Jell, Marcy" opf:role="aut">Marcy Jell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-15T00:00:00+00:00</dc:date>
+        <dc:description>Jezdci Apokalypsy – Lucas
+Anotace
+Byla jsem italská princezna na vrcholu popularity. Jasně, oslovení princezna je přehnané… Ale, sakra, měla jsem všechno, co jsem chtěla. Peníze, postavení, milence. Věděla jsem, že můžu cokoliv! Nikdo si mě nedovolí zastavit. Všichni vědí, že můj otec je Salomon Vannini. A jméno Vannini mělo v našem světě váhu. Hlavně v tom mafiánském…
+…tedy do doby, než jsem krutě narazila! Probudit se po perfektním mejdanu v cizí zemi by nebyl problém – taky by se to nestalo poprvé. Ale já si nic nepamatovala! Kdo, sakra, byli ti čtyři muži? Kdo byli Delaneyové? Co po mně chtěli? A hlavně – co po mně chtěl on, Lucas! Byl ztělesněním démona sexu. Byl tak žhavý, že kdyby to bylo legální a on se nechoval jako idiot, spala bych s ním kdekoliv a kdykoliv. Takhle jsem se jen obrnila a modlila, ať mě otec dostane co nejdřív domů. Jenže čím déle jsem v blízkosti Lucase byla, tím víc začaly na povrch vyplouvat věci, co měly zůstat spát.
+Pravda, kterou jsem se neměla dozvědět…</dc:description>
+        <dc:publisher>MEDIAPLEX s.r.o.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Jezdci apokalypsy (Marcy Jell)"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:34:57+00:00"/>
+        <meta name="calibre:title_sort" content="Lucas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

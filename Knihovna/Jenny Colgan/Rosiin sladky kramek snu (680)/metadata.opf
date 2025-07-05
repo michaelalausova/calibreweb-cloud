@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5c525f1-1a2c-451b-992c-b69148a7f3e2</dc:identifier>
+        <dc:title>Rosiin sladký krámek snů</dc:title>
+        <dc:creator opf:file-as="Colgan, Jenny" opf:role="aut">Jenny Colgan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Také jste v dětství milovali větrovky nebo fialky? Nebo jste se nemohli odtrhnout od mléčných karamel či ovocného želé? A co takhle mít vlastní krámek, kde jsou cukrovinky a sladkosti nemyslitelných a leckdy zapomenutých druhů? Jednatřicetiletá nezaměstnaná zdravotní sestra Rosie odjíždí na přání matky do malé vesnice Lipton, aby pomohla své staré pratetě uspořádat a prodat rodinný krám s cukrovinkami. Teta Lilian strávila v Liptonu celý svůj život, zažila zde válku, prožila první velkou lásku, a dokud byla při síle, vedla krámek. Nepříliš nadšená Rosie opouští Londýn a svého dlouholetého přítele v domnění, že pobyt na vesnici bude jen bohapustá nuda. Hluboce se však mýlí. I na vesnici se můžou dít věci, což Rosie zjistí hned druhý den po svém příjezdu. A pak už se události hrnou jedna za druhou a Rosie začíná přehodnocovat svůj vztah i své odhodlání vrátit ze zpět do Londýna.&lt;/p&gt;</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:49:25+00:00"/>
+        <meta name="calibre:title_sort" content="Rosiin sladký krámek snů"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

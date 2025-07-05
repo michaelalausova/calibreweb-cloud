@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d347c26b-a10d-4dba-b3b8-59abd958ea30</dc:identifier>
+        <dc:title>Vzdorující královna</dc:title>
+        <dc:creator opf:file-as="March, Meghan" opf:role="aut">Meghan March</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-30T22:00:00+00:00</dc:date>
+        <dc:description>Jsem jeho zábava. Jeho hračka. Splátka dluhu.Říkám si, že Mounta nenávidím, ale tělo mě zradí pokaždé, když vstoupí do místnosti. Jak ho můžu chtít, a současně se ho bát?Varovali mě, že mi poplete hlavu. Postaví můj mozek proti mému tělu.Ale nedošlo mi, že nastane totální zmatek.Mělo mě to napadnout. Pro Mounta neplatí žádná pravidla.Nevzdám se. Neprojevím slabost. Neustoupím a vyjdu z téhle dohody bez jizvy na srdci i na duši.Ale on má jiné plány…</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026915447</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Mount trilogy"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:29:49+00:00"/>
+        <meta name="calibre:title_sort" content="Vzdorující královna"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

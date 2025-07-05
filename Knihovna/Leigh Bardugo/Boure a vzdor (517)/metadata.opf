@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f47a8923-e485-46fa-8f10-e4e6e878a93d</dc:identifier>
+        <dc:title>Bouře a vzdor</dc:title>
+        <dc:creator opf:file-as="Bardugo, Leigh" opf:role="aut">Leigh Bardugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-19T18:27:26+00:00</dc:date>
+        <dc:description>Z Aliny Starkové se stala světlonoška. Jenže cena, kterou za to platí, je vysoká. Temnyj je víc než kdy předtím odhodlaný využít jejích schopností k získání trůnu. Alina se snaží jeho nástrahám vzdorovat, přesto se do nich zaplétá  a vzdaluje se od lásky, v níž až doteď hledala své útočiště. Alina cítí, že jestli chce Ravku zachránit, bude si muset vybrat. Ponechá si svoji výjimečnou moc a zachrání zemi, nebo se jí vzdá, a zvolí lásku?</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Griša"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:42:22+00:00"/>
+        <meta name="calibre:title_sort" content="Bouře a vzdor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

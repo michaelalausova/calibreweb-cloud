@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2b310d5-47f8-4d98-a6b9-bd45099e9cd9</dc:identifier>
+        <dc:title>Zas tak moc souzeni si nejsme</dc:title>
+        <dc:creator opf:file-as="Quinn, Meghan" opf:role="aut">Meghan Quinn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-22T13:10:40+00:00</dc:date>
+        <dc:description>JP Cane je totální protiva. Takže si dovedete představit, jak jsem naštvaná, když s ním musím pracovně letět do San Francisca, a ještě navíc s ním bydlet v jednom apartmá. Ten chlap neumí pořádně nosit košili, cpe se tyčinkami a neustále si na něco stěžuje. A když k tomu připočtu jeho flirtování a jeho dokonalý vzhled, ocitám se v zajetí pokušení, co mi v noci nedá spát. Ale hádejte, kdo se dokáže perfektně ovládat? Já! Protože jestli jsem si něčím jistá, tak tím, že JP Cane a já si rozhodně nejsme souzeni.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Cane Brothers"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:27:51+00:00"/>
+        <meta name="calibre:title_sort" content="Zas tak moc souzeni si nejsme"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

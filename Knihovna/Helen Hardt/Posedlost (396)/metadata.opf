@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5683e71b-efc2-477b-b807-2b47c0cb702f</dc:identifier>
+        <dc:title>Posedlost</dc:title>
+        <dc:creator opf:file-as="Hardt, Helen" opf:role="aut">Helen Hardt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-24T22:00:00+00:00</dc:date>
+        <dc:description>Vášnivý vztah mladé právničky Jade Robertsové a rančera Talona Steela, bratra její nejlepší kamarádky, se rychle rozvíjí ve skutečnou lásku. Všechno se ale komplikuje tím, že Talon stále bojuje se svými vnitřními démony, kteří ho pronásledují už od dětství. Tehdy se stal obětí zločinu a on i jeho bratři tyto události dosud tají před celým světem.Mužovy vnitřní problémy opakovaně způsobují, že extatickou vášeň, kterou zažívá s Jade, střídají hluboké propady, střety a nedorozumění. Talon tedy začíná zvolna chápat, že se s pomocí svých blízkých a terapeutky musí znovu otevřít bolestným traumatům své minulosti a konečně se s nimi vyrovnat. To je ale pro něj neuvěřitelně těžké.Jadein šéf ji pověřuje pátráním v minulosti Steelových, a usnadní jí tím odhalování temných tajemství jejich rodiny. Otázek je však stále víc než odpovědí. Jak a proč zemřela Talonova matka? Kdo ve skutečnosti byli jeho únosci?A co přesně se před pětadvaceti lety stalo?</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2021</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788076425880</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Bratři Steelové"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:37:01+00:00"/>
+        <meta name="calibre:title_sort" content="Posedlost"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

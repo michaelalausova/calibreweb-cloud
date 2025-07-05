@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e68ca2bc-78e5-415f-acae-d193da586039</dc:identifier>
+        <dc:title>Ve jménu pomsty</dc:title>
+        <dc:creator opf:file-as="Litkowiec, Kinga" opf:role="aut">Kinga Litkowiec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-13T22:00:00+00:00</dc:date>
+        <dc:description>Když přichází čas pomsty, nikdo není v bezpečí.Ve jménu pomsty je třetím dílem série Démoni z Los Angeles. Tentokrát se poutavý a erotikou protkaný příběh zaměří na Joaquina Ferra, kterého už známe jako poněkud nevyzpytatelného losangeleského kata.Ten je nyní ochoten udělat cokoli, aby se mu podařilo dokončit dlouho zamýšlený plán pomsty a připravit o život toho, koho považuje za strůjce svého neradostného osudu.V záloze má jednu tajnou zbraň. Jeho šanci na lepší budoucnost představuje Elena van Celluci – dívka, kterou její otec léta věznil. Elena tak může uniknout z pekla, avšak záhy zjistí, že nic v životě není zadarmo a Joaquin bude chtít něco na oplátku.Touha po pomstě a chtíč zanedlouho umíchají smrtící směs, která může kdykoli explodovat…Dva zdánlivě zcela odlišní lidé zjistí, že je spojuje víc než jen společný nepřítel. Co jim pomůže k vítězství?</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2022</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027712632</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Démoni z Los Angeles"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:31:38+00:00"/>
+        <meta name="calibre:title_sort" content="Ve jménu pomsty"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

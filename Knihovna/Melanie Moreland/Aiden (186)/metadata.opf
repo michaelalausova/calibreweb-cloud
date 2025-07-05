@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64455da6-89b5-462a-b773-a79b337be745</dc:identifier>
+        <dc:title>Aiden</dc:title>
+        <dc:creator opf:file-as="Moreland, Melanie" opf:role="aut">Melanie Moreland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-01T11:58:30+00:00</dc:date>
+        <dc:description>&lt;p&gt;**&lt;em&gt;USA Today Best Selling Series&lt;/em&gt; **  &lt;/p&gt;
+&lt;p&gt;Three young men meet in university and form a lifelong friendship.   &lt;/p&gt;
+&lt;p&gt;Their pasts dictate the men they are, but their present shapes their future. &lt;br /&gt;
+What happens when these men meet the one person they are destined to be with? Can they fight their feelings and walk away? Or will they each succumb and learn the sweet agony of love?   &lt;/p&gt;
+&lt;p&gt;Aiden  &lt;/p&gt;
+&lt;p&gt;Haunted by memories of his past, Aiden plays the part of the happy-go-lucky friend. Always ready with a teasing smile or a joke, he is good at hiding his pain. &lt;br /&gt;
+Using his impressive physique as a shield, he keeps his past buried beneath his rugged exterior.&lt;br /&gt;
+Except, one woman sees through his façade. &lt;br /&gt;
+Her green eyes see too much, even as her body tempts him. &lt;br /&gt;
+Even as his heart yearns for her.&lt;br /&gt;
+Cami is determined to make him realize that he is worthy of being loved. &lt;br /&gt;
+He pushes her away at every turn, yet finds himself unable to keep her at arm’s length. &lt;br /&gt;
+Who will win this battle of love?&lt;/p&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">yKdOEQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788026924272</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Vested Interest"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:28:38+00:00"/>
+        <meta name="calibre:title_sort" content="Aiden"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b73392fb-7d02-4354-b0e2-5ce24b9760ef</dc:identifier>
+        <dc:title>Snít znovu</dc:title>
+        <dc:creator opf:file-as="Kasten, Mona" opf:role="aut">Mona Kasten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-26T23:00:00+00:00</dc:date>
+        <dc:description>&amp;#13;
+&amp;#13;
+&amp;#13;
+Když se Jude Livingstonové v Los Angeles zhroutí sny, utíká za svým bratrem do Woodshillu, kde se chce znovu postavit na vlastní nohy. Jenže netuší, že jedním ze spolubydlících v bratrově domě je i její bývalý přítel Blake, kterému zlomila srdce. Blake jí hned na začátku dává jasně najevo, že mezi nimi už nikdy nemůže nic být. A ačkoli se toho Jude snaží držet, situace se začíná dost komplikovat… Další román úspěšné autorky Mony Kasten, kterou si oblíbily čtenářky nejen v Německu. Ke známým postavám a příběhům z Woodshillu se v tomto díle připojuje odvážná a talentovaná herečka Jude.&amp;#13;
+&amp;#13;
+&amp;#13;</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Omega 2021</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788076425682</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Začít znovu"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:59+00:00"/>
+        <meta name="calibre:title_sort" content="Snít znovu"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">560</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caf4ba45-73b4-4048-8b55-0125b7fb2007</dc:identifier>
+        <dc:title>Alchymista</dc:title>
+        <dc:creator opf:file-as="Paulo, Coelho" opf:role="aut">Coelho Paulo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-15T18:39:17+00:00</dc:date>
+        <dc:description>&lt;p&gt;"Okouzlující román Paula Coelha si našel oddané čtenáře na celém světě. Tento příběh, působivý ve své nesmírné prostotě a vedoucí nás k moudrosti, vypráví o mladém andaluském pasáčkovi jménem Santiago, jenž putuje z rodného Španělska do Egyptské pouště, aby našel poklad ukrytý v pyramidách. Při svém putování potkává cikánskou ženu, muže, který se nazývá králem, a alchymistu. Ti všichni hledajícímu Santiagovi ukazují, kudy se má ubírat. To, co začalo jako cesta za pozemským bohatstvím, končí objevem pokladu ve vlastním nitru.&lt;br /&gt;
+Santiagův příběh, svěží, působivý a hluboce lidský, je věčným svědectvím o síle, s níž nás dokáží měnit naše sny, a o tom, jak důležité je naslouchat vlastnímu srdci."&lt;br /&gt;
+-- Oficiální text nakladatelství&lt;/p&gt;</dc:description>
+        <dc:publisher>Argo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788025706848</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">yCXplwEACAAJ</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Dobrodružné</dc:subject>
+        <dc:subject>Filozofie</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:44:10+00:00"/>
+        <meta name="calibre:title_sort" content="Alchymista"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

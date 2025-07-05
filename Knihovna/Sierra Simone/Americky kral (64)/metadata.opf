@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43be55c2-1f0a-4599-b107-3c5cd7706817</dc:identifier>
+        <dc:title>Americký král</dc:title>
+        <dc:creator opf:file-as="Simone, Sierra" opf:role="aut">Sierra Simone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-31T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Říká se, že každý tragický hrdina má jeden osudový nedostatek, tajný hřích, drobný steh vetkaný do jeho budoucnosti už od samotného narození. A já nejsem výjimkou. Mé hříchy už nejsou tajemstvím. Mé nedostatky už nemůžou být osudovější. A nikdy jsem nebyl tak blízko tragédii jako teď.
+&lt;br&gt;Jsem muž, který miluje, muž, jehož láska si žádá mnohé. Jsem král. Král, který byl tak bláhový, že své království vybudoval na troskách minulosti. Jsem manžel a milenec, voják, otec a prezident.
+&lt;br&gt;A vše překonám.
+&lt;br&gt;Ať žije král.&lt;/p&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="DATABAZEKNIH">novy-kamelot-americky-kral-445379</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53973156</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788026914778</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">j01EzgEACAAJ</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Nový kamelot"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:21:45+00:00"/>
+        <meta name="calibre:title_sort" content="Americký král"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

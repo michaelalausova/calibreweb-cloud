@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">575</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21bc8802-4a79-4ce1-ad82-78e57f56d236</dc:identifier>
+        <dc:title>Chladný král</dc:title>
+        <dc:creator opf:file-as="Jírová, M. V." opf:role="aut">M. V. Jírová</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Mladá dívka Mesilie žije v Chladném království plném zvrhlostí, násilí a vražd. Doposud unikala pozornosti jejich krutého krále, kterého není radno zaujmout, pokud nechcete, aby si na vás ukojil své zvrácené představy. Bohužel její vzpurná povaha k sobě nakonec přiláká jeho syna, prince Kardese, jenž jí dá pocítit na vlastní kůži, že nenávist nemá daleko k lásce. Odolá Mesilie princově temné vůli a zachrání si život?„Všechny se dobrovolně odevzdaly do mé smrtelné náruče, až na ni. Její vzdor upoutal mou pozornost, a teď si ji vezmu KOUSEK po KOUSKU!"</dc:description>
+        <dc:publisher>Solis</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9990003918598</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:44:50+00:00"/>
+        <meta name="calibre:title_sort" content="Chladný král"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

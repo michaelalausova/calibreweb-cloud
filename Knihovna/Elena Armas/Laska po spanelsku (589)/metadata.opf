@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46162323-9d33-4fd4-adaa-e4b558dc2848</dc:identifier>
+        <dc:title>Láska po španělsku</dc:title>
+        <dc:creator opf:file-as="Armas, Elena" opf:role="aut">Elena Armas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-12T07:37:02+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Catalina opravdu zoufale potřebuje doprovod na svatbu své sestry. Zvlášť když tak trochu zalhala o tom, že má v Americe přítele. Celá rodina i známí teď čekají, až jim ho představí – včetně jejího bývalého a jeho současné snoubenky. Má jen měsíc na to, aby našla někoho, kdo bude ochotný přeletět Atlantik a krýt jí záda. Let z New Yorku do Španělska není zrovna krátký a její rodinu nebude vůbec snadné oklamat. Doprovod jí nabídne dvoumetrový modrooký Aaron Blackford, kolega z práce, který ji jinak věčně rozčiluje. Catalina se souhlasem váhá. Svatba se ale blíží a Aaron se nakonec zdá být nejlepší volbou. A co když mimo kancelář není až tak hrozný?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Komedie</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:45:25+00:00"/>
+        <meta name="calibre:title_sort" content="Láska po španělsku"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

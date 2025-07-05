@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c3661ef-00fd-499e-a341-baa36bc81cf5</dc:identifier>
+        <dc:title>Tři drsné lekce</dc:title>
+        <dc:creator opf:file-as="Sloane, Nikki" opf:role="aut">Nikki Sloane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-28T22:00:00+00:00</dc:date>
+        <dc:description>Jsem žena, které muži platí tisíce dolarů, aby s ní mohli spát. Dělám to, co miluju a v čem jsem tak dobrá. Pak se ale objeví on a hodí na stůl třicet tisíc dolarů. Chce si povídat. A líbat se. A vzít mě s sebou domů.
+Za jedinou noc mi tenhle muž obrátí svět vzhůru nohama a přinutí mě porušit všechna pravidla, podle kterých jsem do té doby žila, abych si udržela muže od těla. Uštědří mi několik tvrdých lekcí, ze kterých plynou tři hlavní ponaučení.
+Nikdy ho neprovokovat. Nestanovovat mu hranice. A nemyslet si, že si můžu vybrat, koho budu milovat.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2022</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027700028</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Klub zavázaných očí"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:21:28+00:00"/>
+        <meta name="calibre:title_sort" content="Tři drsné lekce"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

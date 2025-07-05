@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d4eefb4-3781-4ec4-8cc0-c472713804d1</dc:identifier>
+        <dc:title>Drahý nepřítel</dc:title>
+        <dc:creator opf:file-as="Callihan, Kristen" opf:role="aut">Kristen Callihan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-08T22:00:00+00:00</dc:date>
+        <dc:description>V dětství se nenáviděli. Macon Saint byl hezoun, avšak Delila vždy věděla, že je učiněný ďábel. Na klidu jí nepřidávalo, že chodil s její proradnou sestrou Samanthou, a když se rozešli, Delile se splnil sen: Už nikdy se s ním nemusí vidět.
+O deset let později jí dávný nepřítel poslal textovku.
+Delilina sestra ukradla Maconovi, nyní vycházející hollywoodské hvězdě, cenné dědictví a on udělá vše, aby ho získal zpět. Problém je, že se po Samantě slehla zem.
+Delila chce před svou matkou zatajit, co její sestra provedla, a Maconovi navrhne dohodu. Sestřin dluh splatí tím, že bude pro Macona pracovat jako osobní kuchařka a asistentka.
+Macon souhlasí, přestože tuší, že si tím zadělává na potíže. Delila ho očividně nenávidí, už dávno však nejsou děti a hořká rivalita se může změnit v něco příjemnějšího. Něco, co možná přetrvá navěky.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026918288</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:40:46+00:00"/>
+        <meta name="calibre:title_sort" content="Drahý nepřítel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

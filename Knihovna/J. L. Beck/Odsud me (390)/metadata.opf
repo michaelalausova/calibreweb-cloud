@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">390</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e9bfc0b-117a-4c12-ac95-7c318e7a6085</dc:identifier>
+        <dc:title>Odsuď mě</dc:title>
+        <dc:creator opf:file-as="Beck, J. L. &amp; Hallman, C." opf:role="aut">J. L. Beck</dc:creator>
+        <dc:creator opf:file-as="Beck, J. L. &amp; Hallman, C." opf:role="aut">C. Hallman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-28T22:00:00+00:00</dc:date>
+        <dc:description>KNIHA, KTERÁ NENÍ PRO SLABŠÍ POHAVY |
+Od prvního setkání s Hrdinou Millerem mi bylo jasné, že jsem nikoho podobného v životě nepotkala. Odjakživa jsem vyrůstala zavřená jen se svou rodinou a jeho temná povaha mě neskutečně přitahovala.
+On vyrůstal obklopen násilím, které dosud prýští z hlubin jeho duše. Mě vychovali s pomocí Bible, takže jsem teď dost naivní na to, abych se ho snažila zachránit. Děsí mě a vzrušuje zároveň. Je mnou posedlý a přitom uzavřený.
+Chrání mě a zraňuje mě. Odhání mě od sebe, ale jen proto, že si myslí, že není dost dobrý. Varuje mě před sebou. Vypráví mi o své minulosti a o tom, koho zabil. Říká mi o tom, co mi chce dělat… co mi bude dělat, když s ním zůstanu.
+Moje povaha mě nutí léčit tu temnou skvrnu na jeho srdci, ale asi na to nejsem dost silná. Čím blíž mu jsem, tím hlouběji mě vtahuje do svého temného světa, až se v něm nakonec začnu úplně ztrácet.
+Vraždy. Zločin. Peníze. Sex. Obklopuje nás to ze všech stran, a když nás dostihne Hrdinova temná minulost, zaplatím za to místo něj já...</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2021</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027700370</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Rodina Rossiů"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:36:46+00:00"/>
+        <meta name="calibre:title_sort" content="Odsuď mě"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

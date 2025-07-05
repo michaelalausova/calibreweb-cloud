@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84d83f9e-5bc9-479a-a770-bc1f4b43bc94</dc:identifier>
+        <dc:title>Třinácté znamení</dc:title>
+        <dc:creator opf:file-as="Briggs, Elizabeth" opf:role="aut">Elizabeth Briggs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ayla se už odjakživa cítí jako vyděděnec. Její matka byla člověk, takže Ayla nikdy nebyla uznána jako právoplatný člen smečky znamení Raka. Velké naděje vkládá do Konvergence – shromáždění všech smeček, kde konečně získá nejen schopnost přeměňovat se ve vlka, ale bude jí také přidělen osudový druh, partner vyvolený Slunečními čarodějkami. Naplní se konečně její sen o lepším životě? Nebo bude muset čelit ještě horším výzvám?</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Urban fantasy</dc:subject>
+        <meta name="calibre:series" content="Vlci zvěrokruhu"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:41:11+00:00"/>
+        <meta name="calibre:title_sort" content="Třinácté znamení"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

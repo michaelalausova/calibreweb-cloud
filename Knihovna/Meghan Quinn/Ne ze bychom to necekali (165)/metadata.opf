@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b080ace-0304-4c4a-8b21-80d61222bba9</dc:identifier>
+        <dc:title>Ne že bychom to nečekali</dc:title>
+        <dc:creator opf:file-as="Quinn, Meghan" opf:role="aut">Meghan Quinn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-25T17:27:30+00:00</dc:date>
+        <dc:description>"Plánování svatby je v plném proudu a moje nejlepší kamarádka Lia mě požádala, abych jí s ní pomohl. Jediný problém je, že s každou přibývající vteřinou, jsem svou nejlepší kamarádku viděl v jiném světle. A než si uvědomím, co se děje, udeří mě to jako tuna cihel. Jsem zamilovaný do své nejlepší kamarádky. Zbývá dokázat Lie, že já jsem ten, s kým by měla být. Pomodlete se za mě…  "</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Cane Brothers"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:27:48+00:00"/>
+        <meta name="calibre:title_sort" content="Ne že bychom to nečekali"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

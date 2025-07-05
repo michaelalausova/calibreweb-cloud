@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1515a52-6416-430a-8592-2bdcba105e72</dc:identifier>
+        <dc:title>Neprofesionál</dc:title>
+        <dc:creator opf:file-as="Hawkins, J. D." opf:role="aut">J. D. Hawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-27T23:00:00+00:00</dc:date>
+        <dc:description>Co se stane, když se zamilujete do své nejlepší kamarádky a kolegyně? Mám tu nejskvělejší práci na světě. Randím s krásnými ženami a píšu o tom. Ovšem rád bych svůj seznamovací blog posunul na vyšší úroveň. Toužím po vlastní online reality show. Jenže je tu malý zádrhel. Moje šéfka chce, abych tuhle show uváděl s ženským protějškem. A chce, aby to byla právě má nejlepší kamarádka a kolegyně, Margo. Já budu randit s kráskami a ona se sexy muži. Sice je to fér, ale nesnesu ji vidět s někým jiným. Čím víc s ní pracuju, tím víc chci náš vztah dostat mimo přátelskou zónu. Zvládneme zachovat profesionalitu?</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026912613</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:46:21+00:00"/>
+        <meta name="calibre:title_sort" content="Neprofesionál"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

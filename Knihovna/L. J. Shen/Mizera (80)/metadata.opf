@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00e2d0ad-f97f-44c0-b74e-31ce5c059835</dc:identifier>
+        <dc:title>Mizera</dc:title>
+        <dc:creator opf:file-as="Shen, L. J." opf:role="aut">L. J. Shen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-23T19:03:16+00:00</dc:date>
+        <dc:description>Krutý, chladnokrevný… Cillian Fitzpatrick pro média je TÍM PADOUCHEM. Pro mě je to muž, který mi  zachránil život. Nyní potřebuju, aby pro mě udělal ještě jednu malou laskavost – vyplatil mě z problémů, do kterých mě uvrhl můj manžel. Cillian ovšem nedělá laskavosti zadarmo. Cenou za vykoupení je moje svoboda. Nyní jsem hračkou Fitzpatrickova nejstaršího bratra. Smůla, že Cillian zapomněl na jeden malý detail. Persephona nebyla pouze bohyní jara, byla také královnou smrti.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Boston Belles"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:22:55+00:00"/>
+        <meta name="calibre:title_sort" content="Mizera"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

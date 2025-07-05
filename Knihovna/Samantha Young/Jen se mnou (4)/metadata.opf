@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e889c394-df65-4f49-8184-f7fe0d2557d6</dc:identifier>
+        <dc:title>Jen se mnou</dc:title>
+        <dc:creator opf:file-as="Young, Samantha" opf:role="aut">Samantha Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-28T07:21:25+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Poté, co jen o vlásek unikla smrti, opouští policistka Robyn Penhaligonová svůj život v Bostonu a vydává se na Skotskou vysočinu na panství Ardnoch, aby našla Maca Galbraitha – otce, který ji kdysi opustil. Setkává se zde také s mužem, jehož dlouho nesnášela: bývalým hollywoodským hercem Lachlanem Adairem. Najít s Macem společnou řeč se ukáže být těžší, než si Robyn kdy dokázala představit. A pod stupňujícím se nepřátelstvím s Lachlanem začíná vznikat spalující přitažlivost. Robyn by nejraději odjela, nicméně když zjistí, že otci hrozí nebezpečí, je odhodlaná znepokojivým zločinům kolem Ardnochu přijít na kloub.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Adairovi"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:17:28+00:00"/>
+        <meta name="calibre:title_sort" content="Jen se mnou"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

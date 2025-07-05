@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f97c8e3c-3f85-43ba-a41c-79935bf9f587</dc:identifier>
+        <dc:title>Anti-přítel</dc:title>
+        <dc:creator opf:file-as="Ward, Penelope" opf:role="aut">Penelope Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-15T12:07:25+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Nejdřív mě můj soused Deacon rozčiloval. Vypadal sice skvěle a byl přátelský, ale často jsem se kvůli němu nemohla vyspat. Bydleli jsme totiž vedle sebe a zdi byly dost tenké, takže jeho „hrátky“ s přítelkyněmi jsem slyšela skoro každou noc. Jako svobodná matka jsem to neocenila.
+&lt;br&gt;
+&lt;br&gt;Brzy se však situace obrátila – když dcera jednou v noci nepřestávala naříkat, pan Děvkař mi zaklepal na dveře. Jako zázrakem jeho hlas Sunny uklidnil, a konečně přestala plakat. A když ji objal, usnula mu v náručí. Navenek byl drsný, ale uvnitř? Můj soused byl zaříkávač dětí!
+&lt;br&gt;
+&lt;br&gt;Po té noci se z nás stali přátelé. Nosil mi latté, povídal si se mnou… prostě nejlepší kamarád, jakého jsem kdy měla. Časem jsme se sblížili, až jednoho večera jsme překročili hranici.
+&lt;br&gt;
+&lt;br&gt;Naše přátelství se změnilo v naprostý chaos. Zamilovala jsem se do kluka, který se zapřísahal, že nechce žádný vážný vztah a nikdy nebude mít děti. Věděla jsem, že i Deaconovi na mně záleží, přestože se Sunny nezapadáme do žádného plánu, který si kdy vytvořil.
+&lt;br&gt;
+&lt;br&gt;Nebyl pro mě tím pravým mužem… jenže pro mě už nebyl ani kamarádem. Takže jsem mu začala říkat „anti-přítel“.
+&lt;br&gt;
+&lt;br&gt;Proč si ale ze všeho nejvíc přeju, abych byla tou jedinou ženou, která ho změní?&lt;/p&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">TPRwzwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788026918615</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:46:39+00:00"/>
+        <meta name="calibre:title_sort" content="Anti-přítel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

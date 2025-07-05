@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">285</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e188489f-1ac5-48a2-af5a-a5ffbe139e49</dc:identifier>
+        <dc:title>Říše upíra</dc:title>
+        <dc:creator opf:file-as="Kristoff, Jay" opf:role="aut">Jay Kristoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-07T13:24:51+00:00</dc:date>
+        <dc:description>Od posledního východu slunce uplynulo dvacet sedm let. Celou tu dobu vedli upíři válku proti lidstvu a nyní v moři temnoty přežívá jen pár jiskřiček světla. Gabriel de León je člen Stříbrného řádu, který měl bránit svět před stvořeními noci. Z bratrstva však zbyl už jen on a teď je nucen ve vězení vyprávět svůj příběh. Příběh o legendárních bitvách a zakázané lásce, o ztracené víře a nalezeném přátelství. A hlavně o poslední naději lidstva: grálu!</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Říše Upíra"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:32:27+00:00"/>
+        <meta name="calibre:title_sort" content="Říše upíra"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

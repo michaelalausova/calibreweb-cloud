@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">686072f2-eecc-4577-9b24-bf0dc970ef57</dc:identifier>
+        <dc:title>Jenom ne Rich</dc:title>
+        <dc:creator opf:file-as="Bloom, Penelope" opf:role="aut">Penelope Bloom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-02T22:00:00+00:00</dc:date>
+        <dc:description>Před sedmi lety jsme si kamarádkami slíbily, že bez ohledu na to, co se stane, nikdy nebudeme chodit s bratry Kingovými. I kdyby se z nich stali megaslavní, nádherní, srdcervoucí miliardáři. I kdyby se připlazili na kolenou a prosili o odpuštění.Ale hádejte, kdo nám právě přiletěl soukromým letadlem zpátky do našich životů? A hádejte, kdo se objevil hned první den v mé nové práci? Richard. King. Naštěstí Richardovi trvá jen dvě sekundy, než ukáže, že se vůbec nezměnil. Namyšlený. Suverénní. Hrubý. Bohužel je také tak nádherný, až to hraničí s pohoršením – s čelistí, ze které by i sochy spadly z podstavců, a s úsměvem, který mi zkratoval mozek.Roky si bere, co chce. Pochybuju, že by toužil po něčem jiném – kromě mě. V žádném případě mu nedovolím, aby se mi zase zapletl do života. Moje kamarádky by mi to nikdy neodpustily. Já bych si to nikdy neodpustila.Ale už jsem se zmínila o jeho čelisti?</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027711987</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Jenom ne..."/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:41:38+00:00"/>
+        <meta name="calibre:title_sort" content="Jenom ne Rich"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

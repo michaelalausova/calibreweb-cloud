@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfb2c06f-256a-48c9-a212-f9f14bad25e9</dc:identifier>
+        <dc:title>Dvůr mlhy a hněvu</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-28T07:09:05+00:00</dc:date>
+        <dc:description>Feyre překonala překážky, které jí bránily k návratu na Jarní dvůr. Ovšem za příliš vysokou cenu. Dle dohody musí trávit vždy část roku u Rhysanda, knížete Půlnočního dvora. A ač je nyní nesmrtelnou vílou, její srdce je stále lidské, a ona se tak musí rozhodnout, komu vlastně patří její oddanost.</dc:description>
+        <dc:publisher>Cooboo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788075443069</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Dvůr trnů a růží"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:30:52+00:00"/>
+        <meta name="calibre:title_sort" content="Dvůr mlhy a hněvu"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

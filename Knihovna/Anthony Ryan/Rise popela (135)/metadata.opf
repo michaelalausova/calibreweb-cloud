@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2695358-c9a6-459b-a0bd-4660ba368c33</dc:identifier>
+        <dc:title>Říše popela</dc:title>
+        <dc:creator opf:file-as="Ryan, Anthony" opf:role="aut">Anthony Ryan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-05T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Korektura: Vine2&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Závěrečný díl epické fantasy trilogie Draconis Memoria&lt;/p&gt;
+&lt;p align="justify"&gt;Kovolodní obchodní syndikát stovky let poháněla krev draggů — a chránili ho Krvožehnaní, hrstka lidí, kteří dokázali krev pít, a v důsledku toho disponovali nadlidskými, ale také děsivými schopnostmi. Nyní však hrozí, že právě to, co korporátní svět sytilo, způsobí jeho zkázu.&lt;/p&gt;
+&lt;p align="justify"&gt;Povstal Bílý dragg nepředstavitelné síly a teď stojí v čele armády draggů a Zkažených, které si podrobil. Claydon Torcreek, Lizanne Lethridgová a Corrick Hilemore operují v různých končinách světa, avšak nyní se spojili v touze Bílého dragga a jeho armádu porazit.&lt;/p&gt;
+&lt;p align="justify"&gt;V této válce čelí lidstvo smrtelnému ohrožení, ale s pomocí starobylého vědění, revolučních technologií a neočekávaných spojenců má dosud naději. Záchrana světa si však bude žádat oběti.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Host – vydavatelství, s. r. o.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">75091fff-1cc3-429d-ab5c-7fe6156d22e6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788027503322</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Draconis Memoria"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:26:37+00:00"/>
+        <meta name="calibre:title_sort" content="Říše popela"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

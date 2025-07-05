@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e574a1c-aaa4-4fe2-9449-cc49896cb531</dc:identifier>
+        <dc:title>Jediná šance</dc:title>
+        <dc:creator opf:file-as="Ryan, Kendall" opf:role="aut">Kendall Ryan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-11-13T16:38:51+00:00</dc:date>
+        <dc:description>Na Elise, milou a nádhernou mladší sestru svého spoluhráče, bych neměl ani pomyslet, nemůžu si však pomoct. Po vítězství na hokejovém šampionátu jsme vzájemné flirtování přenesli do ložnice… odkud hned ráno se studem utekla. Myslí si, že si naši společnou noc nepamatuju – každičkou vteřinu mám však vypálenou do mozku. Tři měsíce jsem se ji snažil vyhnat z hlavy, začínám se však smiřovat s tím, že už nikdy žádnou jinou chtít nebudu.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Hot Jocks"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:26:18+00:00"/>
+        <meta name="calibre:title_sort" content="Jediná šance"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

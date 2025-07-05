@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">357</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32baa916-e2aa-43c6-af0b-f4c89fc0920f</dc:identifier>
+        <dc:title>Asher Black</dc:title>
+        <dc:creator opf:file-as="Huntington, Parker S." opf:role="aut">Parker S. Huntington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Měl mě zabít.
+&lt;br&gt;Udělala jsem nemyslitelné. Zavolala jsem na něj a jeho rodinu policii, ale on mě nečekaně nechal naživu.
+&lt;br&gt;Stali se z nás nejdřív přátelé a potom… i něco víc…
+&lt;br&gt;Všechno to začalo mým močovým měchýřem. Neměla jsem v plánu stát se na chodbě toalet svědkem podezřelého obchodu.
+&lt;br&gt;Policii jsem zavolala bez dlouhého rozmýšlení. To jsem ovšem netušila, komu ten klub patří.
+&lt;br&gt;Asheru Blackovi.
+&lt;br&gt;Bývalému zabijáku a mafiánovi. CEO, miliardáři. Tomu nejžhavějšímu kandidátovi na ženění v New Yorku.
+&lt;br&gt;Když se objeví na vysoké škole, kam chodím, a hledá dívku, která zavolala policii na jeho podnik, vím, že se můžu rozloučit se životem. Jeho nabídka mě však zaskočí – zaplatí za mě školné, najde mi po promoci příjemnou práci a jediné, co pro to musím udělat, je… předstírat, že jsem jeho snoubenkou.&lt;/p&gt;</dc:description>
+        <dc:publisher>Red</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027713202</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Pět syndikátů"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:35:24+00:00"/>
+        <meta name="calibre:title_sort" content="Asher Black"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

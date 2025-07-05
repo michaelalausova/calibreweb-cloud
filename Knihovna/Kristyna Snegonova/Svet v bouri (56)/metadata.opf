@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bddfb8e9-d744-4d84-98c3-19c4b70d6bae</dc:identifier>
+        <dc:title>Svět v bouři</dc:title>
+        <dc:creator opf:file-as="Sněgoňová, Kristýna" opf:role="aut">Kristýna Sněgoňová</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Po mnoha letech nevědomosti a strádání se dal svět konečně do pohybu. Lidé schází na zem, mezi ty, které kdysi opustili, a stvůry z cizí planety. Aby se Země znovu stala bezpečným domovem, je třeba odhalit všechna tajemství zrůd i lidstva, které ta svá v době chaosu pečlivě ukrylo. Plán na záchranu světa existuje, cesta však nebude snadná a ti, kdo se po ní vydají, budou za každý krok platit krví.&lt;/p&gt;
+&lt;p&gt;Třetí díl postapokalyptické série Města Kristýny Sněgoňové odhalí další střípky světa, který učaroval tisíce čtenářů.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Epocha</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027800933</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Město v oblacích"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:20:47+00:00"/>
+        <meta name="calibre:title_sort" content="Svět v bouři"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

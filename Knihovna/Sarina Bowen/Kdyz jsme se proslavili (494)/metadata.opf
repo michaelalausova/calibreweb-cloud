@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">780cb3ec-fa8c-44d9-83a8-32af92ebe1bf</dc:identifier>
+        <dc:title>Když jsme se proslavili</dc:title>
+        <dc:creator opf:file-as="Bowen, Sarina" opf:role="aut">Sarina Bowen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-28T22:00:00+00:00</dc:date>
+        <dc:description>Lianne Challiceovou znají miliony fanoušků jako princeznu Vindi. I mocná čarodějka stříbrného plátna chce občas pověsit hůlku na hřebík, poslat svého manažera, kam slunce nesvítí, a jít studovat na vysokou. Ukáže se však, že je to těžší, než se zdá.
+Lianne nikdy normální život ani studium na běžné škole nepoznala a seznámit se s klukem jí připadá příliš riskantní – její poslední přítel o ní prozradil první poslední bulváru – uhrančivým očím Daniela „DJ“ Treviho však nedokáže odolat.
+DJ je hudební génius, který má na starost hudební doprovod hokejových utkání na univerzitním stadionu a dokáže i jen krátkou ukázkou písně ovlivnit atmosféru a náladu tisíců fanoušků.
+S Lianne se sblížit nesmí, avšak nemůže jí říct proč. A už vůbec nedokáže uvěřit, že se jí líbí právě on.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026918493</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="The Ivy Years"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:41:18+00:00"/>
+        <meta name="calibre:title_sort" content="Když jsme se proslavili"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

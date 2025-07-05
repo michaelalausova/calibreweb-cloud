@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f179aa6c-a321-4c26-a62f-dd2ef47cf33f</dc:identifier>
+        <dc:title>Zmija a krídla noci</dc:title>
+        <dc:creator opf:file-as="Broadbent, Carissa" opf:role="aut">Carissa Broadbent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-19T22:00:00+00:00</dc:date>
+        <dc:description>Carissa Broadbent – Zmija a krídla noci</dc:description>
+        <dc:publisher>Vydavateľstvo Motýľ</dc:publisher>
+        <dc:identifier opf:scheme="URN">ISBN 978-80-8164-337-8</dc:identifier>
+        <dc:language>slk</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Koruny Nyaxie"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:40:59+00:00"/>
+        <meta name="calibre:title_sort" content="Zmija a krídla noci"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

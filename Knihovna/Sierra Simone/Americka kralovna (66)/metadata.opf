@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6842fba9-133b-477d-9fab-b75ea2247713</dc:identifier>
+        <dc:title>Americká královna</dc:title>
+        <dc:creator opf:file-as="Simone, Sierra" opf:role="aut">Sierra Simone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-25T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Začalo to polibkem ukradeným pod anglickou oblohou a skončilo cestou k oltáři.
+&lt;br&gt;
+&lt;br&gt;Začalo to tím, že americký prezident vyslal nejlepšího přítele, aby mě pro něj získal, a skončilo to mým srdcem rozeklaným vedví.
+&lt;br&gt;
+&lt;br&gt;Začalo to pohřbenými tajnostmi a nebezpečnými touhami… a skončilo u nás tří. Spojila nás láska plná nenávisti, láska ostřejší než břitva.
+&lt;br&gt;
+&lt;br&gt;Jmenuji se Greer Gallowayová a sloužím k potěše prezidenta Spojených států.
+&lt;br&gt;
+&lt;br&gt;Tohle je příběh americké královny.&lt;/p&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026913481</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">49112638</dc:identifier>
+        <dc:identifier opf:scheme="DATABAZEKNIH">novy-kamelot-americka-kralovna-427703</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CgQEzgEACAAJ</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Nový kamelot"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:21:55+00:00"/>
+        <meta name="calibre:title_sort" content="Americká královna"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

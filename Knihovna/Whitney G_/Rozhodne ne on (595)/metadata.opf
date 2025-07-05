@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5f0d26f-0a4f-4e16-89f9-51806c4bc4ca</dc:identifier>
+        <dc:title>Rozhodně ne on</dc:title>
+        <dc:creator opf:file-as="G., Whitney" opf:role="aut">Whitney G.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-30T09:21:49+00:00</dc:date>
+        <dc:description>Jediné, co jsem si ke svým třicátým narozeninám přála, byla nezapomenutelná noc… Místo toho jsem se nechala zbouchnout svým šéfem. Jenže já tehdy netušila, že je to můj nový šéf. Byl to ten nejpřitažlivější muž, kterého jsem kdy viděla, k tomu přidejte britský přízvuk a rty, které se na celé hodiny zmocnily mého těla. A po měsíci se ukázalo, že v noc, kdy jsme se setkali, mi něco zatajil, a dalších osm měsíců mě toho čekalo ještě mnohem víc…</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-19T22:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Rozhodně ne on"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

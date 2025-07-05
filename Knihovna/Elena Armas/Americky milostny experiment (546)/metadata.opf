@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9b46c19-d7f1-4ce0-8fba-e4510e707c08</dc:identifier>
+        <dc:title>Americký milostný experiment</dc:title>
+        <dc:creator opf:file-as="Armas, Elena" opf:role="aut">Elena Armas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-15T12:04:54+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Romantický román, v němž se začínající spisovatelka ocitne ve spolubydlení s mužem, kterého už nějakou dobu obdivovala, a ten jí nabídne pomoc se psaním romantických románů. Rosie Grahamová má problém. Vlastně hned několik. Právě dala výpověď v práci, aby se naplno mohla věnovat spisovatelské kariéře. Své rodině to zatím neřekla a teď má navíc děsný tvůrčí blok. Všechno se na ni sype. A to doslova. V bytě se na ni dokonce zřítil strop. Naštěstí má náhradní klíč k loftu své nejlepší kamarádky Liny, která je zrovna na líbánkách. To však vůbec netuší, že její útočiště už zabral někdo jiný. Lucas. Linin bratranec, kterého Rosie už několik měsíců tajně stalkuje na Instagramu - je zkrátka neodolatelný. Prochází se po bytě jen v ručníku, poťouchle se usmívá, má sexy přízvuk, vaří a má zajímavé nápady. Nabídne totiž Rosie, že jí pomůže získat zpět inspiraci. Zdá se, že Rosie má všechno pod kontrolou, ale Lucasův pobyt se krátí. Nakladatelská anotace.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788024953977</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">mpDg0AEACAAJ</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:35+00:00"/>
+        <meta name="calibre:title_sort" content="Americký milostný experiment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

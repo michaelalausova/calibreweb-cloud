@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49e10c68-1c17-4b28-9a2b-a4f3b6630ff5</dc:identifier>
+        <dc:title>Tajemné touhy</dc:title>
+        <dc:creator opf:file-as="Armentrout, Jennifer L." opf:role="aut">Jennifer L. Armentrout</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Wicked"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:42:45+00:00"/>
+        <meta name="calibre:title_sort" content="Tajemné touhy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

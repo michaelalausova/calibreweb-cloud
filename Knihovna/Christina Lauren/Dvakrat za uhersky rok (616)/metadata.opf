@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">616</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c7a4894-7f0f-4199-a115-84714e3c090c</dc:identifier>
+        <dc:title>Dvakrát za uherský rok</dc:title>
+        <dc:creator opf:file-as="Lauren, Christina" opf:role="aut">Christina Lauren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-21T13:44:39+00:00</dc:date>
+        <dc:description>Sam Brandis byl Tateina první láska, první všechno, včetně prvního milostného zklamání.Novinka od oblíbených autorek bestsellerových sérií Božský a Vášnivý.Seznámili se během jejího čtrnáctidenního pobytu v Londýně, kam vyrazila s babičkou na oslavu ukončení střední školy, a takřka okamžitě se do sebe zamilovali. Společně se dělí o své naděje a sny a také nejintimnější tajemství. Tate se Samovi – jako vůbec prvnímu a jedinému člověku na světě – svěří, že je pečlivě utajovanou dcerou jednoho z neslavnějších herců, a když ji její láska zradí, má pocit jako by se jí jednou provždy zhroutil svět.
+O čtrnáct let později je z ní ale úspěšná herečka, filmová hvězda stopovaná bulvárem, pro kterou je zklamání z prvního vztahu jen vzdálenou, byť stále bolestnou vzpomínkou. Připravuje se na hlavní roli ve filmu, kde se má poprvé setkat při práci se svým otcem, a ani ve snu netuší, koho při natáčení potká. Samozřejmě Sama, z kterého je scenárista připravovaného filmu a především nesmírně atraktivní sebevědomý muž, ještě přitažlivější, než jak si ho pamatuje z mládí. Setkání s člověkem, který ji zradil, ji staví před těžká rozhodnutí: Je špatnost a zrada ospravedlnitelná dobrými úmysly? Může se to, co člověk většinou zažije jen jednou za život, stát dvakrát?</dc:description>
+        <dc:publisher>Nakladatelství JOTA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788075659804</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:46:36+00:00"/>
+        <meta name="calibre:title_sort" content="Dvakrát za uherský rok"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

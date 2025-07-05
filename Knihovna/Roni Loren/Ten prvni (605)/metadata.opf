@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf784745-05ab-4e19-9a09-ddd89e9c471f</dc:identifier>
+        <dc:title>Ten první</dc:title>
+        <dc:creator opf:file-as="Loren, Roni" opf:role="aut">Roni Loren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-15T09:39:14+00:00</dc:date>
+        <dc:description>Finn miloval Liv a ona zase jeho. Jenže strašlivá tragédie jedné osudové noci je násilím rozdělí. Po více než dvanácti letech se bývalí spolužáci potkávají znovu, jenže už nic není takové jako dřív. Kdysi divoká Liv dře v práci, která ji nenaplňuje, a stýská si po svých dávných snech. Spolehlivý Finn se stal agentem v utajení, nevídá rodinu ani přátele a nemá nikoho, komu by mohl důvěřovat. Jakmile se Liv s Finnem znovu setkají, dávná vášeň se opět probudí s nevídanou silou. Jenže na minulost se jen tak zapomenout nedá a dávné rány sahají hluboko…</dc:description>
+        <dc:publisher>MOBA</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:46:08+00:00"/>
+        <meta name="calibre:title_sort" content="Ten první"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

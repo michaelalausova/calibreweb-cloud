@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63bf95f7-2913-4d3d-851b-8680c35ca61b</dc:identifier>
+        <dc:title>Černá a purpurová</dc:title>
+        <dc:creator opf:file-as="Dutka, Wojciech" opf:role="aut">Wojciech Dutka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-08T14:46:55+00:00</dc:date>
+        <dc:description>Milena Zingerová, dívka z respektované slovenské židovské rodiny, je v koncentračním táboře Osvětim odsouzena k smrti. Osud jí však dává šanci: Má zazpívat na narozeninové oslavě brutalitou proslulého příslušníka SS Franze Weimerta. V navenek bezcitném muži se jejím zpěvem něco zlomí, takže se o ni začne zajímat. Milenina počáteční nenávist k mladému nacistovi se pomalu mění – a tak se rodí jeden z nejneobvyklejších milostných příběhů holokaustu.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Beletrie</dc:subject>
+        <dc:subject>Historické</dc:subject>
+        <dc:subject>Válečné</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:48:44+00:00"/>
+        <meta name="calibre:title_sort" content="Černá a purpurová"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

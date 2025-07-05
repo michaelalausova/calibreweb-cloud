@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0754d977-eb8d-4b78-a49f-c1a68e123bf6</dc:identifier>
+        <dc:title>Nová zkouška</dc:title>
+        <dc:creator opf:file-as="Litkowiec, Kinga" opf:role="aut">Kinga Litkowiec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-16T22:00:00+00:00</dc:date>
+        <dc:description>Každý člověk má srdce, ale ne každý s ním umí správně zacházet.
+Jessica Turner se pomalu sžívá se situací, do které se dostala. Vzniká otázka, jestli je to opravdu tak děsivý vztah, který se dá vydržet jen s největším sebezapřením? Skutečně Jessica jen plní příkazy svého trýznitele, aby ji už konečně propustil?
+Dohoda, kterou mladá žena uzavřela s ďáblem v lidském těle, získává ze dne na den jinou podobu. Zjišťuje, že to, co pro ni bylo ze začátku nepřijatelné, najednou není tak děsivé, a celá tato brutální erotická hra se jí začíná líbit.
+Jenže proměnou neprochází jen Jessica, ale i její trýznitel. Liam O´Dire se dostává do situace, které se chtěl za každou cenu vyhnout. Díky mladé ženě ďábel opět objevil své srdce… A tak dvojice pokračuje ve hře, ale už s jinými pravidly, a také s dalšími postavami, které se do ní zapojují. Objevují se noví hráči, kteří nechtějí hrát fair play. Touží po tom, co vlastní Liam…
+Nová zkouška je pokračování erotického románu Kingy Litkowiec Cizí dluh“, který vyšel v r. 2020. Druhý díl série Démony Los Angeles ukazuje vztah obou hrdinů z úplně jiné perspektivy. Je to kniha akční, ale zároveň velmi smyslná, plná vášně a drsné erotiky.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2022</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027701575</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Démoni z Los Angeles"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:31:40+00:00"/>
+        <meta name="calibre:title_sort" content="Nová zkouška"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

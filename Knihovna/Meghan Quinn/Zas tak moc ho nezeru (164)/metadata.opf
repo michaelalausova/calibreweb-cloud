@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c8c4866-e7a8-426b-8453-7310e01b38fe</dc:identifier>
+        <dc:title>Zas tak moc ho nežeru</dc:title>
+        <dc:creator opf:file-as="Quinn, Meghan" opf:role="aut">Meghan Quinn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-19T22:00:00+00:00</dc:date>
+        <dc:description>Jak jste se vy dva seznámili?
+Tohle je zásadní otázka pro každý pár. Odpovědí je pak obvykle nějaký sladkobolný příběh o tom, jak je do zadnice trefil Amorův šíp. 
+V mém případě to bylo trochu jinak (no dobře, ne tak úplně). Procházela jsem luxusní čtvrtí Beverly Hills a hledala někoho, kdo by si mě vybral za nevěstu, víte, někoho, na koho by žárlil můj osudový muž, který mi právě dal kopačky. 
+Dusal kolem bloku jako nějaký krásný zlobr, mumlal si něco o nepovedené obchodní transakci a snažil se z toho vykroutit. 
+A v ten moment jsme na sebe narazili.
+Nekonalo se žádné jiskření. 
+Ani náznak rozkvétající lásky. 
+Vzápětí jsem si ale uvědomila, že se cpu brambůrky a guacamole zdarma a poslouchám, jak mi ten chlap líčí všechny svoje problémy, které ho vedly k vyslovení té smělé žádosti… Chtěl, abych byla jeho Vivian Wardová, víte, z Pretty Woman – ovšem bez toho skotačivého chování. 
+Mluvili jsme o bydlení ve vile, společných schůzkách s další dvojicí a o předstírání, že jsme do sebe bezhlavě zamilovaní… a zasnoubení. Dovedete si to představit? 
+Taková drzost!
+Jenže lidé dělají šílené věci, když jsou zoufalí. A já zoufalstvím přímo čpěla. Takže jsme uzavřeli dohodu. 
+Udělala jsem ale jednu velkou chybu… velikou… OBROVSKOU? Nešťastnou náhodou jsem se do Huxleyho Canea zamilovala.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026920250</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Cane Brothers"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:27:46+00:00"/>
+        <meta name="calibre:title_sort" content="Zas tak moc ho nežeru"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

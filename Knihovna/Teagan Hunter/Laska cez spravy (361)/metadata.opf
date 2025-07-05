@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43f7d4b1-edbf-4463-a00e-e3cb7a180615</dc:identifier>
+        <dc:title>Láska cez správy</dc:title>
+        <dc:creator opf:file-as="Hunter, Teagan" opf:role="aut">Teagan Hunter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-family: 'Open Sans','Arial','Helvetica','sans-serif'"&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;Nesprávne číslo má byť len nesprávne číslo. Vymazať. Neriešiť. Nepísať. Neflirtovať. Nesprávne číslo by nemala byť prvá vec, na ktorú človek ráno myslí, a posledná vec, o ktorej uvažuje, keď zaspáva. A už vôbec by ste neznámy kontakt nemali nahovoriť na to, aby si kúpil malé kozliatko. Bolo by to zvláštne.&lt;br&gt;&lt;br&gt;Keď sa pre nesprávne číslo omylom zoznámim so Zachom Hastingsom, nedržíme sa žiadneho z vyššie spomenutých pravidiel. Píšeme si a flirtujeme, pretože je neskutočne vtipný, čudný a je pre mňa skvelým rozptýlením. Nehľadám lásku. Zach natrafil na nesprávne číslo. No možno... Možno je ten pravý&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Zelený Kocúr</dc:publisher>
+        <dc:identifier opf:scheme="URN">ISBN 978-80-89761-85-2</dc:identifier>
+        <dc:language>slk</dc:language>
+        <meta name="calibre:series" content="Texting"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:35:33+00:00"/>
+        <meta name="calibre:title_sort" content="Láska cez správy"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">566</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8e23626-5891-4cd0-b81d-c620e19ff77e</dc:identifier>
+        <dc:title>Budoucí paní Russoová</dc:title>
+        <dc:creator opf:file-as="Aston, Jana" opf:role="aut">Jana Aston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-27T10:04:41+00:00</dc:date>
+        <dc:description>Nehledala jsem přítele. To poslední, co jsem potřebovala, byl další pochybný vztah. A věřte mi, že všechny moje vztahy byly pochybné. Ovšem díky sérii nešťastných událostí jsem souhlasila, že vyrazím na domluvené rande. Jenomže... to rande je s guvernérem. Nemůžu být přítelkyní politika. Tak zaprvé jsem tak trošku praštěná. A za druhé mám tajemství. Ale taky jsem do guvernéra zakoukaná. Jedno malé rande nikomu neublíží, že ne?
+
+Spoiler: Ublíží. Tohle skončí velkým průšvihem.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:44:27+00:00"/>
+        <meta name="calibre:title_sort" content="Budoucí paní Russoová"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

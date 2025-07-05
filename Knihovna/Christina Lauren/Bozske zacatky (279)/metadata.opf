@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52fbfda0-b987-4ecd-9ddc-f81d5e2a5d0a</dc:identifier>
+        <dc:title>Božské začátky</dc:title>
+        <dc:creator opf:file-as="Lauren, Christina" opf:role="aut">Christina Lauren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-26T23:00:00+00:00</dc:date>
+        <dc:description>Božský bastard a božská potvora během svého vášnivého vztahu zažili řadu vzrušujících okamžiků. Nyní je čeká další zásadní krok – svatba století!
+Chloe Millsová a Bennett Ryan se nemohou dočkat, až konečně uslyší svatební zvony. Chloe se ztrácí v posledních přípravách a vážně zvažuje, zda by se vše nedalo vyřešit snadněji v Las Vegas, zatímco Bennett skládá dočasný slib zdrženlivosti, protože nechce, aby ho před svatbou „rozptylovalo“ Chloino božské tělo.
+Napětí ve vztahu s pobouřenou a vzdorující Chloe stoupá a nepomáhají ani příbuzní a přátelé, kteří vnáší do už tak složité situace jen chaos a zmatek. Vášnivý vztah se blíží k vyvrcholení a nikdo netuší, zda se Chloe a Bennett dokážou minovým polem odpíraného sexu propracovat až k oltáři. Podaří se jim projít nástrahami, které jim do cesty staví osud a jejich přátelé, a současně si uchovat to, co je dělí a současně pevně spojuje?
+Božské začátky jsou poslední částí „božské série“ a kromě odpovědi na tu nejdůležitější otázku nabízí ochutnávku toho, na co se můžeme od obou autorek těšit v budoucnu.
+Sehraná dvojice autorek čtenářům opět nabízí to, co tak skvěle ovládá. Dobře odměřenou dávku romantiky, humoru a sexu, zábavný příběh propojený řadou půvabných epizod, vtipných dialogů a především odvážně popisných erotických scén, které často zaberou i několik stran, ale ani na okamžik nenudí.</dc:description>
+        <dc:publisher>Nakladatelství JOTA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788075658401</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">8fd08c6b-10eb-46c5-ae40-e5d91829dca9</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Božský"/>
+        <meta name="calibre:series_index" content="3.5"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:32:14+00:00"/>
+        <meta name="calibre:title_sort" content="Božské začátky"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

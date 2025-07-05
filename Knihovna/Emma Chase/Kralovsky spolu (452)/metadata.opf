@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">452</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">755b468c-43b7-4fef-b4d2-e781681fdcf6</dc:identifier>
+        <dc:title>Královsky spolu</dc:title>
+        <dc:creator opf:file-as="Chase, Emma" opf:role="aut">Emma Chase</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-17T22:00:00+00:00</dc:date>
+        <dc:description>Někteří muži se narodili zodpovědní, na některé byla zodpovědnost uvalena. Henry John Edgar Thomas Pembrook, princ z Wessca, právě dostal do svého urozeného klína obrovský náklad zodpovědnosti. A nezvládá to dobře. Královna Lenora nakonec souhlasí, že mu věnuje trochu prostoru. Jenže princ si chce hrát, a to rovnou v televizní reality show. 
+Vítejte v pořadu Spřízněné duše: královská edice. Dvacet nejkrásnějších dívek s modrou krví usiluje o Henryho pozornost. Zaujme ho jen jedna. Sarah Mirabelle Zinnia von Titebottumová. Tichá a nenápadná. Naprosto Henryho okouzlí svým laskavým duchem a prostou krásou.
+Ovšem Řím nebyl postaven za jeden den a starého psa novým kouskům jen tak nenaučíte. Henry si bude muset přestat hrát, pokud si chce udržet Sařinu náklonnost.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026919254</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Royally"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:39:32+00:00"/>
+        <meta name="calibre:title_sort" content="Královsky spolu"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86621798-8601-4e64-a992-fde659332cdf</dc:identifier>
+        <dc:title>Láska zrozená ve lži</dc:title>
+        <dc:creator opf:file-as="Ryan, Lexi" opf:role="aut">Lexi Ryan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-29T09:42:32+00:00</dc:date>
+        <dc:description>Nikdy nezapomenete na svůj svatební den. Na ten moment, kdy se vaše sestra-dvojče vyzvrací do vaší kytice a přizná, že čeká dítě… s vaším snoubencem. Chtěla jsem zmizet, schovat se, dokud se moje srdce nezahojí. Ocitla jsem se v&amp;#160;cizím městě s&amp;#160;tajemným cizincem, jehož nadané ruce a ústa mě téměř donutily zapomenout, že to měla být má svatební noc… Ovšem co dělat, když se ukáže, že onen tajemný cizinec je váš budoucí zaměstnavatel?</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Chlapci z Jackson Harbor"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:26:10+00:00"/>
+        <meta name="calibre:title_sort" content="Láska zrozená ve lži"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38cb21c6-9399-4544-9f8e-7a11af21916d</dc:identifier>
+        <dc:title>Trable</dc:title>
+        <dc:creator opf:file-as="Towle, Samantha" opf:role="aut">Samantha Towle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="color: rgb(85, 85, 85); font-family: sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);"&gt;Mia Monroeová nikdy neměla lehký život. Když se konečně osamostatnila, myslela si, že všechno bude jednodušší. Ale nebylo… Teď prchá před člověkem, kterého nechce už nikdy vidět. Utíká před minulostí, o níž se nesmí nikdo dozvědět. Zoufale se snaží najít lásku, o které dosud jen snila. Jordan Matthews naopak bere všechno na lehkou váhu. Má rád ženy, jednoduchý, uvolněný a bezproblémový život.&lt;/span&gt;&lt;br style="color: rgb(85, 85, 85); font-family: sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(85, 85, 85); font-family: sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);"&gt;Jenže pak potká Miu… zlomenou, zdeptanou a s takovou přítěží, jež je na jednoho člověka příliš. Čím více tuto dívku poznává, zjišťuje, že poprvé chce někomu pomoct. Že touží dozvědět se o ní víc.&lt;/span&gt;&lt;br style="color: rgb(85, 85, 85); font-family: sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(85, 85, 85); font-family: sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);"&gt;Když Mia poprvé uvidí Jordana, říká si, že je to přesně typ člověka, s nímž nechce mít nic společného: potetovaný drsňák, který vydělává peníze pokerem a po barech sbírá jednu ženskou za druhou. Jak je tedy možné, že se do něj zamilovala? Jenže pak ji minulost, před níž utekla, začíná rychle dostihovat: Neboť jestliže před něčím utíkáte, musíte se jednou zastavit… …a když se zastavíte, udeří na vás minulost plnou silou.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:47:25+00:00"/>
+        <meta name="calibre:title_sort" content="Trable"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

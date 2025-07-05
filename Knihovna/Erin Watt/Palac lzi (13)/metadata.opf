@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96054429-7b29-4d83-ab8c-9d85bd8d61be</dc:identifier>
+        <dc:title>Palác lží</dc:title>
+        <dc:creator opf:file-as="Watt, Erin" opf:role="aut">Erin Watt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-18T22:00:00+00:00</dc:date>
+        <dc:description>Ella Harperová překonala už spoustu problémů, které jí život přichystal. Je tvrdá, odolná a ochotná udělat, co je potřeba, aby ochránila ty, které miluje. Jenže s tajemstvími, která obklopují jejího otce a přítele, jehož život je nyní v ohrožení, se možná ani Ella nedokáže smířit.
+Reed Royal je zvyklý ničit všechny překážky, které mu osud staví do cesty. Nyní se to však obrátilo proti němu. Pokud chce zachránit sám sebe i dívku, kterou miluje, musí se postavit trýznivé minulosti a napravit svou pošramocenou pověst.
+Nikdo nevěří, že Ella dokáže v paláci Royalových přežít. Všichni jsou přesvědčeni, že je Reed zničí.
+Možná mají pravdu.
+Ella a Reed musejí společně najít způsob, jak zachránit sebe i svou rodinu, a odhalit všechna tajemství a lži, které se skrývají v paláci rodu Royalových.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026906926</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Royalové"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:18:10+00:00"/>
+        <meta name="calibre:title_sort" content="Palác lží"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

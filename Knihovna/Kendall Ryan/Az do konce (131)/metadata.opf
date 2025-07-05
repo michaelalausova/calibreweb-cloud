@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90eb123b-15ff-4b33-ba87-b8e598900160</dc:identifier>
+        <dc:title>Až do konce</dc:title>
+        <dc:creator opf:file-as="Ryan, Kendall" opf:role="aut">Kendall Ryan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-16T18:06:52+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Král sexu mi slíbil, že mi pomůže zorientovat se ve světě online randění!&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Vím, že je na čase hodit minulost za hlavu a začít zase randit. Akorát že mě už jenom při tom pomyšlení polévá ledový pot.  &lt;/p&gt;
+&lt;p&gt;Naštěstí mi s tím pomůže moje tajná zbraň – nejlepší kamarád a profesionální hokejista Owen Parrish. Tenhle král sexu mi slíbil, že mi pomůže zorientovat se ve světě online randění. S jeho pomocí to určitě nebude nic těžkého…  &lt;/p&gt;
+&lt;p&gt;Moje kamarádka Becca chce, abych jí pomohl sbalit nějakého kreténa ze seznamky. Slíbil jsem, že jí pomůžu… a najednou jsem si na ní začal všímat věcí, které už nedokážu vyhnat z hlavy, například že je pod tím pytlovitým oblečením a rozcuchaným drdolem nádherná.  &lt;/p&gt;
+&lt;p&gt;Chci jí pomoct a ukázat jí, jak v ložnici na to. A Becca je víc než ochotná žákyně.  &lt;/p&gt;
+&lt;p&gt;Co ale udělám, až bude připravená sebrat svoje nově nalezené sebevědomí a najít si nového muže?  &lt;/p&gt;
+&lt;p&gt;Nikdy jsem nebyl typ na vážné vztahy, kvůli ní jsem ale ochotný to zkusit.  &lt;/p&gt;
+&lt;p&gt;Pokud máte rádi sexy a sebevědomé muže, kteří se umí ohánět hokejkami (na ledě i mimo něj), a chytré a silné ženy, které vědí, jak mužům zkrotit přebujelá ega, tahle série je přímo pro vás!&lt;/p&gt;</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Hot Jocks"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:26:27+00:00"/>
+        <meta name="calibre:title_sort" content="Až do konce"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

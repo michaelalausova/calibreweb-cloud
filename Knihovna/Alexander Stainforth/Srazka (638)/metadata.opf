@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e301686c-7955-4109-b2ae-8babdfa30796</dc:identifier>
+        <dc:title>Srážka</dc:title>
+        <dc:creator opf:file-as="Stainforth, Alexander" opf:role="aut">Alexander Stainforth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-style: italic; font-size: 16px; font-family: 'Roboto','Helvetica Neue','sans-serif'; font-weight: 600"&gt;&lt;span style="color: #202124"&gt;MM romance&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 16px; font-family: 'Roboto','Helvetica Neue','sans-serif'"&gt;&lt;span style="color: #202124"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 16px; font-family: 'Roboto','Helvetica Neue','sans-serif'"&gt;&lt;span style="color: #202124"&gt;Znáte ten pocit, když se vám začne dařit, a pak se během chvilky něco pokazí? Přesně to se stalo mně.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 16px; font-family: 'Roboto','Helvetica Neue','sans-serif'"&gt;&lt;span style="color: #202124"&gt;Dostal jsem nabídku, která přichází jednou za život, a o pár minut později jsem se octl pod autem jednoho arogantního týpka. Doufal jsem, že už ho nikdy neuvidím, ale osud s námi měl jiné plány.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 16px; font-family: 'Roboto','Helvetica Neue','sans-serif'"&gt;&lt;span style="color: #202124"&gt;Je namyšlený, drzý a vzteklý nejspíš na celý svět.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 16px; font-family: 'Roboto','Helvetica Neue','sans-serif'"&gt;&lt;span style="color: #202124"&gt;Nesnáším ho.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 16px; font-family: 'Roboto','Helvetica Neue','sans-serif'"&gt;&lt;span style="color: #202124"&gt;Zároveň nemůžu popřít, že mě přitahuje.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 16px; font-family: 'Roboto','Helvetica Neue','sans-serif'"&gt;&lt;span style="color: #202124"&gt;A potom, když se málem porveme, dojde k něčemu, co jsem vůbec nečekal…&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>David Kaps</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>MM</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:47:30+00:00"/>
+        <meta name="calibre:title_sort" content="Srážka"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

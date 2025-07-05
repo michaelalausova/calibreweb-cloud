@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2dc822d5-7a8b-4f6a-b874-af9f5a7969ae</dc:identifier>
+        <dc:title>Proradná kráska</dc:title>
+        <dc:creator opf:file-as="Robert, Katee" opf:role="aut">Katee Robert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-21T22:00:00+00:00</dc:date>
+        <dc:description>Nikdy nebyla určena nám.V Olympu buď máte moc… nebo jste ovládáni. Achilles Kallis se možná narodil chudý, ale už v dětství si přísahal, že se vyškrábe až do jedovaté elity v centru města. Nyní se otevřela kýžená pozice, kterou může získat každý, kdo bude dostatečně silný. Turnaje se Achilles chce zúčastnit se svým partnerem Patroklem Fotem, aby měl dvojnásobnou šanci na vítězství.Ani jeden z nich nečeká, že se nechvalně proslulá kráska Helena Kasiosová stane součástí hlavní ceny… nebo že v nich svým prvním pohledem zažehne neuchopitelný žár.Zeus se rozhodl, že Heleně sám určí manžela, ale ona má jiné plány. Vzdor vměšování Třináctky se sama zapíše do soutěže a v podstatě usiluje o svou vlastní ruku. Někteří by ji však raději viděli v hrobě než mezi vládci města. Důvěřovat může jen těm, z nichž nedokáže spustit oči ani ruce – Achillovi a Patroklovi. Může však skutečně věřit, že pro ni chtějí to nejlepší, když je každý ukradený polibek jako bitevní pole?</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027723492</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Temný olymp"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:26:54+00:00"/>
+        <meta name="calibre:title_sort" content="Proradná kráska"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

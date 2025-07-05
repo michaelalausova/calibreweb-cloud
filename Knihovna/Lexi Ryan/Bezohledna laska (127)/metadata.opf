@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cafc7293-61a2-424c-845b-652d863cd997</dc:identifier>
+        <dc:title>Bezohledná láska</dc:title>
+        <dc:creator opf:file-as="Ryan, Lexi" opf:role="aut">Lexi Ryan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-25T14:47:35+00:00</dc:date>
+        <dc:description>Záchranáři mě našli v bezvědomí. Zbitou. Když jsem se probrala, nepamatovala jsem si poslední tři roky. Řekli mi, že mi to udělal můj snoubenec Colton. Je mi jedno, jestli se mi někdy vrátí vzpomínky... dokud se na prahu mých dveří neobjeví sexy cizinec. Levi Jackson je nejlepší kamarád mého snoubence, ale když ho vidím, něco ve mně vzplane. Vracím se do Jackson Harbor, abych našla odpovědi. A útočiště hledám v Leviho náručí. A uvědomím si, že někdy vás pravda neosvobodí. Někdy vás může zničit.</dc:description>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Chlapci z Jackson Harbor"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:26:16+00:00"/>
+        <meta name="calibre:title_sort" content="Bezohledná láska"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

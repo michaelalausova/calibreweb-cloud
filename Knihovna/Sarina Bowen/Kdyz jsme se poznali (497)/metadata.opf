@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39efbe2d-bc78-4698-b489-6be81164a221</dc:identifier>
+        <dc:title>Když jsme se poznali</dc:title>
+        <dc:creator opf:file-as="Bowen, Sarina" opf:role="aut">Sarina Bowen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-25T22:00:00+00:00</dc:date>
+        <dc:description>Sportu, který miluje, se nebude moct věnovat. Chlapec, do něhož se zamilovala, má jinou. Co teď?Corey Callahanová předpokládala, že na Harknesskou univerzitu nastoupí jako členka univerzitního hokejového týmu. Po vážné nehodě jí však nezbývá než se pustit do studia v invalidním vozíku.Naproti přes chodbu v bezbariérové koleji bydlí Adam Hartley, další, kdo se měl původně stát univerzitní hokejovou hvězdou, avšak nyní tento až příliš pohledný kluk čeká, až se mu zahojí zlomená noha. Corey na něj nemá.Adam je navíc zadaný.Mezi Corey a Adamem vznikne na chodbách McHerrinovy koleje přátelství, které ani jeden z nich nečekal. Nad tequilou, pečlivě vybalancovanými jídelními tácy a videohrami se společně snaží smířit se zklamáním, jemuž nikdo jiný nerozumí.Jsou jen přátelé, až jedné noci… nejsou jen přátelé. A Corey si uvědomí, že se zamilovala. Těžce.Bude však Adam ochotný rozejít se s dokonalou přítelkyní, aby mohl milovat někoho tak rozbitého jako Corey? Pokud ne, Corey ví, že si bude muset vybudovat na Harknesské univerzitě jiný život, který se nebude točit kolem sportu, ani kolem hnědookého kluka, jenž se možná příliš bojí ji milovat.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026915232</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="The Ivy Years"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:41:26+00:00"/>
+        <meta name="calibre:title_sort" content="Když jsme se poznali"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

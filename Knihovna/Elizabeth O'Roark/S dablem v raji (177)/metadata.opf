@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83617917-30e6-42aa-a95f-1cd519175e90</dc:identifier>
+        <dc:title>S ďáblem v ráji</dc:title>
+        <dc:creator opf:file-as="O'Roark, Elizabeth" opf:role="aut">Elizabeth O'Roark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-15T09:29:22+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Drew Wilsonové se hroutí život, takže když ji její expřítel Joel požádá, aby s ním jela na rodinný výlet na Havaj, rozhodne se to s ním ještě jednou zkusit. Jenže do rodiny Baileyových patří i jeho neurvalý starší bratr Joshua – sexy doktor, který Drew nesnáší od chvíle, kdy se poznali. Drew je odhodlaná dát vztahu s Joelem skutečnou šanci, Joshua jí to však ztěžuje. Nejen tím, že se jí na každém kroku staví do cesty, ale i proto, že ji nutí přemýšlet, jestli právě on není bratr, ke kterému patří.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788024953632</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Hrátky s ďáblem"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:28:15+00:00"/>
+        <meta name="calibre:title_sort" content="S ďáblem v ráji"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

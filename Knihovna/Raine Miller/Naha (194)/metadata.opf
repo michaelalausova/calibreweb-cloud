@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da1ec826-e9ef-402f-8382-95d65051d923</dc:identifier>
+        <dc:title>Nahá</dc:title>
+        <dc:creator opf:file-as="Miller, Raine" opf:role="aut">Raine Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-22T22:00:00+00:00</dc:date>
+        <dc:description>Američanka Brynne Bennettová, studentka výtvarného umění na Londýnské univerzitě, si občas přivydělává jako modelka a veškerý svůj čas dělí mezi školu a práci. Když si úspěšný britský podnikatel Ethan Blackstone koupí její nahý portrét, Brynne zjistí, že tento muž odmítá brát „ne“ jako odpověď. Touží po ní, chce ji mít ve své posteli, a když ji získá, udělá vše, aby si ji udržel. Ethanova dominantní povaha Brynne okouzluje a přitahuje, a to navzdory traumatům, která si v sobě mladá žena nese. Není však jediná, kdo má v jejich vztahu tajemství. Velké tajemství. Dokáže Ethan zbavit dívku jejích démonů? Dovolí mu to Brynne, nebo je přízraky minulosti oba zničí?&amp;#13;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788073847357</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Aféra Blackstone"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:28:56+00:00"/>
+        <meta name="calibre:title_sort" content="Nahá"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

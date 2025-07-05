@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a8e8067-a1b7-4023-9b0c-cc0bc1e493c6</dc:identifier>
+        <dc:title>Rod země a krve</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-30T19:31:02+00:00</dc:date>
+        <dc:description>Bryce měla perfektní život, skvělou práci a na programu jeden legendární večírek za druhým, jenže pak démon zavraždil její přátele a ona zůstala sama a zlomená. Když údajný zabiják skončí za mřížemi, ale zločiny pokračují, Bryce se pustí do vyšetřování. A hodlá se pomstít. Spolu s Huntem, padlým andělem obdařeným brutální silou, sestoupí do podsvětí města, které rozežírá temnota. Dokážou se zlu postavit dřív, než pohltí vše, na čem jim kdy záleželo?</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Půlměsíční město"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:30:42+00:00"/>
+        <meta name="calibre:title_sort" content="Rod země a krve"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

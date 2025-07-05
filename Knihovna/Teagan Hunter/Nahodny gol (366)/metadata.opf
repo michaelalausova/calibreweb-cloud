@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41ad47a2-7e56-449a-9b06-af5d7dd49b4f</dc:identifier>
+        <dc:title>Náhodný gól</dc:title>
+        <dc:creator opf:file-as="Hunter, Teagan" opf:role="aut">Teagan Hunter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-21T22:00:00+00:00</dc:date>
+        <dc:description>Teagan Hunter – Náhodný gól</dc:description>
+        <dc:publisher>Zelený Kocúr</dc:publisher>
+        <dc:identifier opf:scheme="URN">ISBN 978-80-69010-15-4</dc:identifier>
+        <dc:language>slk</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Carolina Comets"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:35:45+00:00"/>
+        <meta name="calibre:title_sort" content="Náhodný gól"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

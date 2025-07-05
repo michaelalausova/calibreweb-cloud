@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90c47388-682f-4305-ac1c-9fd80ab64414</dc:identifier>
+        <dc:title>Bentley</dc:title>
+        <dc:creator opf:file-as="Moreland, Melanie" opf:role="aut">Melanie Moreland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Tři mladí muži se seznámí na univerzitě, kde také začne jejich celoživotní přátelství.
+&lt;br&gt;
+&lt;br&gt;Minulost diktuje to, jací muži to jsou, současnost však formuje jejich budoucnost.
+&lt;br&gt;
+&lt;br&gt;Co se stane, když se každý z těchto mužů setká s tou jedinou osobu, která je mu předurčena? Dokážou se svými city bojovat a odejít? Nebo jeden po druhém podlehnou a poznají sladkou bolest lásky?
+&lt;br&gt;
+&lt;br&gt;Vůdce skupiny Bentley je upjatý, formální a chladný. Nesmlouvavý a dávno usedlý, jeho cesty se vždy ubírají stejným směrem. Až do dne, když narazí „na ni“. Na Emmy. Ta mu do života vnáší spontánnost a světlo. Svět, v němž žije, je od jeho světa naprosto odlišný, tu přitažlivost však nedokáže ovládnout. Stejně tak nedokáže vysvětlit, jak se díky ní cítí.
+&lt;br&gt;
+&lt;br&gt;Šťastně.
+&lt;br&gt;
+&lt;br&gt;Ochranářsky.
+&lt;br&gt;
+&lt;br&gt;Milovaně.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">aa531674-9e8a-40df-ab71-10799db452d0</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Vested Interest"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:28:40+00:00"/>
+        <meta name="calibre:title_sort" content="Bentley"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

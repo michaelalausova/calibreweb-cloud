@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">529d102f-b8dc-4dcb-950c-50f99cc61f72</dc:identifier>
+        <dc:title>Polibek bez duše</dc:title>
+        <dc:creator opf:file-as="Armentrout, Jennifer L." opf:role="aut">Jennifer L. Armentrout</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-30T21:00:00+00:00</dc:date>
+        <dc:description>Jediný polibek může zabít.&amp;#13;
+Layla touží vést normální život teenagera. Chce trávit čas ve škole s kamarády a chodit na rande. Je ale jiná než ostatní a její celoživotní láska, adoptivní bratr Zayne, s ní jedná jako s malou sestřičkou. Zayne je součástí klanu Strážců, kteří byli shůry pověřeni lovem démonů a obranou lidstva. Layla je napůl Strážce, napůl démon a je obdařena výjimečnými schopnostmi.&amp;#13;
+Její polibek má navíc smrtící účinky na každého, kdo má duši.&amp;#13;
+Na scénu vstupuje Roth, výřečný a sebevědomý démon, který Laylu vyvádí z míry, protože zná její nejhlubší tajemství. Roth je šarmantní, pohledný a sexy. Pro Laylu je proto čím dál obtížnější držet si ho od těla a nevěřit jeho slovům, která do jejího života vnášejí pochyby. Démoni navíc nemají duši… Layla stojí před obtížnou volbou, která se jí může stát osudnou.&amp;#13;
+Starosti s polibkem jdou stranou ve chvíli, kdy se na obzoru začne rýsovat povstání démonů, které může narušit rovnováhu života na Zemi. A Layla ví, že musí udělat vše pro to, aby povstání zabránila, a to i za cenu oběti a zrady vlastní rodiny.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ King Cool 2022</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027702190</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Dark elements"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:42:53+00:00"/>
+        <meta name="calibre:title_sort" content="Polibek bez duše"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

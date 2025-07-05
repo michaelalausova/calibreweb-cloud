@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2967b642-aef1-4536-b76a-4d2942fb3bc1</dc:identifier>
+        <dc:title>Zúčtování s ďáblem</dc:title>
+        <dc:creator opf:file-as="O'Roark, Elizabeth" opf:role="aut">Elizabeth O'Roark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-08T19:18:55+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Na rameni mi sedí ďábel a každé pondělní ráno mi šeptá do ucha neslušné návrhy. Návrhy, které ignoruju… protože se všechny týkají Bena Tatea – mého kolegy, zloděje klientů a soka. Každé zatracené pondělí proti mně sedí na poradě s tím svým samolibým úsměvem a ztělesňuje vše, co nenávidím. Snažím se mu vyhýbat, jenže když do firmy přijde velký případ – takový, který by mohl změnit jeho i mou kariéru –, udělám výjimku. Znamená to víkendy a večery po jeho boku. Znamená to snášet jeho úšklebky a chytrácké řeči a nikdy mu nepodlehnout. Až do noci, kdy Ben řekne: „Prosím.“ A ďábel na mém rameni se rozhodne vznést pár vlastních požadavků.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Hrátky s ďáblem"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:28:18+00:00"/>
+        <meta name="calibre:title_sort" content="Zúčtování s ďáblem"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da5b1fdb-4a5d-4658-bc84-a63ed17150de</dc:identifier>
+        <dc:title>Tisíc kousků tebe</dc:title>
+        <dc:creator opf:file-as="Gray, Claudia" opf:role="aut">Claudia Gray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Je odsouzena opakovat stejnou chybu znovu a znovu? Rodiče Marguerity Cainové jsou geniální vynálezci, jejichž poslední vynález – Ohnivák – umožňuje pohybovat se mezi alternativními realitami. Někdo zabil jejího otce a Marguerita je rozhodnutá vypátrat vraha za každou cenu. Světy, které se před ní otevřely, ji ale nutí pochybovat o všem: o vlastní vině i vlastních citech. A v každé verzi sebe sama se zaplétá do milostné aféry, které nedokáže odolat, přestože je nebezpečná.&lt;/p&gt;</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Sci-fi</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Ohnivák"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:37:09+00:00"/>
+        <meta name="calibre:title_sort" content="Tisíc kousků tebe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

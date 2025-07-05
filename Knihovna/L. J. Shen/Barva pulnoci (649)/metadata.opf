@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a13176f9-7fbf-45af-9c46-70893922d4d2</dc:identifier>
+        <dc:title>Barva půlnoci</dc:title>
+        <dc:creator opf:file-as="Shen, L. J." opf:role="aut">L. J. Shen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Indigo Bellamyová je pro svou novou práci jako stvořená. Je zodpovědná, optimistická, nevinná. Mělo jí dojít, že práce osobní asistentky slavného rockera nebude procházka růžovým sadem.
+&lt;br&gt;
+&lt;br&gt;Alex Winslow je rocková hvězda. Nespoutaný Brit, který svádí ženy očima v barvě whisky a láme srdce na počkání.
+&lt;br&gt;
+&lt;br&gt;Celosvětové turné. Tři měsíce. Čtyři kontinenty. Sto koncertů.
+&lt;br&gt;
+&lt;br&gt;Indigo zaprodala svou duši potetovanému bohovi rocku. Jenže Alexi Winslowovi její duše nestačí. Chce i její tělo a srdce.&lt;/p&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:47:56+00:00"/>
+        <meta name="calibre:title_sort" content="Barva půlnoci"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

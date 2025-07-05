@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "FLASK_APP": "cps.py"
+    }
+  },
+  "deploy": {
+    "startCommand": "python3 cps.py"
+  }
+}

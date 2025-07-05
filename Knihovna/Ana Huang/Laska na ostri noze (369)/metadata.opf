@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">054969e4-cf91-479b-97e0-c9077f44a5db</dc:identifier>
+        <dc:title>Láska na ostří nože</dc:title>
+        <dc:creator opf:file-as="Huang, Ana" opf:role="aut">Ana Huang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Má srdce z ledu... ale pro ni by spálil celý svět.
+Alex Volkov je ďábel s tváří anděla a s prokletou minulostí, jíž nemůže uniknout.
+Jeho úsilí je poháněno tragédií, která ho pronásleduje po většinu života, a jeho bezohledná honba za úspěchem a pomstou mu nechává jen málo prostoru pro srdeční záležitosti.
+Když je však okolnostmi přinucen postarat se o sestru svého nejlepšího přítele, začne na hrudi cítit něco nečekaného:
+Prasklinu.
+Tání.
+Oheň, který by mohl jeho svět převrátit vzhůru nohama.
+Ava Chenová je svobodná duše uvězněná nočními můrami pocházejícími z dětství, na které si nevzpomíná.
+Navzdory své zlomené minulosti však nikdy nepřestala vidět na světě krásu... včetně srdce pod ledovou slupkou muže, jehož by nikdy neměla chtít.
+Je to nejlepší kamarád jejího bratra.
+Její soused.
+Její zachránce i její zkáza.
+Ti dva se do sebe nikdy neměli zamilovat – ale když se to stalo, na světlo světa vyšla tajemství, která by mohla zničit vše, co je jim drahé.
+Twisted Love je román o tom, jak se protiklady přitahují, a má v sobě prvek napětí. Jedná se o první knihu ze série Twisted, ale lze ji číst i samostatně.</dc:description>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Twisted Games"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:35:54+00:00"/>
+        <meta name="calibre:title_sort" content="Láska na ostří nože"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

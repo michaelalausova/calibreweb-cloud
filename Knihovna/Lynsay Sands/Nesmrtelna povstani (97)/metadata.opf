@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4401ac2-514a-4cae-a4cf-14b1f15f0b5b</dc:identifier>
+        <dc:title>Nesmrtelná povstání</dc:title>
+        <dc:creator opf:file-as="Sands, Lynsay" opf:role="aut">Lynsay Sands</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">3903a94f-73d8-429a-b188-386c683eb723</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Urban fantasy</dc:subject>
+        <meta name="calibre:series" content="Argeneau"/>
+        <meta name="calibre:series_index" content="34"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:24:28+00:00"/>
+        <meta name="calibre:title_sort" content="Nesmrtelná povstání"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

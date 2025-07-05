@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30a31067-f8e6-490d-8094-715b9e63eac4</dc:identifier>
+        <dc:title>Ďábel a světice - část první</dc:title>
+        <dc:creator opf:file-as="Jones, Amo" opf:role="aut">Amo Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-03T22:00:00+00:00</dc:date>
+        <dc:description>Saint byly dva roky, když ji Brantley zachránil. Vzpomíná si na bledého kluka s inkoustově tmavými vlasy, který jí slíbil, že ji ochrání. Jenom netušila, že tím myslel před svým otcem i před sebou samým. Vyrůstala v náručí zla, stvořená pro ďábla jako oblek na míru. Brantley si myslel, že když bude Saint skrývat ve svém strašidelném sídle, ochrání ji před světem. To však platilo jen do jisté doby. 
+Saint je krásná a čistá jako porcelánová panenka, taky však stejně křehká. Brantley ví, že by ji svým dotekem pošpinil, zároveň ale nedovolí, aby se k ní přiblížil kdokoli jiný. Držet ji dál pod zámkem už ovšem není možné. 
+Zatímco si Saint pomalu zvyká na život mezi členy Elitního klubu králů a na temný svět, jemuž tito zlosyni v obleku vládnou, zjistí, že netvor, jehož se všichni obávají, je právě ten, po němž touží.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026918738</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Dark romance</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Elitní klub králů"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:34:32+00:00"/>
+        <meta name="calibre:title_sort" content="Ďábel a světice - část první"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

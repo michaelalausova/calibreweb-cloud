@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1258e4e3-fb4a-482c-977d-59b3dcf15676</dc:identifier>
+        <dc:title>Krutý ráj</dc:title>
+        <dc:creator opf:file-as="Geissinger, J. T." opf:role="aut">J. T. Geissinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-16T22:00:00+00:00</dc:date>
+        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Nádherně krutý"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:37:33+00:00"/>
+        <meta name="calibre:title_sort" content="Krutý ráj"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5feec6e-3ee2-4705-b871-cc26a6be888e</dc:identifier>
+        <dc:title>Zmetek</dc:title>
+        <dc:creator opf:file-as="Kennedy, Elle" opf:role="aut">Elle Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-13T22:00:00+00:00</dc:date>
+        <dc:description>Už jen ta jobovka, že si vaše máma bere cizího bohatého chlápka, s nímž jste se v životě nesetkali, by byla na kteréhokoli osmnáctiletého kluka moc. Jenže pro RJe Shawa to není jediná špatná zpráva dne: Do čtvrtého ročníku má nastoupit na Akademii Sandover. Jestli nějaký zmetek a hacker jako RJ někam nepatří, je to luxusní chlapecká internátní škola pro bohaté delikventy.
+RJ ví, že jeho pobyt v Sandoveru brzy skončí, proto nemá cenu hledat si přátele, nebo se snažit zapadnout. Když však v lese u školy potká krásnou dívku, plány na to, že se bude raději držet stranou, vezmou za své.
+Sloane Tresscottová s ostrým jazykem a maskou ledové princezny pro něj představuje čiré pokušení. Je tu však jeden háček. RJ se Sloane nesmí ani dotknout, protože je dcerou ředitele.
+Dobře, že RJ na pravidla nevěří. Sloane sice tvrdí, že na kluky letos zanevřela, ani ona však nemůže popřít, že mezi ní a RJem něco je.
+RJ ji chce a získá ji, i kdyby ho to mělo zabít. Pokud ho dřív nezabije její bývalý přítel.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026920748</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Prep"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:08+00:00"/>
+        <meta name="calibre:title_sort" content="Zmetek"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

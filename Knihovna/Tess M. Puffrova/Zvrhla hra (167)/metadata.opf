@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa59dfb4-c950-46e4-872d-06ce4159df59</dc:identifier>
+        <dc:title>Zvrhlá hra</dc:title>
+        <dc:creator opf:file-as="Puffrová, Tess M." opf:role="aut">Tess M. Puffrová</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-01T22:00:00+00:00</dc:date>
+        <dc:description>Lana:Pro někoho je americký fotbal jen hra, na kterou se rádi podívají v televizi. Ale pro jiné je to něco mnohem víc. Důvod, proč ráno vstát z postele, proč chodit, proč dýchat. Smysl života. Miluju fotbal a mým snem je stát se uznávanou sportovní reportérkou.Své studium a všechny snahy však dám všanc, když udělám jednu neodpustitelnou chybu – nechám se svést nejlepším hráčem, kterého naše univerzita kdy měla. Dlouho byl mým idolem, ale teď se z něj stal nepřítel číslo jedna. Protože on i ostatní kluci z nechvalně známého spolku AΩM rozjeli hnusnou hru. A já nebyla ničím víc než ubohými třiceti body.Dylan:Zasvětil jsem celej život fotbalu, ale moje vyhlídky na budoucnost v NFL jsou ohrožený kvůli jedný všetečný šťouralce. A to jenom proto, že se mi šikla do hry. Ani omylem jsem ji nemusel nutit, jenže to moje bratry nezajímá. Chtějí jen, abych ji umlčel a přestala nás obtěžovat. Za každou cenu.Jenže ona nám vyhlásila válku a chce nás potopit, ať to stojí, co to stojí. Výhrůžky na ni neplatí.Měl bych se od ní držet dál, ale nějak nedokážu myslet hlavou…</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027742547</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Alfa a Omega"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:27:53+00:00"/>
+        <meta name="calibre:title_sort" content="Zvrhlá hra"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

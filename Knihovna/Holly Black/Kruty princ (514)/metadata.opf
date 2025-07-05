@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4dd653f1-256d-478f-beb9-c3608572e792</dc:identifier>
+        <dc:title>Krutý princ</dc:title>
+        <dc:creator opf:file-as="Black, Holly" opf:role="aut">Holly Black</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-13T17:24:33+00:00</dc:date>
+        <dc:description>Jude bylo sedm, když jí zabili rodiče a unesli spolu se sestrami na proradný dvůr víl. O deset let později ale netouží Jude po ničem jiném než patřit mezi víly. A to i přes to, že je smrtelná. Většina víl lidmi pohrdá a nejvíce podlý princ Cardan. Aby Jude získala vysněné místo u dvora, musí se princi postavit. Zaplete se však do intrik, a když hrozí, že násilí zničí slavný dvůr, rozhodne se pro pochybné spojenectví, které ji může stát život.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Dobrodružné</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Férská sága"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:42:13+00:00"/>
+        <meta name="calibre:title_sort" content="Krutý princ"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

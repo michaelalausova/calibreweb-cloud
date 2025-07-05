@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">76</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52fb4d60-5459-4855-a7f3-2c9119c1c9d8</dc:identifier>
+        <dc:title>Bane: Prokletá láska</dc:title>
+        <dc:creator opf:file-as="Shen, L. J." opf:role="aut">L. J. Shen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-23T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Bane&lt;br /&gt;
+Nestoudný surfař. Hulič. Podfukář, lhář, zloděj a podvodník.&lt;br /&gt;
+Naposledy, když jsem o něm slyšela, vydíral boháče a spal s jejich manželkami.&lt;br /&gt;
+To byl ten důvod, proč jsem byla víc než jen trochu překvapená, když jsem ho našla stát na svém prahu, když prosil o mé přátelství, o mé služby. A co mě zmátlo úplně nejvíc? Vypadal u toho tak pokorně.&lt;br /&gt;
+Jenže já jsem ho chtěla vymazat ze svého života. Natrvalo.&lt;br /&gt;
+Problém je v tom, že jsem propadla jeho sladkým lžím…  &lt;/p&gt;
+&lt;p&gt;Jesse Carterová&lt;br /&gt;
+Zatraceně žhavá, a přitom studená jako led.&lt;br /&gt;
+Neměl jsem ponětí o její existenci, dokud mi v klíně nepřistála výhodná nabídka.&lt;br /&gt;
+Ona je její součástí.&lt;br /&gt;
+Je prostředkem k dosažení cíle a bonusem k uzavřený dohodě s jejím nevlastním otcem, ropným magnátem.&lt;br /&gt;
+Víc než cokoliv jinýho, je ale Jesse Carterová tvrdej oříšek.&lt;br /&gt;
+Ale já jsem odhodlanej ho rozlousknout…&lt;/p&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Hříšníci"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:22:38+00:00"/>
+        <meta name="calibre:title_sort" content="Bane: Prokletá láska"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3bf46724-1065-4d88-9ba8-c2dff8b14bc2</dc:identifier>
+        <dc:title>Hry na ostří nože</dc:title>
+        <dc:creator opf:file-as="Huang, Ana" opf:role="aut">Ana Huang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ta dívka mu nikdy nemůže patřit... to ho však nedokáže zastavit.
+Stoický, zádumčivý a arogantní elitní bodyguard Rhys Larsen má dvě pravidla: 1) Chránit své klienty za každou cenu. 2) Nezaplést se s nimi citově. Nikdy.
+A ještě nikdy nebyl v pokušení tato pravidla porušit... až doposud.
+Bridget von Ascheberg. Princezna, která je přinejmenším stejně tak tvrdohlavá jako on sám, se skrytým ohněm, který má tu moc proměnit jeho pravidla na popel. Není ničím, co očekával, a vším, o čem nikdy nevěděl, že potřebuje.
+Den po dni, centimetr po centimetru, boří ta žena jeho obranu, dokud není konfrontován s pravdou, kterou už nemůže popřít: přísahal, že ji bude chránit, ale jediné, co chce, je zničit ji. Vzít si ji.
+Protože ona musí být jeho.
+Jeho princezna.
+Jeho zakázané ovoce.
+Jeho zvrhlá fantazie.</dc:description>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Twisted Games"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:35:59+00:00"/>
+        <meta name="calibre:title_sort" content="Hry na ostří nože"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

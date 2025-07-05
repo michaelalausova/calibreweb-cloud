@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72678d50-03fa-4d75-b839-16f62d832986</dc:identifier>
+        <dc:title>Miluji tě, nenávidím tě</dc:title>
+        <dc:creator opf:file-as="Lauren, Christina" opf:role="aut">Christina Lauren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-01T22:00:00+00:00</dc:date>
+        <dc:description>Carter a Evie se seznámí na trapném halloweenském večírku a okamžitě si padnou do oka. A ani fakt, že oba pracují na vysokých pozicích konkurenčních hollywoodských společností, nijak nezmenší jejich vzájemnou fyzickou přitažlivost. Když se ale jejich agentury sloučí a na dané pracovní pozici může zůstat jen jeden z nich, vše jde okamžitě stranou. To, co mohl být nádherný romantický vztah, se rychle promění ve válku bez pravidel.
+Může se Carter přestat snažit zalíbit se všem a prohlédnout hru své šéfové? Může Evie zkrotit svou soutěživou povahu, aby mohla konečně zjistit, co od života doopravdy chce? Mohou tito zamilovaní nepřátelé skončit jako šťastný pár, nebo to celé skončí katastrofou a minimálně jedním zlomeným srdcem?
+ 
+V lásce a v práci je dovoleno vše.
+ 
+***
+ 
+„Napěchované skvělými vylomeninami, popkulturními referencemi a úsměvným flirtováním, je to romantický příběh jako stvořený pro 21. století.“
+Kirkus Reviews
+ 
+„Ohromně zábavné a vtipné. Je to nesmírně příjemný a zároveň dráždivý milostný román.“
+The Washington Post</dc:description>
+        <dc:publisher>Nakladatelství JOTA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788075653260</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:50:12+00:00"/>
+        <meta name="calibre:title_sort" content="Miluji tě, nenávidím tě"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

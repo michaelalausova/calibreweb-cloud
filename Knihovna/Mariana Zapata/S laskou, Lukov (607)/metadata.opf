@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d82a5aa3-78ac-4b59-a16f-fe3ee0779a28</dc:identifier>
+        <dc:title>S láskou, Lukov</dc:title>
+        <dc:creator opf:file-as="Zapata, Mariana" opf:role="aut">Mariana Zapata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-15T10:35:09+00:00</dc:date>
+        <dc:description>Kdyby někdo Jasmine Santosovou požádal, aby popsala posledních pár let svého života jediným slovem, určitě by bylo sprosté. Po sedmnácti letech – a bezpočtu zlomených kostí – ví, že její šance uspět v krasobruslařských soutěžích jsou mizivé. Vše se ale může změnit s životní nabídkou od arogantního idiota, kterého má už dlouhou dobu chuť strčit pod rozjetý autobus. Jasmine tak možná bude muset přehodnotit úplně všechno, včetně názoru na Ivana Lukova.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:46:13+00:00"/>
+        <meta name="calibre:title_sort" content="S láskou, Lukov"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0227ccb-0d34-4678-a30a-df7174633a5d</dc:identifier>
+        <dc:title>Všechno, co jsme ztratili</dc:title>
+        <dc:creator opf:file-as="Bright, Jennifer" opf:role="aut">Jennifer Bright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-20T23:00:00+00:00</dc:date>
+        <dc:description>JSI DOBRÁ. LEPŠÍ, NEŽ SI MYSLÍŠ.Sebevědomá, silná, vždy s úsměvem na tváři – taková se zdá být studentka Hope. A to jenom proto, že věnovala obrovské úsilí, aby vypilovala, jak působit navenek. Aby se vyhnula otravným otázkám na svůj rodinný život, drží si už dlouho odstup od lidí.Při své práci v londýnské kavárně ale Hope narazí na stále veselého Yeonjuna a spřátelí se s ním.Víc by si nikdy nedovolila. Neodváží se pustit si ho blíž k tělu, i když k němu chová silné city a ani on to zjevně nemá jinak. Hope má zkrátka příliš velký strach, že by mladý muž mohl odhalit její tajemství. V tuto chvíli ovšem ještě netuší, že i on se pere se svým osudem, který mohou oba navždy změnit...</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027710560</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Láska a důvěra"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:41:02+00:00"/>
+        <meta name="calibre:title_sort" content="Všechno, co jsme ztratili"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

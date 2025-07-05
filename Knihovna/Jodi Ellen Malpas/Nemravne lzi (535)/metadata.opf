@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">535</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9025855-1ce8-4a58-9829-8afd827e7e09</dc:identifier>
+        <dc:title>Nemravné lži</dc:title>
+        <dc:creator opf:file-as="Malpas, Jodi Ellen" opf:role="aut">Jodi Ellen Malpas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-18T14:48:02+00:00</dc:date>
+        <dc:description>Když ambiciózní obchodnice se starožitnostmi Eleanor Coleová dostane životní šanci pracovat pro renomovanou společnost Hunt Corporation, neváhá ani vteřinu. Ke svému překvapení zjistí, že bude pracovat přímo s proslulým a naprosto neodolatelným Beckerem Huntem. Mužem pověstným tím, že vždy dostane, co chce. A Becker chce Eleanor. Jak ji však vtahuje do svého světa, mladá žena zjišťuje, že se v něm skrývá víc, než se na první pohled zdá. A podlehnout mu by bylo nejen pošetilé, ale i smrtelně nebezpečné…</dc:description>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Hunt Legacy Duology"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:05+00:00"/>
+        <meta name="calibre:title_sort" content="Nemravné lži"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

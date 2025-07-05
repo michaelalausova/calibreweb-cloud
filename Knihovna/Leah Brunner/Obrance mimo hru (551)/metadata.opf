@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">551</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42918905-4102-4539-becf-20cf175624b3</dc:identifier>
+        <dc:title>Obránce mimo hru</dc:title>
+        <dc:creator opf:file-as="Brunner, Leah" opf:role="aut">Leah Brunner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-24T23:00:00+00:00</dc:date>
+        <dc:description>Mitch je pořádně ostrý hokejový obránce, který prostě nedokáže udržet svou vznětlivost na uzdě. A to vede k zákazu hry na patnáct zápasů NHL. Jako by to nestačilo, musí dočasně zaskočit za trenéra juniorů. Hned při prvním tréninku vtrhne na led energická blondýnka, které je úplně jedno, že má co dělat s hokejovou hvězdou, a neváhá mu pěkně od plic vysvětlit, co si myslí o jeho trenérských schopnostech. Mitchova obrana přestává fungovat. Jiskří to mezi nimi totiž tak, že tají ledy…</dc:description>
+        <dc:publisher>Grada Publishing, a.s.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027173044</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:48+00:00"/>
+        <meta name="calibre:title_sort" content="Obránce mimo hru"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

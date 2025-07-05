@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2a10951-b6e3-4e71-b9e1-f49d5f104afe</dc:identifier>
+        <dc:title>Přísně tajné</dc:title>
+        <dc:creator opf:file-as="Bowen, Sarina &amp; Kennedy, Elle" opf:role="aut">Sarina Bowen</dc:creator>
+        <dc:creator opf:file-as="Bowen, Sarina &amp; Kennedy, Elle" opf:role="aut">Elle Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-30T23:00:00+00:00</dc:date>
+        <dc:description>HumříKraťasy, 21 letSportovec. Potají magor do přírodních věd. Zatraceně sexy.HumříKraťasy: Tak. Je to tady. K narozeninám by moje přítelkyně ráda trojku.Hříšník3: Tak to jsi na tý správný seznamce.HumříKraťasy: Už jsi nad tím někdy přemýšlel? Že by sis užil s jiným klukem?Hříšník3: Pořád. Jsem za rovný příležitosti. Co ty?HumříKraťasy: Ehm…Hříšník3, 21 letStudent oboru finance. Potají striptér. Zatraceně sexy.Hříšník3: Já bych to bral, jestli i ty. Můj život je teď tak trochu jeden velkej chaos. Škola, práce, stres s rodinou. Jo, a taky bydlím s tím nejotravnějším klukem na světě. Potřebuju rozptýlení. Určitě to tak chceš?HumříKraťasy: Možná to chci o něco víc, než by se mi chtělo přiznat.Hříšník3: Hele, posouvat hranice je fajn, na tom není nic špatnýho…HumříKraťasy:To říkej mýmu fotrovi, co potřebuje mít všechny pod palcem. A navíc co když bude ta trojka trapas?Hříšník3: Tak to bude trapas. Se přece pak už nikdy nemusíme vidět, ne? Hlavně mi slib, že se do mě nezamiluješ.HumříKraťasy: To by byla docela změna…</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026915119</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>MM</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:49:06+00:00"/>
+        <meta name="calibre:title_sort" content="Přísně tajné"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

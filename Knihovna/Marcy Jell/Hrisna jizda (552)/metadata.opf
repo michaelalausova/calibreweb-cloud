@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">552</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74dd1529-134b-4e66-9e67-d1bceb5c9588</dc:identifier>
+        <dc:title>Hříšná jízda</dc:title>
+        <dc:creator opf:file-as="Jell, Marcy" opf:role="aut">Marcy Jell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-15T00:00:00+00:00</dc:date>
+        <dc:description>Začtěte se do letních příběhů ze zakázaného, ale o to žhavějšího prostředí závodění a vysokých sázek za hranou zákona. Realita, do které se s hlavními hrdinkami ponoříte, vás pohltí. Svět opravdových a drsných mužů, kteří mají slabost pro rychlá kola, hazard a krásné ženy. Svět intrik a klamů, který ovládají peníze a moc. Nic není, jak se zdá, všechno má svou odvrácenou a nebezpečnou stranu. Tina i Madison o tom vědí své a obě musí najít způsob, jak tomu čelit. Jejich příběh ve vás zažehne hříšné myšlenky, temné jako noc na závodní dráze. Vůně benzínu a chtíče nenechá chladnou žádnou ženu. Pojďte zažít hříšnou jízdu, přeplněnou testosteronem, sexuálním napětím a kapkou romantiky. Je to návykové… Je to hříšné… Pohltí vás to…
+ 
+Doporučení: Dvě skleničky vychlazeného prosecca ke každé kapitole zmírňují pocity podráždění a chuť zabít hlavní hrdiny při vypjatých situacích!</dc:description>
+        <dc:publisher>MEDIAPLEX s.r.o.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:51+00:00"/>
+        <meta name="calibre:title_sort" content="Hříšná jízda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

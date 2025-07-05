@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60044d51-f43a-4482-b277-e0aa3676bcea</dc:identifier>
+        <dc:title>Navždy a věčně</dc:title>
+        <dc:creator opf:file-as="Armentrout, Jennifer L." opf:role="aut">Jennifer L. Armentrout</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-19T05:28:10+00:00</dc:date>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:45:23+00:00"/>
+        <meta name="calibre:title_sort" content="Navždy a věčně"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

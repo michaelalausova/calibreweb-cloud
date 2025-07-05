@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e60ee47-5ce0-4446-93d7-8bfc49da9e02</dc:identifier>
+        <dc:title>Vražedné kafe</dc:title>
+        <dc:creator opf:file-as="Cooper, Katy" opf:role="aut">Katy Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-15T00:00:00+00:00</dc:date>
+        <dc:publisher>MEDIAPLEX s.r.o.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Dobrodružné</dc:subject>
+        <meta name="calibre:series" content="Vražedná linie"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:56+00:00"/>
+        <meta name="calibre:title_sort" content="Vražedné kafe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

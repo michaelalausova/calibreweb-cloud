@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">471</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3667e956-ef39-461c-b9bc-6dff493a3e6d</dc:identifier>
+        <dc:title>Sňatková dražba</dc:title>
+        <dc:creator opf:file-as="Carlan, Audrey" opf:role="aut">Audrey Carlan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-02T10:36:18+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Co byste udělaly pro tři miliony dolarů? Čtyři mladé ženy se zúčastní tajné aukce, aby se provdaly za toho, kdo nabídne nejvyšší částku. Kvůli milionu dolarů ročně vypláceném po dobu tří let udělá každá z nich vše pro to, aby si zajistila budoucnost. Během téhle nebezpečné hry o peníze, chtíč, moc a naději na rozhřešení se mezi ženami vytvoří nevídané sesterské pouto. Jakmile si vás vybere muž, kterého jste nikdy neviděly, a vy souhlasíte s tím, že se za něj provdáte… není cesty zpět. Skrytá tajemství, hříšné touhy, ohnivá spojení a intenzivní rodinná dramata, to vše je součástí dohody, když dobrovolně vstoupíte do sňatkové dražby&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Sňatková dražba"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:40:20+00:00"/>
+        <meta name="calibre:title_sort" content="Sňatková dražba"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

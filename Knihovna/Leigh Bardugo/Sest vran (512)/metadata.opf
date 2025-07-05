@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">512</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25e6e7db-a823-4472-b984-d59dc255d8bd</dc:identifier>
+        <dc:title>Šest vran</dc:title>
+        <dc:creator opf:file-as="Bardugo, Leigh" opf:role="aut">Leigh Bardugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Za peníze se dá koupit všechno! Nebo aspoň to platí v Ketterdamu, ve kterém se nikdo nevyzná lépe, než Kaz Brekker, fenomenální podvodník a zloděj. A když se objeví neodolatelná zakázka? Je čas sehnat si pomocníky. Zloděj, trestanec, hazardní hráč, černá ovce rodiny, špionka a kráska-zabiják – šest nebezpečných psanců, kteří se pokusí dostat se do nejstřeženější pevnosti světa. Podaří se jim vyváznout se zdravou kůží?</dc:description>
+        <dc:publisher>Fragment</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c0d70db0-29ac-4155-874f-e74e6ce232a0</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Šest vran"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:42:08+00:00"/>
+        <meta name="calibre:title_sort" content="Šest vran"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

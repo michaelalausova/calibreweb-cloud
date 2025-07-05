@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">147e7dca-7ef2-4c30-a512-bc43264d3ddb</dc:identifier>
+        <dc:title>Kniha života</dc:title>
+        <dc:creator opf:file-as="Harkness, Deborah" opf:role="aut">Deborah Harkness</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-26T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Závěrečný díl světově úspěšné trilogie. Hlavní hrdinové a milenci, 
+čarodějnice Diana Bishopová a upír Matthew Clairmont, se vracejí v čase z
+ alžbětinského Londýna zpět do naší současnosti. Diana je těhotná a o to
+ víc odhodlaná bránit se proti těm, kteří chtějí ukrást a zneužít 
+tajemství objevené čarodějnicemi v dávných dobách a ukryté v tajemném 
+Ashmoleově svazku. Než se však Dianě a Matthewovi podaří odhalit obsah 
+tajného rukopisu alias Knihy života, musí uhájit i svůj zakázaný vztah.&lt;/p&gt;</dc:description>
+        <dc:publisher>Knižní klub</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788024251219</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Urban fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Čas čarodějnic"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:36:29+00:00"/>
+        <meta name="calibre:title_sort" content="Kniha života"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3edd36d8-f3bc-4318-85f7-441619b2724d</dc:identifier>
+        <dc:title>Dvůr trnů a růží</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-29T09:51:20+00:00</dc:date>
+        <dc:description>Když devatenáctiletá lovkyně Feyre zabije v lese vlka, zaútočí na ni podivný tvor. Odvleče ji do svého doupěte, které se ukáže být jiným světem. Tam zjišťuje, že tajemným únoscem je jedna z nesmrtelných bytostí, které kdysi vládly světu. Nenávist se postupně mění v lásku. Feyre čeká těžký úkol - musí přijít na způsob, jak zachránit tajuplný svět i svého únosce.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Dvůr trnů a růží"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:30:55+00:00"/>
+        <meta name="calibre:title_sort" content="Dvůr trnů a růží"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

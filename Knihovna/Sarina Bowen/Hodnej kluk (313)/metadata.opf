@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d086760b-6fff-4acf-9bde-293a9831f34d</dc:identifier>
+        <dc:title>Hodnej kluk</dc:title>
+        <dc:creator opf:file-as="Bowen, Sarina &amp; Kennedy, Elle" opf:role="aut">Sarina Bowen</dc:creator>
+        <dc:creator opf:file-as="Bowen, Sarina &amp; Kennedy, Elle" opf:role="aut">Elle Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-05T22:00:00+00:00</dc:date>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026907879</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="WAG's"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:40+00:00"/>
+        <meta name="calibre:title_sort" content="Hodnej kluk"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

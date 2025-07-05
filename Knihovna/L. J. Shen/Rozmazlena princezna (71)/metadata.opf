@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7f5f992-0121-42e8-aef4-84d4a6238dcd</dc:identifier>
+        <dc:title>Rozmazlená princezna</dc:title>
+        <dc:creator opf:file-as="Shen, L. J." opf:role="aut">L. J. Shen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-01T22:00:00+00:00</dc:date>
+        <dc:description>Penn 
+Říká se, že pomsta chutná nejlépe zastudena.
+Před čtyřmi lety mě Daria Followhillová zničila.
+Připravil jsem ji o její první polibek.
+Ona mě připravila o jedinou věc, kterou jsem kdy miloval.
+Já byl chudej.
+Ona bohatá.
+Jenže věci se můžou změnit. A to zatraceně rychle.
+Teď jsem její spolubydlící.
+A ona musí zaplatit za to, že zničila jedinou dobrou věc v mém životě.
+Daria Followhillová si vždycky myslela, že je královna. Pro mě ale není ničím jiným než rozmazlenou princezničkou.
+ 
+Daria
+Chovala jsem se jako mrcha. To přiznávám. Trousila jsem jedovaté komentáře, opovržlivě ohrnovala nos a nastavovala nohy svým protivníkům.
+Zašlapávala jsem jehlovými podpatky do země každého, kdo by mi mohl ublížit.
+Třeba Penna Scullyho. Probodla jsem mu srdce, nechala ho vykrvácet a pak ho vyhodila do odpaďáku.
+Před čtyřmi lety mě požádal, ať si pro něj šetřím všechna svoje poprvé.
+Teď bydlí na druhé straně chodby a já si nepřeju nic jiného než být tou poslední v jeho životě.
+Před lety mi řekl, že nic na tomhle světě není zadarmo.
+A teď je načase, abych zaplatila.
+Z cyklu Hříšníci : Nová generace (1)</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026916529</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Hříšníci - Nová generace"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:22:18+00:00"/>
+        <meta name="calibre:title_sort" content="Rozmazlená princezna"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

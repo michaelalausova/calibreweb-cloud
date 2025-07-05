@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">476</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59078c35-9d4a-4952-98a6-f212c1a1c94f</dc:identifier>
+        <dc:title>Manažer</dc:title>
+        <dc:creator opf:file-as="Callihan, Kristen" opf:role="aut">Kristen Callihan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-31T23:00:00+00:00</dc:date>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="VIP"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:40:32+00:00"/>
+        <meta name="calibre:title_sort" content="Manažer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

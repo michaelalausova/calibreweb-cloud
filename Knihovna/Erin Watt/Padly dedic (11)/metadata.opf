@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aebe9c61-2750-4b42-8fd4-b4264ab7b16f</dc:identifier>
+        <dc:title>Padlý dědic</dc:title>
+        <dc:creator opf:file-as="Watt, Erin" opf:role="aut">Erin Watt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-23T22:00:00+00:00</dc:date>
+        <dc:description>Easton Royal je bohatý, chytrý a sexy. Jediné, po čem v životě touží, je bavit se. Následky svých činů nikdy nedomýšlí, protože ani nemusí.
+Dokud se neobjeví Hartley Wrightová, která jeho bezstarostným životem otřese. Je jediná, která ho odmítla, přestože ji přitahuje. Easton se v ní nevyzná, a tím spíš jí nedokáže odolat.
+Hartley o něj nemá zájem. Tvrdí, že by měl nejdřív dospět.
+Možná má pravdu.
+Výčitky. Pravidla. Nepřátelé. Poprvé v životě Eastonovi jméno Royalů k ničemu není. A brzy zjistí, že čím výš začínáte, tím tvrději můžete spadnout.
+ 
+Kniha obsahuje i bonusovou novelu Poskvrněná koruna
+ 
+Gideon, nejstarší z bratrů Royalových, byl z nich vždy ten nejrozumnější a odjakživa se s láskou staral o matku i mladší sourozence. Jako všichni Royalové má ovšem i on svou temnou stránku a tajemství, které dlouho střežil a jež ho připravilo o Savanninu lásku.
+Savanna by na minulost po Gideonově boku nejradši zapomněla. Teď, když spolu obývají stejný kampus, to ale tak jednoduché není. Nemůže popřít, že ji Gideon stále přitahuje, na jeho zradu však zapomenout nedokáže.
+Získá Gideon její srdce? Přesvědčí Savannu, aby mu dala druhou šanci?</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026908937</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Royalové"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:18:01+00:00"/>
+        <meta name="calibre:title_sort" content="Padlý dědic"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

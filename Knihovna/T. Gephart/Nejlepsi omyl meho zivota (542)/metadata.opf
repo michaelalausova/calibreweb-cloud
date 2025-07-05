@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc2b5b61-1058-4567-8a51-3fc15fdb38ff</dc:identifier>
+        <dc:title>Nejlepší omyl mého života</dc:title>
+        <dc:creator opf:file-as="Gephart, T." opf:role="aut">T. Gephart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-16T17:45:11+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Jiskřivá romantická komedie plná vtipných dialogů a silných protagonistů, kteří se nebojí za sebe postavit a rozhodnout se podle svého srdce.&lt;/p&gt;
+&lt;p&gt;Zara nevěří na osudovou lásku. Láska přece není psaná ve hvězdách. A proroctví pouťové věštkyně o spřízněných duších, které si vyslechla jako malá holka, je jen dětská vzpomínka.&lt;/p&gt;
+&lt;p&gt;Když však o několik let později uslyší z nemocničních reproduktorů to jedinečné jméno, které jí bylo kdysi předpovězeno, dokonce ani skeptik jako ona se nedokáže ubránit zvědavosti.&lt;/p&gt;
+&lt;p&gt;A když se z neznámého muže vyklube vtipný, pohledný, inteligentní a úspěšný právník, nabízí se to vše přehodnotit. Ale je skutečně vším, co o sobě tvrdí? Nebo je příliš dokonalý, než aby to byla pravda? Šílená přitažlivost a nepopiratelné propojení tvoří společně smrtící kombinaci. A on je buď její jediná pravá láska, nebo největší omyl jejího života.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Nakladatelství JOTA</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:22+00:00"/>
+        <meta name="calibre:title_sort" content="Nejlepší omyl mého života"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">507</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6ee7d9b-556e-4148-adaa-ad0d553f412e</dc:identifier>
+        <dc:title>Ohnivá krev</dc:title>
+        <dc:creator opf:file-as="Blake, Elly" opf:role="aut">Elly Blake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>ces</dc:language>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Dobrodružné</dc:subject>
+        <meta name="calibre:series" content="Ledová krev"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:41:51+00:00"/>
+        <meta name="calibre:title_sort" content="Ohnivá krev"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

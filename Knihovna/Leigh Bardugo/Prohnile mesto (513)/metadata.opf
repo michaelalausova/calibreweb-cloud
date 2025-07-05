@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc9f8007-1a1a-465a-b58b-93fbe237af99</dc:identifier>
+        <dc:title>Prohnilé město</dc:title>
+        <dc:creator opf:file-as="Bardugo, Leigh" opf:role="aut">Leigh Bardugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Druhý díl oceňované fantasy série Šest vran od bestsellerové autorky Leigh Bardugo!Kazu Brekkerovi a jeho lidem se podařil nevídaný kousek, za který měli přislíbenou tučnou odměnu. Jenže místo toho, aby se o ni rozdělili, čekala na ně zrada. Proto musí napnout všechny své síly, aby získali to, co jim patří. V temných ulicích zkorumpovaného Ketterdamu se mezitím schyluje k válce. Nebezpečná smrtící droga jurda parem se tu stává předmětem boje o moc. Obstojí Kazova prohnanost proti nepřátelům a zůstanou mu jeho lidé vůbec věrni?&lt;/p&gt;</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788025337011</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Šest vran"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:42:10+00:00"/>
+        <meta name="calibre:title_sort" content="Prohnilé město"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

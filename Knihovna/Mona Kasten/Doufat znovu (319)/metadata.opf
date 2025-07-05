@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f406b62d-e0a7-4104-81cf-6017a748eebb</dc:identifier>
+        <dc:title>Doufat znovu</dc:title>
+        <dc:creator opf:file-as="Kasten, Mona" opf:role="aut">Mona Kasten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Everly Pennová nevěří na lásku. Celé roky musela přihlížet, jak její matka trpí otcovým násilnickým chováním a jak stále více ztrácí sebe samu. Zážitky z dětství ji natolik traumatizovaly, že se rozhodla nikdy nezamilovat. To se však změní, když potká Nolana Gatese. Nolan je okouzlující, inteligentní a sexy a je to jediný člověk, před nímž Everly může být sama sebou – bez masky, kterou nosí před ostatními. Ale Nolan je její vyučující. Je jedno, jak dobře si rozumí a jak moc ji dokáže rozesmát svým zvláštním humorem. Everly ví, že je pro ni absolutní tabu. A přesto je bezmocná proti pocitům, které v ní vyvolávají jeho slova. Noční rozhovory s ním jsou to jediné, co ji odvádí od temných myšlenek, které ji od dětství pronásledují a noc co noc jí nedovolují usnout. Jen jemu může říci, že vůbec neví, co chce od života, a že studuje jen proto, aby byla její matka šťastná. Čím více času ubíhá, tím intenzivnější spojení mezi nimi je a tím více si Everly přeje překročit neviditelnou hranici, která ji od Nolana odděluje. Ale netuší, že za Nolanovým optimistickým přístupem k životu a nakažlivým nadšením pro literaturu se skrývá jedno tajemství. A tohle tajemství může zničit jejich lásku ještě dříve než začala....</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Začít znovu"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:54+00:00"/>
+        <meta name="calibre:title_sort" content="Doufat znovu"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c7f8f69-c2e1-460a-96e6-b5b79b8d4ead</dc:identifier>
+        <dc:title>Šachmat</dc:title>
+        <dc:creator opf:file-as="Mathewson, R. L." opf:role="aut">R. L. Mathewson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T07:25:49+00:00</dc:date>
+        <dc:description>Rory nemůže Connora vystát a platí to i naopak. Ti dva si jdou po krku už od školních let, jenže zlomyslným hnutím osudu má teď Rory toho sexy parchanta nejen za souseda, ale dokonce s ním musí sdílet práci svých snů. V jejich rodném městě tak bude hodně dusno. Když se k sobě tihle dva přiblíží, může to skončit i vězením. Vypadá to, že oba chodí po světě jenom proto, aby se donekonečna vzájemně mučili. Dokážou srovnat všechny svoje rozepře a pochopí, že je to k sobě osudově přitahuje?</dc:description>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Žhavá pokušení"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:29:19+00:00"/>
+        <meta name="calibre:title_sort" content="Šachmat"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

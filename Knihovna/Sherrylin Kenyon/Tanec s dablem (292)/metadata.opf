@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2919a640-f7c6-4641-ae28-e56fe52bc09f</dc:identifier>
+        <dc:title>Tanec s ďáblem</dc:title>
+        <dc:creator opf:file-as="Kenyon, Sherrylin" opf:role="aut">Sherrylin Kenyon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-03T12:07:13+00:00</dc:date>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Noční lovci"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:32:46+00:00"/>
+        <meta name="calibre:title_sort" content="Tanec s ďáblem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

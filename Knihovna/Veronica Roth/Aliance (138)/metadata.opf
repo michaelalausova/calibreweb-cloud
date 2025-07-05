@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1f75308-d77b-4b54-bfa6-93477b3c76f6</dc:identifier>
+        <dc:title>Aliance</dc:title>
+        <dc:creator opf:file-as="Roth, Veronica" opf:role="aut">Veronica Roth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-15T12:01:42+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Na frakcích založená společnost, v níž Tris Priorová kdysi věřila, je v troskách – zničená násilím a mocenskými boji, zjizvená ztrátou a zradou. Když tedy dostane možnost prozkoumat venkovní svět, neváhá, je připravená. Třeba právě za plotem ona i Tobias naleznou společný lehčí život, svobodný od zbytečně komplikovaných lží, zamotaných vztahů a bolestných vzpomínek.
+&lt;br&gt;
+&lt;br&gt;Ale Trisina nová realita je mnohem alarmující než ta, co nechala za sebou. Staré objevy jsou rychle zbaveny své důležitosti. Výbušné nové pravdy mění srdce těch, které miluje. A Tris tak znovu musí bojovat, aby dokázala pochopit složitost lidské povahy – i své vlastní – zatímco čelí rozhodování o odvaze, oddanosti, obětavosti a lásce.
+&lt;br&gt;
+&lt;br&gt;Vyprávění ze dvou pohledů přivede sérii k silnému závěru a odhalí tajemství dystopického světa, jenž uchvátil miliony čtenářů.&lt;/p&gt;</dc:description>
+        <dc:publisher>Cooboo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788074474057</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WhtnygEACAAJ</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Dobrodružné</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Sci-fi</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Povstalecká trilogie"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:26:45+00:00"/>
+        <meta name="calibre:title_sort" content="Aliance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

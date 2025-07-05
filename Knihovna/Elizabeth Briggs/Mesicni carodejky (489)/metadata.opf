@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">489</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53c1eba3-cebf-4340-96db-2ece6395f030</dc:identifier>
+        <dc:title>Měsíční čarodějky</dc:title>
+        <dc:creator opf:file-as="Briggs, Elizabeth" opf:role="aut">Elizabeth Briggs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-02T22:00:00+00:00</dc:date>
+        <dc:publisher>Grada Publishing, a. s.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027173068</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Urban fantasy</dc:subject>
+        <meta name="calibre:series" content="Vlci zvěrokruhu"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:41:06+00:00"/>
+        <meta name="calibre:title_sort" content="Měsíční čarodějky"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47ab2b1b-0d81-4c71-8dd4-342c1dacbb9e</dc:identifier>
+        <dc:title>Bez zábran</dc:title>
+        <dc:creator opf:file-as="Swan, T. L." opf:role="aut">T. L. Swan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="description"&gt;Mým oblíbeným koníčkem je rozčilování Elliota Milese. Už jen pohled na šéfovu pohlednou tvář mě nutí k sarkastickému úšklebku. Bůhví, čím si vysloužil pověst Casanovy. Jak to, že po něm touží miliony žen i přes jeho děsnou povahu? Co sakra dělám špatně? &lt;br&gt;&lt;br&gt;Znechucená svým milostným životem se pod falešným jménem přihlásím do seznamovací aplikace a začnu si psát s mužem jménem Edgar. Není sice můj typ a žije někde na druhém konci světa, ale navážeme spolu přátelství, protože máme podobný smysl pro humor a můžeme se navzájem svěřovat. &lt;br&gt;&lt;br&gt;V poslední době se v práci dějí divné věci. Elliot je… pozorný. Jeho oči na mně pokaždé spočinou o něco déle, než by měly, a je za nimi žár, který jsem dřív necítila. A pak mi k mému neskonalému šoku řekne, že je pro něj moje zranitelnost přitažlivá. Jaká zranitelnost? &lt;br&gt;&lt;br&gt;Zmocňuje se mě panika. Četl snad e-maily, které posílám Edgarovi?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Metafora</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788076252356</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">61842573</dc:identifier>
+        <dc:identifier opf:scheme="DATABAZEKNIH">milesuv-klub-milesov-klub-bez-zabran-498305</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Miles High Club"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:20:02+00:00"/>
+        <meta name="calibre:title_sort" content="Bez zábran"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

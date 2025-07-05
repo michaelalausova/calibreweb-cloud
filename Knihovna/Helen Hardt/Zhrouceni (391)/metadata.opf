@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8acd7d04-298c-4b04-b207-9a8520996d36</dc:identifier>
+        <dc:title>Zhroucení</dc:title>
+        <dc:creator opf:file-as="Hardt, Helen" opf:role="aut">Helen Hardt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-09T22:00:00+00:00</dc:date>
+        <dc:publisher>knihy DOBROVSKÝ Red 2025</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Bratři Steelové"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:36:50+00:00"/>
+        <meta name="calibre:title_sort" content="Zhroucení"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

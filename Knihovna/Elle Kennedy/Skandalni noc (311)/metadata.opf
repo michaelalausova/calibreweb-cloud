@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc4b593b-2fbd-406a-848f-9f1bfbd2bf93</dc:identifier>
+        <dc:title>Skandální noc</dc:title>
+        <dc:creator opf:file-as="Kennedy, Elle" opf:role="aut">Elle Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-09T22:00:00+00:00</dc:date>
+        <dc:description>Bývalý zápasník Reed Miller celé měsíce tajně touží po dívce svého nejlepšího přítele, ale odmítá ohrozit přátelství kvůli ženě – především ne kvůli takové, která ho nemá zrovna dvakrát v lásce. Teď, když je Darcy znovu volná, je o to více třeba držet se od ní dál. Jenže mezi nimi panuje silná přitažlivost, kterou je obtížné ignorovat, a jakmile dostal jednou šanci ochutnat… kdo ví, co bude dál.
+Darcy Grantovou už nebaví chovat se slušně a počestně. Hledá vášeň a není pochyb, že Reed je alfa samec, který jí přesně tohle poskytne. Ačkoliv nemá zájem s takovým typem muže chodit, a už vůbec ne, když je to nejlepší kamarád jejího ex, nemůže si pomoct, aby nepodlehla Reedovým zkušeným dotykům. Teď jde jenom o to, stanovit základní pravidla – a doufat, že se jich ten drsňák, co pravidla rád porušuje, bude držet. Pokud ovšem pustí Reeda do svojí postele, má vůbec šanci nepustit si ho i do srdce?</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026918073</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="After hours"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:35+00:00"/>
+        <meta name="calibre:title_sort" content="Skandální noc"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

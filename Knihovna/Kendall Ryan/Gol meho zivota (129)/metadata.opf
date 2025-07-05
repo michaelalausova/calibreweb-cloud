@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ee491f8-7439-4b17-ad1e-784d66bc7560</dc:identifier>
+        <dc:title>Gól mého života</dc:title>
+        <dc:creator opf:file-as="Ryan, Kendall" opf:role="aut">Kendall Ryan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-18T06:33:17+00:00</dc:date>
+        <dc:description>Teddy King vyniká v mnoha věcech. Hraje hokej – ano. Skóruje na ledě i mimo něj – rozhodně ano. Je až absurdně přitažlivý – to si tedy pište. Znám se s ním už roky. Než se z něj stal muž, z kterého si každá žena chce urvat kousek, byl mým spolužákem z vysoké, velmi zapáleným nejen do studia. Tajemství si však vždycky najdou cestu na světlo a o naší dávné společné noci (kterou jsme si rozhodně neměli natáčet na video) se brzy dozví široká veřejnost. Pokud tomu společně nezabráníme.</dc:description>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Hot Jocks"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:26:22+00:00"/>
+        <meta name="calibre:title_sort" content="Gól mého života"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

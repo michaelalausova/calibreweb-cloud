@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">739ae1df-0b84-466c-a882-ad12a5c6fe6f</dc:identifier>
+        <dc:title>Rande nanečisto</dc:title>
+        <dc:creator opf:file-as="Gold, Lily" opf:role="aut">Lily Gold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-15T10:42:32+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;HLEDÁM: Tři falešné přítele. Musí být vysocí, urostlí a ochotní naučit mě líbat. Jmenuju se Layla, je mi osmadvacet a nikdy jsem neměla přítele. Naštěstí mám tři přehnaně starostlivé nejlepší kamarády, kteří mi chtějí pomoct. Zack, hráč rugby s drzým úsměvem a ohromnými bicepsy. Josh, typ kluka odvedle s vyrýsovanou čelistí a vychytralým pohledem. A Luke, stříbrovlasý rozvedený muž… který je shodou okolností můj bývalý učitel. Po jednom obzvlášť nevydařeném rande jsou odhodlaní najít mi chlapa a přijdou s celou škálou cvičných rande a lekcí flirtování. Na oplátku musím jednou týdně vystoupit v jejich podcastu o vztazích. Pohoda.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:46+00:00"/>
+        <meta name="calibre:title_sort" content="Rande nanečisto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

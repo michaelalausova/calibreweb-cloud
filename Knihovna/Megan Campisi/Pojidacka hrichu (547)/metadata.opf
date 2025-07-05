@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2ed59c9-1b3b-475d-a8a6-659d67dfec34</dc:identifier>
+        <dc:title>Pojídačka hříchů</dc:title>
+        <dc:creator opf:file-as="Campisi, Megan" opf:role="aut">Megan Campisi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Říká se, že existují jen dva druhy příběhů: muž se vydává na cestu a do města přijíždí cizinec. Je však ještě třetí: žena poruší pravidla. 
+
+
+Čtrnáctiletá May je zatčena za krádež a brzy se dozví rozsudek: stane se pojídačkou hříchů. Jednou z nenáviděných žen, které musejí vyslechnout zpověď umírajících, během pohřebního rituálu sníst jídla symbolizující hříchy a odcházejícím duším tak umožnit vstup do nebe. Samy však zůstávají poskvrněny cizími proviněními a jsou odsouzeny k životu na okraji. 
+
+
+Nově nabytá identita už navždy němé a pro společnost raději neviditelné pojídačky však May otevírá jiné dveře. Když začnou za podivných okolností umírat královniny komorné a ona musí z rakví sníst hříchy, které mrtvé nespáchaly, rozhodne se May pátrat po tom, proč musely ženy zemřít a kdo si jejich smrt přál. 
+
+
+Pojídačka hříchů nabízí poutavý příběh o zradě a lsti, o smrtelném tajemství a mlčení, o ženách mocných i společensky vyloučených, o moci, ale také o zvláštní svobodě, které se těší vyděděnec bez jakékoliv naděje na spásu.</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Beletrie</dc:subject>
+        <dc:subject>Historické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:38+00:00"/>
+        <meta name="calibre:title_sort" content="Pojídačka hříchů"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24dabdb3-6f3e-4d7d-bec8-9843dfeb8aa4</dc:identifier>
+        <dc:title>Strmý pád</dc:title>
+        <dc:creator opf:file-as="Iosivoni, Bianca" opf:role="aut">Bianca Iosivoni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-22T23:00:00+00:00</dc:date>
+        <dc:description>ROMANTICKÝ PŘÍBĚH PRO FANOUŠKY MONY KASTEN | &amp;#13;
+Hailee byla vždy ta klidnější z dvojčat, schovávala se před světem ve svém pokoji mezi knížkami, zatímco její extrovertní sestra se ráda seznamovala s lidmi a chodila na večírky.&amp;#13;
+Ale Hailee má plán: slíbí milované sestře, že bude odvážná a podnikne všechny věci, ke kterým se doposud neodhodlala. A tak si na počátku prázdnin prostě sbalí věci, nasedne do auta a vyrazí na dobrodružnou cestu napříč Amerikou, během níž se postaví mnohým výzvám a splní si své tajné sny.&amp;#13;
+Koncem léta se zastaví i ve Fairwoodu, aby navštívila hrob svého internetového kamaráda Jespera a splnila slib, který dala i jemu. Náhoda tomu chce, aby se tu Hailee, již létem opálená a působící jako život milující, veselá a odvážná dívka, seznámila s Chasem, šaramantním mladým mužem, Jesperovým kamarádem a spolužákem.&amp;#13;
+Jenže už od chvíle, kdy ho poprvé spatří, ví, že má problém – láska ani nová naděje v jejím cestovním plánu nebyly. Ani to, že se Chase tak nebezpečně přiblíží k jejímu temnému tajemství…</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2020</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788076425125</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Hailee &amp; Chase"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:35:13+00:00"/>
+        <meta name="calibre:title_sort" content="Strmý pád"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

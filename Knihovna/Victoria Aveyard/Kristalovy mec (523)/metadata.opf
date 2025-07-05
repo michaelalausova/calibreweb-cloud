@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">796f708d-74cd-425e-947b-e2457c135dc9</dc:identifier>
+        <dc:title>Křišťálový meč</dc:title>
+        <dc:creator opf:file-as="Aveyard, Victoria" opf:role="aut">Victoria Aveyard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-27T15:48:57+00:00</dc:date>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Sci-fi</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Rudá královna"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:42:36+00:00"/>
+        <meta name="calibre:title_sort" content="Křišťálový meč"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

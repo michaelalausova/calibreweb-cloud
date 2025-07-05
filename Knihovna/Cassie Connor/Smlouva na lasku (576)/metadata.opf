@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54f6fe81-2613-4ec2-9be1-235b1ffab8aa</dc:identifier>
+        <dc:title>Smlouva na lásku</dc:title>
+        <dc:creator opf:file-as="Connor, Cassie" opf:role="aut">Cassie Connor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Rebecca patří v práci k nejlepším, ale jinak… prostě nenašla toho pravého. Proto když má jet na rodinnou oslavu, uzavře smlouvu na doprovod s mužem, se kterým prožila vášnivou noc. Stanoví přísná pravidla, jenže dokáže je sama dodržet?</dc:description>
+        <dc:publisher>Grada Publishing, a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:44:52+00:00"/>
+        <meta name="calibre:title_sort" content="Smlouva na lásku"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

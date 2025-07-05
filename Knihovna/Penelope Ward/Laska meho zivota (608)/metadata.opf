@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b067f9e-6ca9-4fa5-8cd2-e98d76a95c91</dc:identifier>
+        <dc:title>Láska mého života</dc:title>
+        <dc:creator opf:file-as="Ward, Penelope" opf:role="aut">Penelope Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-20T22:00:00+00:00</dc:date>
+        <dc:description>Bylo to nejkrásnější léto mého života. Tehdy jsem potkala kluka svých snů… Jenže všechno hezké jednou skončí, i to nejkrásnější léto.Za těch deset let, které uplynuly, jsem na něj často myslela… a bylo mi líto, že jsem ho už nikdy nepotkala. Ale osud má s lidskými životy své plány a my musíme jeho hříčkám čelit. Když jsem se znovu vrátila do míst, kde jsem strávila své nejkrásnější chvíle, věděla jsem, že je jen otázkou času, kdy se s ním znovu setkám. Ale jsem na tohle setkání připravená? Co když mě bude nenávidět? Co když bude milovat nějakou jinou?</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026914143</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:46:15+00:00"/>
+        <meta name="calibre:title_sort" content="Láska mého života"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

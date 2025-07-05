@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5f6479a-1804-491e-8c52-5acb6526ef9b</dc:identifier>
+        <dc:title>Prohnilé království</dc:title>
+        <dc:creator opf:file-as="Watt, Erin" opf:role="aut">Erin Watt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-27T22:00:00+00:00</dc:date>
+        <dc:description>Od chvíle, kdy Hartley Wrightová poznala Eastona Royala, se její život změnil. Všude se skrývají nepřátelé, za všemi dveřmi číhá nebezpečí. Po tragické nehodě, která ji obrala o vzpomínky, zjišťuje, že nemůže nikomu důvěřovat, a to ani modrookému chlapci, který jí přísahá, že vše napraví.
+Instinkty jí napovídají, že Easton je nebezpečný, a neví, zda mu může věřit. V chaosu, který s sebou Easton přináší, se Hartley nevyzná a city k němu ji jen matou.
+Easton chce, aby si vzpomněla. Hartley se domnívá, že lepší bude zapomenout.
+Možná má pravdu.
+Tragédie. Zrada. Důvěra. Hartley se musí postavit čelem pravdě – v tomhle světě nikdo Royalům neunikne.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026909170</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Royalové"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:17:57+00:00"/>
+        <meta name="calibre:title_sort" content="Prohnilé království"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

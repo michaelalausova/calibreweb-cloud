@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">014cce2f-13c8-44f5-9226-92bf0ead1b78</dc:identifier>
+        <dc:title>Šašek</dc:title>
+        <dc:creator opf:file-as="Perry, Devney" opf:role="aut">Devney Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-15T11:48:30+00:00</dc:date>
+        <dc:description>&lt;p&gt;Pátý díl temné romantické série z prostředí motorkářských gangů. Leo Winter má svůj život rád. Pracuje, když potřebuje peníze. Vyjede si na motorce, když touží po svobodě. Zavítá do místního baru, když se chce pobavit. Na svůj motorkářský klub sice může už jenom vzpomínat, ale život bez závazků mu naprosto vyhovuje. Takže když ho na rodinném grilování překvapí dívka, s níž strávil jednu noc, s tím, že čeká jeho dítě, je v šoku a má pocit, že se dostal do pekla. Cassandra Clineová jednou odložila své zásady stranou. Jednou jedinkrát. A nyní má kvůli románku s místním darebákem život obrácený vzhůru nohama. Její sny a akademická kariéra visí na vlásku a nic z toho by se nestalo, kdyby se držela dál, hodně daleko od Lea. Nemůže se mu však vyhýbat, obzvláště poté, co se musí přestěhovat zpátky do Clifton Forge. A on se od ní odmítá hnout, jakmile se stane několik podivných nehod, které ohrozí ji i jejich dítě. Nakladatelská anotace. Kráceno.&lt;/p&gt;</dc:description>
+        <dc:publisher>Beta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788075935908</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Y7S60AEACAAJ</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Clifton Forge"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:27:55+00:00"/>
+        <meta name="calibre:title_sort" content="Šašek"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

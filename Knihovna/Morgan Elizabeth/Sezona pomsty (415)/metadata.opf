@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">415</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">000804a9-d478-4c85-a06b-87d399698cd6</dc:identifier>
+        <dc:title>Sezona pomsty</dc:title>
+        <dc:creator opf:file-as="Elizabeth, Morgan" opf:role="aut">Morgan Elizabeth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-13T12:50:45+00:00</dc:date>
+        <dc:description>Abbie věřila, že je Richard Bartholemew Benson III. ten pravý. Tedy dokud se s ní nerozešel, protože pro něj byla jen rozptýlením. A tak zosnuje plán pomsty – začne randit se zakládajícím partnerem Richardovy firmy Damienem Martinezem s jedinou myšlenkou: přesvědčit ho, aby ji pozval na vánoční firemní večírek jako svou přítelkyni. Ale když se jejich vztah začíná stávat něčím víc a Abbie začne v tom drsném právníkovi vidět i jeho jemnou stránku, bude schopná dál pokračovat ve svém plánu?</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:37:49+00:00"/>
+        <meta name="calibre:title_sort" content="Sezona pomsty"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

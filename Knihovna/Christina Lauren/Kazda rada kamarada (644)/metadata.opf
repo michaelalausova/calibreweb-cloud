@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bc9634a-b34d-44cf-8e29-3ad08689404b</dc:identifier>
+        <dc:title>Každá ráda kamaráda</dc:title>
+        <dc:creator opf:file-as="Lauren, Christina" opf:role="aut">Christina Lauren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Hazel ví, že její chování často leze lidem krkem, a většina mužů ji po pravdě nezvládá. Pokud je neodradí svým početným domácím zvěřincem a zálibou v absurdních situacích, spolehlivě je odežene poznámkami, pro které si dokáže vybrat ten nejnevhodnější okamžik. Což je ale jejich škoda, protože zábavnějšího člověka byste hledali stěží. Střízlivý, lehce odtažitý Josh se zná s Hazel z vysoké, kde zjistil, že se k téhle ztřeštěně rozverné holce rozhodně nehodí. Od prvního setkání, kdy mu pozvracela boty, po trapas s nesrozumitelným e-mailem, který mu poslala pod vlivem tišících léků, ji považoval spíš za přírodní úkaz než potenciální partnerku. Jenže mezitím uběhla řada let, rozchod s nevěrnou snoubenkou mu převrátil život naruby a Hazelina společnost mu najednou připadá jako příjemná změna. Tedy ne že by randili. Rozhodně ne spolu. Pouští se do vzájemného hledání partnerů a řadou čím dál trapnějších schůzek naslepo se snaží dokázat, jak moc k sobě nepatří. I když kdo ví…</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:47:44+00:00"/>
+        <meta name="calibre:title_sort" content="Každá ráda kamaráda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

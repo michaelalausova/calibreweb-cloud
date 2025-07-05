@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3dd74e0d-b161-450a-a189-c33b719146dc</dc:identifier>
+        <dc:title>Zlomená princezna</dc:title>
+        <dc:creator opf:file-as="Shen, L. J." opf:role="aut">L. J. Shen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-20T15:38:29+00:00</dc:date>
+        <dc:description>Nebudu si hrát na nevinnou, až příliš často jsem se dostala do hledáčku bulváru. A po tom posledním incidentu s bradavkou mi otec dal ultimátum: buď přestane platit můj okázalý životní styl, nebo si nechám přidělit bodyguarda. Ransom Lockwood, dámy a pánové. Sexy nabušený tělesný strážce, který mě teď nutí, abych přestala pařit a uklidnila se... Jedna moje část by ho nejradši poslala do háje. A ta druhá? Ta ho chce zachránit. Nevím, jak to dopadne, ale jedno je jisté – než to zjistím, užiju si dost zábavy.</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:44:02+00:00"/>
+        <meta name="calibre:title_sort" content="Zlomená princezna"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

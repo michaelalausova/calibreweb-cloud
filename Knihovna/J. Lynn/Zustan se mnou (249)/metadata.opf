@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">658122a5-0351-49a8-9295-dfe68dde2fc5</dc:identifier>
+        <dc:title>Zůstaň se mnou</dc:title>
+        <dc:creator opf:file-as="Lynn, J." opf:role="aut">J. Lynn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-28T05:00:00+00:00</dc:date>
+        <dc:description>V jednadvaceti nemá studentka Calla moc zkušeností. Nikdy se nelíbala, nikdy neviděla oceán, nikdy nebyla v zábavním parku. Jak vyrůstala, byla svědkem událostí, které by žádné dítě vidět nemělo. Stále si v sobě nese fyzické a emocionální jizvy ze soužití s drogově závislou matkou, jež tají přede všemi, včetně nejbližších kamarádů na univerzitě.Bezpečná zeď, kterou si Calla kolem sebe pečlivě vystavěla, se však rozpadne, když zjistí, že jí matka ukradla peníze na studium a zanechala na její jméno velký dluh. Teď se Calla musí vrátit do malého města, které chtěla navěky nechat za sebou, a opět napravit matčino nezodpovědné chování. Mona však není nikde k nalezení. Místo ní nalévá za barem drinky vysoký a sexy Jackson James.Od chvíle, kdy se setkají, strká Jax nos do Calliných záležitostí. Nabídne jí práci a pomáhá s hledáním matky. A podle toho, jak se na ni dívá, je budoucí zdravotní sestřičce jasné, že ji chce dostat do postele... a možná i něco víc. Než si ho však Calla pustí k tělu, musí se vyrovnat s bolestí z minulosti a s muži z podsvětí, kteří jí chtějí ublížit, pokud jim nevydá svou matku.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c84464cd-9ca4-45d9-baef-2dfeec936b2b</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Počkám na tebe"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:31:04+00:00"/>
+        <meta name="calibre:title_sort" content="Zůstaň se mnou"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

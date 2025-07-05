@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">834466d6-cb5b-4abf-a85e-54c71394ea05</dc:identifier>
+        <dc:title>Království prokletých</dc:title>
+        <dc:creator opf:file-as="Maniscalco, Kerri" opf:role="aut">Kerri Maniscalco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;a href="https://www.databazeknih.cz/autori/kerri-maniscalco-142332"&gt;https://www.databazeknih.cz/autori/kerri-maniscalco-142332&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Poté, co zaprodala svou duši, aby se stala královnou Hříšných, se Emilia vydá s tajemným princem Irou do Sedmi kruhů, kde je uvedena do svůdného světa neřestí.&lt;/p&gt;
+&lt;p&gt;Přísahá, že udělá všechno pro to, aby pomstila svou milovanou sestru Vittorii… i když to znamená přijmout manželství s princem Orgoliem, králem démonů.&lt;/p&gt;
+&lt;p&gt;Jak zní první pravidlo dvora Hříšných? Nikomu nevěř. Se zrádnými princi, přepychovými paláci, tajuplnými pozvánkami na večírky a rozporuplnými nápovědami ohledně toho, kdo skutečně zabil její dvojče, je Emilia osamělejší než kdy dřív. Může vůbec důvěřovat Irovi, který byl jejím někdejším spojencem ve světě smrtelníků, nebo skrývá nebezpečná tajemství o své pravé podstatě?&lt;/p&gt;
+&lt;p&gt;Emilia bude zkoušena mnoha způsoby, zatímco pátrá po řadě magických předmětů, které odhalí stopy k její minulosti a poskytnou jí odpovědi, po nichž prahne…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>King Cool</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027710874</dc:identifier>
+        <dc:identifier opf:scheme="DATABAZEKNIH">kralovstvi-prokletych-496921</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Království hříšných"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:29:56+00:00"/>
+        <meta name="calibre:title_sort" content="Království prokletých"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

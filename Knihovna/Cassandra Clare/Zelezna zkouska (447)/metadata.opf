@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54a2c92a-57a2-438a-8ff6-381dea511ba0</dc:identifier>
+        <dc:title>Železná zkouška</dc:title>
+        <dc:creator opf:file-as="Clare, Cassandra &amp; Black, Holly" opf:role="aut">Cassandra Clare</dc:creator>
+        <dc:creator opf:file-as="Clare, Cassandra &amp; Black, Holly" opf:role="aut">Holly Black</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Dvanáctiletý Callum Hunt odmalička ví, že kdyby se zapletl s magií, znamenalo by to pro něj smrtelné nebezpečí. Když dostane pozvánku na přijímací zkoušku do Magisteria, tajemné kouzelnické školy, rozhodne se za každou cenu propadnout. Mistr Rufus si ho však přesto vybere na učně, a tak Call přichází do školy v podzemních jeskyních, na místo se zlověstnou historií a nejistou budoucností. Žáci se učí ovládat magii a jsou cvičeni k tomu, že jednou možná budou muset zachraňovat svět před obávaným Nepřítelem smrti. Call si v Magisteriu poprvé udělá skutečné přátele, ale zjišťuje, že Železná zkouška byla jen začátek. Aniž to tuší, jeho osud je propleten s Magisteriem víc, než si dokázal představit.&lt;/p&gt;
+&lt;p&gt;Jiné ocenění : 2014 – Goodreads Choice Awards – Best Middle Grade &amp;amp; Children´s – 3. místo&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>YOLI</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Magisterium"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:39:18+00:00"/>
+        <meta name="calibre:title_sort" content="Železná zkouška"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

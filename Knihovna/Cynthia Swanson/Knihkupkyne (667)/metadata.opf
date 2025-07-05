@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba58a11c-72f6-4eae-9003-1dde0006f54d</dc:identifier>
+        <dc:title>Knihkupkyně</dc:title>
+        <dc:creator opf:file-as="Swanson, Cynthia" opf:role="aut">Cynthia Swanson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;                                                                                                         
+
+
+
+
+
+
+
+ 
+
+                            
+
+                       
+
+          
+
+      
+
+&lt;div id="wrapper"&gt;&lt;div id="faux"&gt;&lt;div id="content"&gt;&lt;div id="left_less"&gt;&lt;div itemtype="http://schema.org/Book" itemscope=""&gt;&lt;div class="rest_mid odtop" id="bdetail_rest"&gt;&lt;p class="justify new2 odtop_big" id="bdetdesc" itemprop="description"&gt;&lt;span class="start_text"&gt;Denver, 1962: Kitty Miller se smířila se svým jednotvárným samotářským životem. Miluje knihy a s kamarádkou Friedou si založily knihkupectví. Je ráda, že má plnou kontrolu nad svým životem. Když nechce do práce, nemusí jít, nikomu se nemusí zodpovídat. V jejím životě byl jen jeden muž, lékař Kevin, ale nefungovalo jim to tak, jak Kitt&lt;/span&gt;&lt;span class="end_text et_361144" style="display: inline;"&gt;y doufala. &lt;br&gt;&lt;br&gt; Denver, 1963: Katharyn Andersson je vdaná za Larse, lásku svého života. Mají krásné děti, velký elegantní dům a spoustu přátel. Prostě všechno, po čem Kitty Miller toužila. Ale Katharyn existuje pouze tehdy, když Kitty spí... &lt;br&gt;&lt;br&gt; Kitty je přesvědčena, že tyto sny jsou prostě jen kvůli její hyperaktivní představivosti. Ale s každou další nocí se lákavý Katharynin život stává stále více reálnější. Může si Kitty vybrat, který život chce? A pokud ano, jaká bude cena za to stát se Katharyn? &lt;br&gt;&lt;br&gt; Hranice mezi těmito dvěma světy se Kitty začínají rozmazávat. Dokáže ještě rozlišit, co je skutečné a co jen představa?&lt;/span&gt;&lt;a class="show_hide_more ll" id="361144" href="https://www.databazeknih.cz/knihy/knihkupkyne-361144?show=alldesc" bid="361144"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Omega</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:48:42+00:00"/>
+        <meta name="calibre:title_sort" content="Knihkupkyně"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

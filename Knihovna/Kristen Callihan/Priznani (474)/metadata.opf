@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">474</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2a2c1af-f5c8-40ff-aba5-70674be35bfe</dc:identifier>
+        <dc:title>Přiznání</dc:title>
+        <dc:creator opf:file-as="Callihan, Kristen" opf:role="aut">Kristen Callihan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-19T22:00:00+00:00</dc:date>
+        <dc:description>Brenna
+Někteří lidé prostě vědí, jak vás rozčílit. Tak na mě působí Rye Peterson. Nevydržíme spolu ani deset minut a jdeme si po krku, což nám spolupráci vůbec neulehčuje. Rye je baskytarista Kill Johna, nejslavnější rockové kapely na světě, a já jim dělám PR. Navíc je nádherný, vtipný, nadaný a… a nikdy nebere nic vážně. Bude lepší se mu vyhýbat.
+Všechno se však změní, když Rye uslyší něco, co nebylo určeno jeho uším: moje přiznání. A teď mi muž, kterého se usilovně snažím ignorovat, nabízí to největší pokušení ze všech: sebe samého.
+Rye
+Brenna je pro mě ta pravá. Ta, kterou nemůžu mít. Ta, kterou nedokážu vyhnat z hlavy. Věřte mi, fakt jsem se snažil, jenže ta ženská mě nenávidí. Docela jsem to zvládal – dokud jsem nezaslechl, jak se přiznala, že se cítí stejně osamělá jako já. Že potřebuje, aby se jí někdo dotkl, objal ji, uspokojil. Chci jí to všechno dát.
+Přesvědčil jsem ji, že to bude jenom sex, jen vzájemné uspokojení a nic víc. Sotva se mi však poddala, začal se kolem ní točit můj svět. Nikdy neměla dobrý důvod mi věřit, chci Brenně však dokázat, že spolu nám bude lépe, než kdybychom byli každý sám.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026920229</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="VIP"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:40:27+00:00"/>
+        <meta name="calibre:title_sort" content="Přiznání"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

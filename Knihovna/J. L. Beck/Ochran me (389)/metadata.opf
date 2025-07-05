@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f9be2ac-80a0-4c25-b0d0-191c589c1031</dc:identifier>
+        <dc:title>Ochraň mě</dc:title>
+        <dc:creator opf:file-as="Beck, J. L. &amp; Hallman, C." opf:role="aut">J. L. Beck</dc:creator>
+        <dc:creator opf:file-as="Beck, J. L. &amp; Hallman, C." opf:role="aut">C. Hallman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-08T22:00:00+00:00</dc:date>
+        <dc:description>Damon Rossi je bezcitný vůdce, který nebere ohledy ani na mé tělo či srdce. Jen co jsem ho potkala, věděla jsem, že by mě dokázal zabít holýma rukama. Všechny má pod palcem, dožaduje se pozornosti, a když někdo zavraždí mého bratra kvůli nesplacenému dluhu, jsem nucena přijmout jeho ochranu. To však neznamená, že se mnou bude zacházet v rukavičkách.Nebo předstírat, že má můj život nějakou cenu. Což nedělá.Je to surovec, mám z něj nahnáno a čím dál víc se nořím do jeho temného, nebezpečného světa plného zločinců, zlodějů a sexu. Přesto mě to k němu táhne, protože vím, že je to jediný člověk, který mě přede všemi dokáže ochránit.Když však odhalím jeho tajemství a věci zajdou dál, než by se mu líbilo, Damon mi dokáže, kam až je při mé ochraně ochotný zajít… jeho ochrana však něco stojí a já nemám na to ji zaplatit. Postupně se stávám jeho majetkem a šance na útěk z jeho temného světa mi uniká mezi prsty.Damon mě sice ochrání před svými nepřáteli, ale kdo mě ochrání před ním?</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2022</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027700387</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Rodina Rossiů"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:36:44+00:00"/>
+        <meta name="calibre:title_sort" content="Ochraň mě"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

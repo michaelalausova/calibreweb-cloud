@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">634</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe5fb5f2-e415-4b6a-b618-7356024c81bd</dc:identifier>
+        <dc:title>Dej mi Království</dc:title>
+        <dc:creator opf:file-as="Jell, Marcy" opf:role="aut">Marcy Jell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-15T00:00:00+00:00</dc:date>
+        <dc:description>Layla je svobodná matka, která nemůže zavadit o dobrou práci. Nakonec se na ni přece jen usměje štěstí a do cesty jí přijde nabídka pracovat jako asistentka Olivera Turnera, atraktivního a úspěšného topmodela. Pokud Layla na nabídku kývne, znamená to, že musí být neustále k dispozici, připravená kdykoli cokoli zařídit a doprovázet svého šéfa na focení po světě… Je jí jasné, že pokud přizná, že má malé dítě, nemá šanci práci získat. Rozhodne se tedy pro malou nevinnou lež – ta se však už nedá vzít zpátky…</dc:description>
+        <dc:publisher>MEDIAPLEX s.r.o.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:47:20+00:00"/>
+        <meta name="calibre:title_sort" content="Dej mi Království"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

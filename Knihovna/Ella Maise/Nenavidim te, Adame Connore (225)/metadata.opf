@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38887270-26cb-4277-9554-c68dbd6aab8e</dc:identifier>
+        <dc:title>Nenávidím tě, Adame Connore</dc:title>
+        <dc:creator opf:file-as="Maise, Ella" opf:role="aut">Ella Maise</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-26T22:00:00+00:00</dc:date>
+        <dc:description>Kdo by nechtěl zažít svůj pohádkový příběh? Své „šťastně až na věky“? Hlavní hrdinka Lucy Meyerová na to má pohled možná trochu jiný než většinová populace. Život jí pod nohy házel samé klacky, a proto na muže i na lásku tak trochu zanevřela. Když potká hollywoodského herce Adama Connora, vše se náhle změní – aniž by si to sama Lucy uvědomovala.Ne snad, že by se do Adama zamilovala! Naopak, nesnáší ho. Ale víte, jak to chodí. Nenávist má k lásce blízko.Kniha, která stojí za přečtení každému, kdo na ten svůj šťastný konec stále čeká. Anebo i pro ty, kteří sice nějaké sladké chvíle v životě zažívají, ale tak, jak to v reálném životě bývá, i to krásné je propojeno a propleteno s tím hořkým. Není nad to najít si pár chvil pro sebe, vzít do ruky knížku a chvíli si nechat zdát o tom, že vše může být dokonalé.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027712694</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:30:07+00:00"/>
+        <meta name="calibre:title_sort" content="Nenávidím tě, Adame Connore"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

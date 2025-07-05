@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49c0c849-8fbe-4745-b7f9-6f88f52b80ed</dc:identifier>
+        <dc:title>Marco</dc:title>
+        <dc:creator opf:file-as="Jell, Marcy" opf:role="aut">Marcy Jell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-15T00:00:00+00:00</dc:date>
+        <dc:description>Jezdci Apokalypsy -Marco
+Anotace
+Nečekala jsem, že se tohle může stát zrovna mně…
+Vždyť já byla ve světě velkých peněz a zákulisních intrik malá ryba…
+Pěšec na šachovnici podlých her mocných mužů. Her, které jsem nechtěla hrát…
+Ale jezdci apokalypsy neznají slitování! Berou si, co chtějí.
+Čtyři nelítostní králové, co místo koruny nosí glocky!
+Ale jeden z nich byl pro mě osudový muž…
+ 
+Byl hrubý, neomalený a drzý stejně jako já. Ale pod slupkou zvířete se ukrýval někdo docela jiný. Tak něžný a sladký, až se tajil dech… Jen bylo těžké ho probudit. Bylo těžké najít v něm klady, když převládal hněv a pomsta, za kterou se hnal.
+Byla jsem lapená mezi touhou a klamem.
+Už jsem přestávala rozlišovat, co je skutečnost a co lež.
+A to nejhorší přitom mělo teprve přijít…</dc:description>
+        <dc:publisher>MEDIAPLEX s.r.o.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Jezdci apokalypsy (Marcy Jell)"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:35:02+00:00"/>
+        <meta name="calibre:title_sort" content="Marco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

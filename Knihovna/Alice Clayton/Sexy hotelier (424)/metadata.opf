@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1145a454-d44b-44f4-b6b7-5b3dba230987</dc:identifier>
+        <dc:title>Sexy hoteliér</dc:title>
+        <dc:creator opf:file-as="Clayton, Alice" opf:role="aut">Alice Clayton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-21T13:32:39+00:00</dc:date>
+        <dc:description>Clara Morganová žije svůj sen – modernizuje staré hotely, běhá maratony a je neustále v pohybu. Svou kariéru miluje a běžecké závody ji dopují adrenalinem. Nedokáže však nikde zapustit kořeny, protože vyrostla v pěstounské péči a rodinná tradice jí nic neříká. Možná proto ji tolik fascinují zvyky, s nimiž se v rodinných hotelích setkává. Teď právě zatíná drápky do hotelu Bryant, a to nejen kvůli jejich receptu na horké, sladké, báječné bochánky, kterých se prostě nemůže nabažit… Archie Bryant je pátou generací rodiny Bryantů a jeho hýždě jsou k nakousnutí ještě víc než místní bochánky. Je také budoucím majitelem půvabného, ale skomírajícího hotelu poblíž městečka Bailey Falls. Archie je pevně odhodlaný rodinné dědictví zachránit, a to pěkně postaru: zatne zuby a bude dělat svou práci. V žádném případě si do ní nehodlá nechat mluvit od mladé expertky, kterou jeho otec najal, aby obrátila staleté tradice vzhůru nohama a přitáhla davy moderních mladých lidí. Clařiny nápady však nové hosty (a jejich peněženky) skutečně přitahují a Archie si nakonec musí přiznat, že se na cestě k záchraně hotelu bez Clary neobejde. Je to horké, je to sladké, je to hmmm…</dc:description>
+        <dc:publisher>Mladá fronta, a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Hudson Valley"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:38:17+00:00"/>
+        <meta name="calibre:title_sort" content="Sexy hoteliér"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

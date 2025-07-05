@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ecb53c3-2f74-4e7b-a55b-6218aace69e7</dc:identifier>
+        <dc:title>Dvůr mrazu a hvězd</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-22T10:51:43+00:00</dc:date>
+        <dc:description>Feyre, Rhysand a jejich nejbližší přátelé pracují na obnově Nočního dvora i válkou zničené země. Ačkoli lidské královny i vílí vládci kují pikle, ve Velarisu alespoň na chvíli nastala sváteční atmosféra. Blíží se totiž oslavy zimního slunovratu. A právě v okamžicích klidu a míru se ukáže, že některé rány ještě nejsou úplně zahojené…  Feyre čeká dlouhá cesta plná napětí, vášně, intrik a politikaření, než opravdu zavládne mír.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Dvůr trnů a růží"/>
+        <meta name="calibre:series_index" content="3.5"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:30:46+00:00"/>
+        <meta name="calibre:title_sort" content="Dvůr mrazu a hvězd"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

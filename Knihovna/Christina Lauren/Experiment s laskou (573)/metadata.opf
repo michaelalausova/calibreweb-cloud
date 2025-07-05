@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9135a2a8-1c83-450f-87c5-c95299e1847c</dc:identifier>
+        <dc:title>Experiment s láskou</dc:title>
+        <dc:creator opf:file-as="Lauren, Christina" opf:role="aut">Christina Lauren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-04T11:21:08+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Dá se najít láska v reality show?&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Felicity „Fizzy“ Chenová neví, jak dál. Vybudovala si skvělou kariéru jako zbožňovaná autorka románů a na kontě má nespočet bestsellerů. Ale když je požádána, aby přednesla projev k zahájení školního roku, najednou si uvědomí, že se sama neřídí tím, co káže.&lt;/p&gt;
+&lt;p&gt;Fizzy nikdy nebyla opravdu zamilovaná. Chtíč? To ano. Ale takový ten pocit, který vás pohltí, kdy se vám podlomí kolena a nemůžete myslet na nic a nikoho jiného? Kdepak. Kde nic, tu nic. Co se stane, když optimismus, který celou svou kariéru ve čtenářích povzbuzovala, dostane falešný nádech?&lt;/p&gt;
+&lt;p&gt;Connor Prince je dokumentarista a svobodný otec, který miluje svou práci z velké části proto, že mu umožňuje žít poblíž dceřina bydliště. Jeho šéf však prahne hlavně po zisku, a tak mu nařídí natočit televizní reality show. Connorova práce je v ohrožení a on je najednou bezradný. V zoufalé snaze najít romantickou hrdinku pro svou show narazí shodou okolností na podrážděnou Fizzy, která se jeví být dokonalým řešením jeho problému. Co kdyby ukázal celému světu, jak se královna všech romancí sama v přímém přenosu zamiluje až po uši? Fizzy mu to nehodlá usnadnit – bude muset souhlasit se všemi jejími požadavky. Jakmile na ně kývne, rozjede se natáčení Experimentu s láskou a Connora napadne, jestli i on se někdy dočká své spřízněné duše…&lt;/p&gt;
+&lt;p&gt;Experiment s láskou je přesně tím, na co všichni fanoušci Christiny Laurenové čekali od chvíle, kdy se Fizzy objevila na stránkách bestselleru Rovnice lásky. Ve chvíli, kdy se rozsvítí světla a všichni na ni upřou své pohledy, vyjde kupodivu najevo, že to profláknuté žili spolu šťastně až do smrti, na které už dávno přestala věřit, se možná ukrývá přímo za kamerou.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Nakladatelství JOTA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788076892460</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:44:45+00:00"/>
+        <meta name="calibre:title_sort" content="Experiment s láskou"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

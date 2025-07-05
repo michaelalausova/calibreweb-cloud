@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5652655f-0318-4922-8adf-79e929d8d130</dc:identifier>
+        <dc:title>Dvůr křídel a zmaru</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-21T16:15:25+00:00</dc:date>
+        <dc:description>Feyre se vrací zpátky na Jarní dvůr, aby získala informace o Tamlinově armádě a odhalila plán krále, který hodlá království Prythian napadnout a zničit. K tomu všemu musí předstírat lásku k muži, kterého ve skutečnosti ze srdce nenávidí. Její život tak visí na vlásku a nemůže si dovolit udělat jedinou chybu, jinak to bude stát život nejen ji, ale způsobí zkázu celého království.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Dvůr trnů a růží"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:30:49+00:00"/>
+        <meta name="calibre:title_sort" content="Dvůr křídel a zmaru"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

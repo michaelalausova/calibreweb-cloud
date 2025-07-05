@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14c1a488-9d62-4b2d-aef5-9f444f157b09</dc:identifier>
+        <dc:title>Pán věže</dc:title>
+        <dc:creator opf:file-as="Ryan, Anthony" opf:role="aut">Anthony Ryan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-23T13:14:32+00:00</dc:date>
+        <dc:description>Druhý díl trilogie Stín krkavce.    Tváří v tvář hrozbě musí i ta nejváhavější ruka nakonec pozvednout meč.    Vélin Al Sorna je unavený z  války. Ve službách Sjednoceného království a  Víry prošel bezpoč tem bitev. Jedinou odmě nou mu však byla ztráta lásky, smrt př átel a  zrada krále. Po pě ti letech v  alpírském žalář i touží po návratu domů a  klidném životě bez válek a  vražd.    Revinou jedinou touhou je však vrazit Vélinovi na uvítanou v  rodné zemi nůž do srdce. Znič il její rodinu i  její život. Nic ji neodradí od krvavé pomsty – dokonce ani hrozba vpádu nejmocnějšího nepřítele, jakému kdy království čelilo.    Jakmile však vzplanou vále čné ohně, z  protivníků se stávají spojenci, a  co bylo dř íve pravdou, mění se v  lež. Pokud má být království zachráně no, musí Reva přijmout budoucnost, jakou si nepředstavovala, a  Vélin se musí znovu ponořit do minulosti, kterou by nejraději pohřbil.</dc:description>
+        <dc:publisher>Host – vydavatelství, s. r. o.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Stín Krkavce"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:26:24+00:00"/>
+        <meta name="calibre:title_sort" content="Pán věže"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

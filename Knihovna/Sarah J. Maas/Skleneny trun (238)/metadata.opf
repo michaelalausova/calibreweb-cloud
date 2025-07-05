@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e18e5bc-2c27-407d-96d6-c4390dcccc36</dc:identifier>
+        <dc:title>Skleněný trůn</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Celaene je od dětství trénovaná k jednomu jedinému úkolu – stát se tím nejlepším zabijákem na světě, rychlým, tichým, neodhalitelným a všehoschopným. Ovšem během výcviku se pokusí o útěk a je odsouzena k trestu smrti. Nemilosrdný král vládnoucí železnou rukou jí nabídne poslední šanci – stane se královským šampionem a nastoupí do hry o přežití. Jestliže porazí dalších 23 šampionů, získá svobodu. Ovšem její soupeři umírají nejen při soubojích, ale i za tajemných okolností – Celaene teď o svůj život bojuje nejen se soupeři, ale i s něčím tajemným a děsivým, co se skrývá v pozadí.</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Dobrodružné</dc:subject>
+        <meta name="calibre:series" content="Skleněný trůn"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:30:37+00:00"/>
+        <meta name="calibre:title_sort" content="Skleněný trůn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4a5dde2-391b-4652-8a57-cbe1e3776783</dc:identifier>
+        <dc:title>Pod maskou nevinnosti</dc:title>
+        <dc:creator opf:file-as="Torre, Alessandra" opf:role="aut">Alessandra Torre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-18T22:00:00+00:00</dc:date>
+        <dc:description>MUŽ, KTERÝ VŽDY DOSTANE, PO ČEM TOUŽÍ, MÁ NEJVÍC CO SKRÝVAT…
+Brad De Luca je sexy muž. Nebezpečný muž. Nejde však pouze o jeho zevnějšek, ale i o neotřesitelné sebevědomí odrážející se v každém jeho pohybu – a v každém doteku. A nejhorší na tom celém je, že je takový oprávněně…
+Julia Campbellová si nikdy nemůže být jistá, co má od extrémně cílevědomého elitního právníka čekat. Ale začíná tomu přicházet na chuť. Od té doby, co se jím nechala vtáhnout do jeho divokého, svůdného světa, už jí obyčejné vztahy nic neříkají. Brad je ovšem odhodlaný zbavit ji nejen oblečení, ale i zábran, a hrozí, že se Julia do zakázaných rozkoší ponoří až příliš hluboko.
+Jejich poměr se navíc brzy promění v něco ještě mnohem riskantnějšího, když se Brad zaplete do případu vraždy spojené s mafií – jako podezřelý. Věřit muži se špatnou reputací a minulostí plnou tajemství je skoro vždycky chyba a Julia se musí rozhodnout. Opustí ho, anebo se nechá zavést dál, než si kdy dokázala představit?
+___
+Druhý díl skandální erotické série od autorky bestsellerů Smlouva na lásku, Černé lži a Hříchy Hollywoodu by rozhodně neměly minout čtenářky Padesáti odstínů šedi a Božského bastarda.</dc:description>
+        <dc:publisher>Mystery Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788075883940</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Nevinnost"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:18:57+00:00"/>
+        <meta name="calibre:title_sort" content="Pod maskou nevinnosti"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

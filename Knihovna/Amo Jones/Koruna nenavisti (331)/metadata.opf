@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c681e12f-7e83-456c-ac9d-447c0c3d0ebd</dc:identifier>
+        <dc:title>Koruna nenávisti</dc:title>
+        <dc:creator opf:file-as="Jones, Amo" opf:role="aut">Amo Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-25T22:00:00+00:00</dc:date>
+        <dc:description>Někdo by řekl, že jako dcera současného prezidenta USA mám skvělý život. Bohatá, slavná a všechno to, co by si některé holky mohly přát. Jenomže já sním o obyčejném životě, v němž bych nebyla nucena provdat se za nejděsivějšího muže, co jsem kdy potkala. Myslela jsem si, že jsme se právě seznámili, jenže se ukázalo, že toho o sobě spoustu nevím. A to vinou tak zvrácené, tak pokřivené minulosti, že ji nemůže vymazat ani hromada peněz, ani status prezidenta.
+Jsem rebelka, podle některých spíš zklamání. Nikdy mi nezáleželo na drahých svatebních šatech nebo na tom, kolik kdo utratí za oblek šitý na míru. Je mi fuk, jestli máte šaty ze supermarketu, nebo od luxusní módní návrhářky. Tak proč se vdávám za ďábla v obleku za tisíce dolarů?
+Zjistím, jak se mi to přihodilo. Proč si beru jednoho z nejmocnějších mužů v zemi. Jenže abych to zjistila, musím se vydat do temnoty, na cestu pokrytou krví nevinných, která mě zavede přímo do pekla. Tohle peklo je však milionové apartmá v New Yorku, kde na trůnu sedí Bryant Saint Royal.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026910527</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Dark romance</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Koruna"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:34:23+00:00"/>
+        <meta name="calibre:title_sort" content="Koruna nenávisti"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

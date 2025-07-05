@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75511a58-6b8d-41eb-a9ec-c5411ec1eeae</dc:identifier>
+        <dc:title>Píseň stínů</dc:title>
+        <dc:creator opf:file-as="Jae-Jones, S." opf:role="aut">S. Jae-Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-06T12:09:50+00:00</dc:date>
+        <dc:description>Liesl se vrátila mezi smrtelníky a zjistila, že život bez Krále duchů je těžší, než si myslela. Její mladší bratr Josef je chladný a vzdálený, zatímco Liesl nemůže zapomenout na uhrančivého mladíka a na hudbu, již v ní inspiroval. Když se ale bariéra mezi světy začne rozpadat, Liesl se musí vrátit do podzemí, aby odhalila tajemství života a smrti Krále duchů. Může zlomit pradávná pravidla světů? A jaký je skutečný význam oběti, když je osud celého světa v jejích rukou?</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:35:11+00:00"/>
+        <meta name="calibre:title_sort" content="Píseň stínů"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d8743a8-fa4e-43b0-b05c-fd137d1ad9d8</dc:identifier>
+        <dc:title>Boss</dc:title>
+        <dc:creator opf:file-as="Jell, Marcy" opf:role="aut">Marcy Jell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-15T00:00:00+00:00</dc:date>
+        <dc:description>Zatím nejlepší kniha od Marcy. 
+500 stran úžasného čtení. 
+Zoe se v poslední době lepí smůla na paty. Stará se o vážně nemocnou matku, kvůli čemuž přišla o poslední zaměstnání, a o novou práci ne a ne zavadit. Jejím největším přáním je dopřát milované mamince adekvátní péči, jenže o tom si se svou finanční situací může nechat jen zdát…
+Zane je na vrcholu kariéry, poráží jednoho protivníka za druhým a jde si tvrdě za svým v profesním i osobním životě. Když mu do cesty přijde Zoe, rozhodne se jí dát neobvyklou nabídku – takovou, která by jemu dopomohla v jeho cestě na absolutní vrchol a jí by zase vyřešila většinu jejích problémů. Navrhne jí, aby rok před celým světem předstírala, že jsou pár.
+I když Zoe toho namyšleného, přehnaně sebevědomého a nelítostného bojovníka nemůže vystát, a to poslední, co chce, je předstírat, že je jeho milující přítelkyně a strávit s ním celý rok, nemá na výběr – podepíše smlouvu, která jí umožní vybřednout ze zoufalé finanční situace a matce zajistí pobyt na prvotřídní klinice.
+Ze dne na den se ocitne v prostředí vrcholového boxu, tvrdého a nelítostného sportu, za kterým se skrývá úplně nový svět, pro Zoe zatím nepoznaný. Za zdánlivým pozlátkem, luxusem a životem na výsluní se skrývá drsný boj o moc, intriky a lži. Zoe musí vynaložit veškeré úsilí, aby ji tenhle svět nesemlel, a taky aby si udržela Zanea od těla. Protože to poslední, co chce, je se do toho namyšleného obra zamilovat…</dc:description>
+        <dc:publisher>MEDIAPLEX s.r.o.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:54:27+00:00"/>
+        <meta name="calibre:title_sort" content="Boss"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

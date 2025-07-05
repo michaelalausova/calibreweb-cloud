@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce119cdf-4a11-4692-809b-ddefc04fa61b</dc:identifier>
+        <dc:title>Spolubydlící</dc:title>
+        <dc:creator opf:file-as="Lauren, Christina" opf:role="aut">Christina Lauren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Když svatbou vztah nekončí, ale teprve začíná…&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Holland Bakkerová má byteček na Manhattanu, nenáročnou asistentskou práci v divadle a touhu stát se spisovatelkou. Už šest měsíců ale nenapsala ani řádku. Místo toho den co den postává ve stanici metra na Padesáté ulici a dychtivě poslouchá, když hraje On. Calvin, chlap s těma nejuhrančivějšíma zelenýma očima, neodolatelným irským přízvukem a ďábelskými prsty na strunách kytary. Právě takového sólistu by nutně potřebovali v divadle, které vede Hollandin strýc. Jenže to má drobný háček: Calvin je ve Státech už pár let nelegálně. Nenašla by se nějaká cesta, jak pro něj získat povolení k pobytu? Co třeba fingovaný sňatek?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Christina Laurenová – je vůbec třeba něco dodávat? Přichází další romantický i zábavný příběh nejen pro čtenářky, které si oblíbily románové série Vášnivý a Božský. Tentokrát společně nakoukneme do oslnivého světa muzikálových divadel na Broadwayi, ale i do newyorských ulic, barů a samozřejmě také do ložnice hlavních hrdinů.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Kniha Spolubydlící se v USA stala bestsellerem a předlohou pro hollywoodské filmové zpracování.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Nakladatelství JOTA</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5924e4e9-a8df-4f46-a25f-9914c6aebc61</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:48:55+00:00"/>
+        <meta name="calibre:title_sort" content="Spolubydlící"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

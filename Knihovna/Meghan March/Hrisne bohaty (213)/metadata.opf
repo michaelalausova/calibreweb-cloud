@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf6c45f0-8fae-4c45-9c6c-763546a5e693</dc:identifier>
+        <dc:title>Hříšně bohatý</dc:title>
+        <dc:creator opf:file-as="March, Meghan" opf:role="aut">Meghan March</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-06T22:00:00+00:00</dc:date>
+        <dc:description>Žádný Riscoff a Gable prý spolu nemůžou žít šťastně až do smrti – kvůli dlouholetému nepřátelství našich rodin.
+Kdysi jsem tomu věřil – než jsem zahlédl dívku, která mi vyrazila dech. Nevěděl jsem, jak se jmenuje, a ani mě to nezajímalo.
+Jako každý muž, který ví, co chce, jsem si šel tvrdě za svým. Vážně jsem nečekal, že jde o Whitney Gableovou.
+Zamilovali jsme se do sebe, jenže pak se všechno zvrtlo a ona si vzala jiného chlápka. Teď mě nenávidí, a právem.
+Během svatebního obřadu jsem vznesl námitku.
+Deset let jsem ji neviděl, nyní je však zase doma – a nemá snubní prstýnek.
+Žádný Riscoff a Gable prý spolu nemůžou žít šťastně až do smrti… jenže já s Whitney Gableovou ještě neskončil.
+Čekám na druhou šanci a tentokrát udělám cokoli, abych všem dokázal, že se spletli.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026920168</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Sin trilogy"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:29:38+00:00"/>
+        <meta name="calibre:title_sort" content="Hříšně bohatý"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

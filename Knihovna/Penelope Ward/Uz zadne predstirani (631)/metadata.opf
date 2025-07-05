@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">631</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9dc56cc-95fe-45ac-af71-d006c3ab26c6</dc:identifier>
+        <dc:title>Už žádné předstírání</dc:title>
+        <dc:creator opf:file-as="Ward, Penelope &amp; Keeland, Vi" opf:role="aut">Penelope Ward</dc:creator>
+        <dc:creator opf:file-as="Ward, Penelope &amp; Keeland, Vi" opf:role="aut">Vi Keeland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-06T23:00:00+00:00</dc:date>
+        <dc:description>Molly Corriganová je zdravotní sestra z Chicaga, která zoufale potřebuje spolubydlící, ale zatím nemá v hledání štěstí. Podala si inzerát, že hledá dívku na podnájem, ale když už pomalu ztrácí naději, jakýmsi nedopatřením jí na dveře zaklepe přitažlivý muž jménem Declan Tate. Molly váhá, zda s ním má vůbec jednat, ale Declan si ji získá svým šarmem, humorem a vytrvalostí. Okamžitě si padnou do oka a vznikne mezi nimi přátelství. Zvlášť, když jeden druhému radí, jak přimět své vyvolené partnery, aby si jich všimli. Rozhodnou se předstírat, že jsou pár, aby v nich vyvolali žárlivost.&amp;#13;
+Když jim jejich plány začnou vycházet, jejich vztah se zkomplikuje – oba si uvědomí vzájemnou přitažlivost a pouto, které mezi nimi roste. Najednou mají všechno, co chtěli, ale nemohou přestat myslet jeden na druhého. Co mají dělat, když se předstírané city stanou až příliš skutečnými?</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:47:12+00:00"/>
+        <meta name="calibre:title_sort" content="Už žádné předstírání"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

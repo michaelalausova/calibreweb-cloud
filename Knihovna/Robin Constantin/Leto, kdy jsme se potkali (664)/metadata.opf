@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">664</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9805b5d9-321d-4de7-a8bd-04d169f62555</dc:identifier>
+        <dc:title>Léto, kdy jsme se potkali</dc:title>
+        <dc:creator opf:file-as="Constantin, Robin" opf:role="aut">Robin Constantin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:48:35+00:00"/>
+        <meta name="calibre:title_sort" content="Léto, kdy jsme se potkali"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

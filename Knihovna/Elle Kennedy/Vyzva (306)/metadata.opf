@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55c67dca-4c6d-422b-8499-69ac760906f4</dc:identifier>
+        <dc:title>Výzva</dc:title>
+        <dc:creator opf:file-as="Kennedy, Elle" opf:role="aut">Elle Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-01T22:00:00+00:00</dc:date>
+        <dc:description>Vysoká měla být moje šance, jak bych se mohla zbavit komplexu ošklivého káčátka a roztáhnout křídla. Místo toho jsem skončila v domě sesterstva plném nepříjemných holek. Nedokážu mezi ně zapadnout, proto nemůžu výzvu sester z Kappa Chí odmítnout.Výzva zní: Sveď toho nového rajcovního hokejistu z třeťáku.Conor Edwards vymetá každou párty v univerzitní Řecké čtvrti stejně jako postele holek ze sesterstev. Zamilujete se do něj dřív, než pochopíte, že kluci jako on nevěnují holkám jako já jediný pohled. Pan Oblíbený mě však zachrání – místo aby se mi vysmál, souhlasí s tím, že se mnou půjde do ložnice a bude předstírat, že jsme na to spolu vlítli.A pak mě naprosto dorazí, když oznámí, že v tom předstírání chce pokračovat. Jak se ukázalo, Conor se rád baví a dál to hrát na holky ze sesterstva mu připadá jako hodně velká zábava.Odolat jeho pohodářské povaze a sexy vzhledu je však skoro nemožné. A navíc si začínám myslet, že v Conorovi se toho možná skrývá víc, než dává sám najevo.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026915713</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Briar U"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:23+00:00"/>
+        <meta name="calibre:title_sort" content="Výzva"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

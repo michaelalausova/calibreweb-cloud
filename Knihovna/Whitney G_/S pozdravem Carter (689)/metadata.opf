@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">064053f7-6392-4264-9a59-436d7560327e</dc:identifier>
+        <dc:title>S pozdravem Carter</dc:title>
+        <dc:creator opf:file-as="G., Whitney" opf:role="aut">Whitney G.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-01T23:00:00+00:00</dc:date>
+        <dc:description>Jsou kamarádi. Jenom kamarádi. Opravdu. Arizona je pouze Carterova nejlepší kamarádka.Je jeho nejlepší kamarádka už od čtvrté třídy, přestože se tehdy nesnášeli.Byli tu jeden pro druhého při prvních polibcích i prvních „poprvé“ a navzájem se podporovali, když jim to ve vztazích s jinými nevyšlo. Dokonce chodili na vysokou školu kousek od sebe.Během těch let a navzdory tomu, co kdokoli říká, nikdy nepřekročili hranici přátelství. Nikdy je to ani nenapadlo. Nikdy o to nestáli. Až se jedné noci všechno změnilo. Nebo alespoň mělo… Jsou kamarádi, jenom kamarádi. Carter si to stále dokola opakuje, než přijde na to, jestli je Arizona pořád „jenom“ jeho nejlepší kamarádka.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026914563</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-19T22:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="S pozdravem Carter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

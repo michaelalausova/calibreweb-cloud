@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">484</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6831a889-7004-4161-9949-65fb86355656</dc:identifier>
+        <dc:title>Nenasytná</dc:title>
+        <dc:creator opf:file-as="Cabot, Meg" opf:role="aut">Meg Cabot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-26T07:43:17+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Nikdy neříkejte nikdy, a o upírech to platí dvojnásob... Mína Harperová,
+ samostatná, talentovaná, ale zároveň i smutná a díky svému 
+prazvláštnímu daru okamžitě odhalit, jakým způsobem a kdy člověk, který 
+před ní stojí, zemře, dost osamělá, se podílí na vytváření scénáře pro 
+nesmírně úspěšný seriál Nenasytná u jedné newyorské televizní stanice. 
+Jednoho dne jí její neschopná, avšak velmi průbojná a bezohledná 
+kolegyně sdělí, že vedení se rozhodlo seriál obohatit postavou upíra, 
+podobně jako u konkurence. Mína je zděšena, protože její vztah k upírům 
+je mírně řečeno odtažitý. Zanedlouho se však na večírku setkává s 
+naprosto neodolatelným profesorem literatury Lucienem Antonescuem, 
+vysokým, tajuplným brunetem, a od tohoto okamžiku si na nedostatek 
+inspirace, co se upírů týče, rozhodně stěžovat nemůže! Úspěšná americká 
+spisovatelka Meg Cabotová se v této knize svým nenapodobitelně 
+originálním způsobem vyrovnává se záplavou upírských ság na dnešním 
+knižním trhu.
+
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Knižní klub</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <meta name="calibre:series" content="Nenasytná"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:40:52+00:00"/>
+        <meta name="calibre:title_sort" content="Nenasytná"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfe91e53-dd26-4e74-aea9-e07cd786db8d</dc:identifier>
+        <dc:title>Bez srdce</dc:title>
+        <dc:creator opf:file-as="Meyer, Marissa" opf:role="aut">Marissa Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-13T06:41:18+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Catherine je jednou z nejžádanějších dívek v říši divů a o ruku ji chce požádat sám Král. Ona má ale jiné sny, netouží stát se královnou. Když potká na královském plese pohledného a záhadného Šprýma, rozhodne se, že nebude jen figurkou ve hře někoho jiného. Se Šprýmem se začne potají scházet i přesto, že oba riskují královu nelibost a hněv jejích rodičů. Cath je však pevně odhodlaná zvolit si vlastní cestu, jenže v zemi plné kouzel, šílenství a nestvůr má osud jiné plány.&lt;/p&gt;</dc:description>
+        <dc:publisher>Egmont</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788025239674</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">2a2e070e-eac8-4ee0-8a57-cf613f3b6fad</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:47:54+00:00"/>
+        <meta name="calibre:title_sort" content="Bez srdce"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

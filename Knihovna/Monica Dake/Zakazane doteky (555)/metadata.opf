@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">555</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11ecc388-f4d7-46fd-b4eb-598907418518</dc:identifier>
+        <dc:title>Zakázané doteky</dc:title>
+        <dc:creator opf:file-as="Dake, Monica" opf:role="aut">Monica Dake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-06T08:40:28+00:00</dc:date>
+        <dc:description>Poté co Willow podvedl přítel, touží po životním restartu. Rozhodně nestojí o románek s lamačem srdcí, ani kdyby to byl její sexy šéf se zhýralou pověstí. Když ale Henryho vyfotí paparazzi se zfetovanou dcerou senátora, jeho otci dojde trpělivost. Henry musí předstírat, že se zasnoubil. Potřebuje někoho s image hodné holky, která si po konci dohody půjde po svém. Willow by peníze potřebovala, ale ještě víc chce nevěrnému ex vytřít zrak. V jednom má ale jasno – mimo povolené zóny se jí Henry nesmí dotknout.</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:59+00:00"/>
+        <meta name="calibre:title_sort" content="Zakázané doteky"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

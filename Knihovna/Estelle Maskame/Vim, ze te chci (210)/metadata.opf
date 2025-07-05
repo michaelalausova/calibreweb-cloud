@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7a25825-e43e-440c-b858-edc0230aa4dc</dc:identifier>
+        <dc:title>Vím, že tě chci</dc:title>
+        <dc:creator opf:file-as="Maskame, Estelle" opf:role="aut">Estelle Maskame</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Nový pohled na příběh Tylera a Eden, díky němuž konečně poznáte, kým ten sebestředný, vzteklý a nešťastný kluk ze slavné DIMILY trilogie ve skutečnosti je. Navenek má Tyler Bruce dokonalý život. Jezdí neskutečným bourákem, jeho přítelkyně vypadá jako bohyně a žádný mejdan se bez něj neobejde. Uvnitř je však naprostá troska. To se ale nikdy nikdo nesmí dozvědět. Pak se v jeho životě objeví Eden. Je upřímná, všímavá a taky svůdná. Dokáže prokouknout jeho drsnou fasádu a vidět za ní jeho druhé, pečlivě skrývané já: malého kluka, který dlouhé roky snášel rány svého násilnického otce a nikdy se neozval...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Dimily"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:29:31+00:00"/>
+        <meta name="calibre:title_sort" content="Vím, že tě chci"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

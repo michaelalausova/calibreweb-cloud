@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5ac95ee-f801-40ab-9e56-0b401152d2ab</dc:identifier>
+        <dc:title>My</dc:title>
+        <dc:creator opf:file-as="Bowen, Sarina &amp; Kennedy, Elle" opf:role="aut">Sarina Bowen</dc:creator>
+        <dc:creator opf:file-as="Bowen, Sarina &amp; Kennedy, Elle" opf:role="aut">Elle Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-28T23:00:00+00:00</dc:date>
+        <dc:description>Hokejový útočník Ryan Wesley vede život, o jakém vždy snil. Pět měsíců po nástupu do NHL patří k nejúspěšnějším profesionálním hráčům a každý den se vrací domů k muži, kterého miluje – Jamiemu Canningovi, svému dlouholetému nejlepšímu kamarádovi a nyní i životnímu partnerovi. Je tu jenom jeden malý problém: Nejdůležitější vztah svého života musí tajit, jinak by ho čekala mediální bouře, která by mohla ukončit jeho kariéru.Jamie Wese nade všechno miluje. Jenže tajit vztah je na nic. Tohle není život, jaký si Jamie představoval, a obavy, aby jejich tajemství nevyšlo na povrch, si začínají vybírat svou daň. Nijak nepomáhá, že v nové práci to nejde tak hladce, jak Jamie čekal, ví však, že dokud má Wese, všechno zvládne. Aspoň že ve svém bytě můžou být sami sebou. Nebo snad ne? Když se do stejné budovy nastěhuje Wesův nejvlezlejší spoluhráč, hrozí, že pravda vyjde na světlo.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">bb47868e-713f-4c56-905b-2e6aaaeadc96</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788026912194</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>MM</dc:subject>
+        <meta name="calibre:series" content="Him"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:47+00:00"/>
+        <meta name="calibre:title_sort" content="My"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff00b9d4-a3e9-493a-a8df-680357005aec</dc:identifier>
+        <dc:title>Malum, část první</dc:title>
+        <dc:creator opf:file-as="Jones, Amo" opf:role="aut">Amo Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-01T00:00:00+00:00</dc:date>
+        <dc:description>„Láska je divoká, láska je slepá, pro ty dva je možná navždy ukrytá…“
+Kdysi dávno žila dívka v oprýskaném karavanu a jednoho dne se propadla do světa Elitního klubu králů. Byla vtažena do temného víru lží, nenávisti a falše, ale také peněz, pompéznosti a moci. Jenže spoustu věcí ta dívka netušila, měla je teprve zjistit a odhalit tajemství, jež před ní byla skryta. Ta tajemství strážili mladíci, kteří roztrhají její svět na kusy a rozdrtí ho na prach…
+Nate Riverside-Malum je král, ovšem i Tillie se do tohoto světa narodila, opomíjená z rozhodnutí své matky. V jejích očích nezáří hvězdy, zuří v nich však oheň a ten je možná všechny spálí. 
+Všechno, co si Tillie myslela, že ví, je smyšlená verze pravdy. A Nate je ten, o němž si holky mezi sebou šeptají a jehož iniciály vyrývají do zad.
+Její příběh není jako ostatní, protože její příběh je po smrti.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026911906</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Dark romance</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Elitní klub králů"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:35:07+00:00"/>
+        <meta name="calibre:title_sort" content="Malum, část první"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

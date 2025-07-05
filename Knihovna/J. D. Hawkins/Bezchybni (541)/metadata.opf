@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c81a913-1c74-455a-b59e-627d2f36b0be</dc:identifier>
+        <dc:title>Bezchybní</dc:title>
+        <dc:creator opf:file-as="Hawkins, J. D." opf:role="aut">J. D. Hawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-16T23:00:00+00:00</dc:date>
+        <dc:description>Sexy a svobodný miliardář bez závazků. Hvězda kanálu YouTube. A nejžhavější noc jejich života.
+Existuje jen jediné pravidlo, které odmítám porušit – žádné pletky s podřízenými. A mohlo mě napadnout, že někde bude háček. Vysoké podpatky, rudá rtěnka, bezchybná; byla to ta nejkrásnější žena na veletrhu kosmetiky – to už o něčem vypovídá. Ne že bychom si později na hotelovém pokoji povídali. Jen jedna noc, ovšem to jsem netušil, jaké překvapení na mě čeká v pondělí ráno v práci.
+Když jsem ho uviděla poprvé, řekla jsem si, že je až příliš nafoukaný, ale zároveň neodolatelný. Vlastně dokonalý odrazový můstek po mém pekelném rozchodu. Takže jsem zahodila svá obvyklá pravidla a svedla ho k sexu na jednu noc. Žádná jména, žádné závazky. Nakonec mě to zasáhlo víc, než jsem čekala.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026917441</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:timestamp" content="2025-06-08T10:43:19+00:00"/>
+        <meta name="calibre:title_sort" content="Bezchybní"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

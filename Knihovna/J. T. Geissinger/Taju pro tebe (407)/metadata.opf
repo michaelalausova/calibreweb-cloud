@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ea78d87-1d7e-446b-ba7f-2eda8914720a</dc:identifier>
+        <dc:title>Taju pro tebe</dc:title>
+        <dc:creator opf:file-as="Geissinger, J. T." opf:role="aut">J. T. Geissinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-08T22:00:00+00:00</dc:date>
+        <dc:description>Plachá, neprůbojná dívka si nechá radit od světáckého ragbisty – dokud láska nezmění pravidla hry. Nespolečenská Joellen Bixbyová má každou sobotu dostaveníčko – se svým kocourem, škopkem zmrzliny a fantaziemi o neskutečně pohledném Michaelu Maddoxovi. Tolik po něm touží, ale jak by asi tak mohla nedosažitelného generálního ředitele získat, když prakticky splývá se šedí pracoviště? Řešení je možná blíž, než myslela.
+ 
+Cameron McGregor je nafoukaný potetovaný kapitán skotského rugbyového týmu. Právě se nastěhoval do bytu naproti Joellen. Cam je notorický playboy a není Joellenin typ – ani trochu ne –, ale nabídne se, že zakřiklou dívku naučí vše, co ví o podněcování touhy.
+ 
+Pod Camův skotský kilt už nahlédla spousta žen, ale Jo je jiná než všechny ostatní. Sama se považuje za ošklivé káčátko, ale Cam ji vidí úplně jinak: připadá mu bystrá, vtipná a nesmírně sexy. Joellen díky němu získá sebejistotu a celá rozkvete. Muž jejích snů se náhle ocitne na dosah. Cam má smůlu. Dochází mu, že ženě svých snů pomohl do náruče jiného muže. A musí svést životní boj, aby o tuhle krásku nepřišel.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2021</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788076429123</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Vzplanutí"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:37:29+00:00"/>
+        <meta name="calibre:title_sort" content="Taju pro tebe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

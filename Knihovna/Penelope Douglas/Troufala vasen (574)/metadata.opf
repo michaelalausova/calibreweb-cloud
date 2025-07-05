@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">574</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8f71a5e-2ba3-46c7-940b-bac4c366c107</dc:identifier>
+        <dc:title>Troufalá vášeň</dc:title>
+        <dc:creator opf:file-as="Douglas, Penelope" opf:role="aut">Penelope Douglas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-05T16:05:36+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Když se Jordan nastěhuje k otci svého přítele, má to být jen dočasné řešení komplikované situace. Jenže Pike Lawson se jí brzy začne dostávat pod kůži. Oba vědí, že by se svým touhám neměli poddat, a snaží se s nimi bojovat. I kdyby to nebyl Coleův táta, pořád je mu osmatřicet a jí jen devatenáct. V jedné domácnosti se však vzájemné blízkosti vyhnou jen těžko.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788024953236</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:44:47+00:00"/>
+        <meta name="calibre:title_sort" content="Troufalá vášeň"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

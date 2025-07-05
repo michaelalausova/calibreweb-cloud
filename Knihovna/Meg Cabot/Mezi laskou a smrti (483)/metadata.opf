@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">483</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a52313f-0946-4824-8832-011e562d3a29</dc:identifier>
+        <dc:title>Mezi láskou a smrtí</dc:title>
+        <dc:creator opf:file-as="Cabot, Meg" opf:role="aut">Meg Cabot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sedmnáctiletá Pierce se málem utopila v bazénu na zahradě domu svých rodičů a vyvázla jen zázrakem. Událost byla posledním hřebíčkem do rakve rozkládajícího se manželství jejích rodičů a Pierce se s maminkou přestěhovala do ostrovního městečka jejího mládí, kde žije i babička a strýček s pochybnou pověstí. Po počátečních obtížích nachází ve škole nové přátele a setkává se i s tajuplným, ponurým, lehce agresivním, ale právě proto nesmírně atraktivním Johnem Haydenem, který se objevuje vždy, když to Pierce čeká nejméně, ovšem zaručeně přesně ve chvíli, kdy potřebuje jeho pomoc. Pierce o něm docela jistě ví jen jediné – je temný, půvabný a neodolatelný, ale není to žádný anděl. Kdyby mu propadla, byla by navždy odsouzena k existenci v místech, která ji děsí a kam se v žádném případě nechce vrátit... Dá přednost bezpečnému každodennímu životu, nebo omamující lásce v náručí smrti? První díl nové strhující „podsvětní“ řady.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Knižní klub</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Podsvětí"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:40:49+00:00"/>
+        <meta name="calibre:title_sort" content="Mezi láskou a smrtí"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff909cc6-3513-4ac1-b84b-b4db756cfa2d</dc:identifier>
+        <dc:title>Americký princ</dc:title>
+        <dc:creator opf:file-as="Simone, Sierra" opf:role="aut">Sierra Simone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-06T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Kdo jsem?
+&lt;br&gt;Jsem syn a nevlastní bratr. Kapitán v armádě a viceprezident.
+&lt;br&gt;Jen s ním jsem však princ. Jeho malý princ.
+&lt;br&gt;Jen s Maxenem a Greer dává můj život smysl, jen s nimi dokážu najít klid a mír a zahnat démony, kteří mě pronásledují. Muže jako já však šťastný život nečeká. Nezasloužíme si ho. Měl jsem tušit, že láska tak ostrá jako naše dokáže ranit z obou stran.
+&lt;br&gt;Jmenuji se Embry Moore a sloužím k potěše prezidenta Spojených států… prozatím. Tohle je příběh amerického prince.&lt;/p&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026914235</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53973150</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">dCw6zgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="DATABAZEKNIH">novy-kamelot-americky-princ-445381</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Nový kamelot"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:21:50+00:00"/>
+        <meta name="calibre:title_sort" content="Americký princ"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

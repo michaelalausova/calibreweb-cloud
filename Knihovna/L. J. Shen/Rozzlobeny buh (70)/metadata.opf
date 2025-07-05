@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fadaae6a-f328-4011-97f1-640c6e6b42c1</dc:identifier>
+        <dc:title>Rozzlobený bůh</dc:title>
+        <dc:creator opf:file-as="Shen, L. J." opf:role="aut">L. J. Shen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-19T22:00:00+00:00</dc:date>
+        <dc:description>Vaughn Spencer.
+Říkají mu rozzlobený bůh.
+Pro mě není ničím jiným než bezcitným princem.
+Jeho rodiče ovládají naše město, policii, každého občana i butik na hlavní třídě.
+Jediné, co mám já, je nesmiřitelná zášť vůči němu, protože mě málem zničil.
+Ani ve snu by mě nenapadlo, že mě bude pronásledovat až za oceán.
+A teď je tady, žije se mnou v temném, tajuplném sídle poblíž Londýna.
+Říká se, že tady straší. Je to pravda.
+Zámek Carlisle ukrývá naše nejtemnější tajemství.
+Vaughn si myslí, že dokáže zničit přízraky své minulosti. Netuší ale, že je to moje srdce, které zabíjí.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026918011</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Hříšníci - Nová generace"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:22:13+00:00"/>
+        <meta name="calibre:title_sort" content="Rozzlobený bůh"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

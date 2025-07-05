@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">871b13ef-f890-49a6-a17d-0c6340259d43</dc:identifier>
+        <dc:title>Princ</dc:title>
+        <dc:creator opf:file-as="Perry, Devney" opf:role="aut">Devney Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-30T22:00:00+00:00</dc:date>
+        <dc:publisher>Pavel Dobrovský – BETA s.r.o.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d1109867-f412-4b02-8e21-123d50b7b8bb</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Clifton Forge"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:27:59+00:00"/>
+        <meta name="calibre:title_sort" content="Princ"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

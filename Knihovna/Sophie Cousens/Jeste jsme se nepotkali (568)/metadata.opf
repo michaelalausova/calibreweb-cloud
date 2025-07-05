@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">568</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24f10495-f2e2-4b8a-a67e-b5688e54c627</dc:identifier>
+        <dc:title>Ještě jsme se nepotkali</dc:title>
+        <dc:creator opf:file-as="Cousens, Sophie" opf:role="aut">Sophie Cousens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-29T14:39:12+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Co kdybyste si na letišti vyzvedli cizí kufr a pak se bezhlavě vydali hledat jeho majitele? Redaktorka lifestylového časopisu a beznadějná romantička Laura se vydává na služební cestu na Normanské ostrovy. Její výprava se však nezačíná zrovna nejlépe. Po trapném setkání s nejvíc sexy mužem, jakého kdy viděla, dorazí do hotelu a zjistí, že si na letišti vzala špatný kufr. Když ho otevře, má pocit, že člověk, kterému zavazadlo patří, musí být její spřízněná duše. Pokud se Laura něco při své práci naučila, pak to, že proti osudu se bojovat nedá. Takže teď už jen stačí tajemného cizince vyhledat…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Komedie</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:44:33+00:00"/>
+        <meta name="calibre:title_sort" content="Ještě jsme se nepotkali"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

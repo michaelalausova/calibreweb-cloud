@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20d01a2a-89e0-475e-9287-9d9f6c815a21</dc:identifier>
+        <dc:title>Stůj při Mně</dc:title>
+        <dc:creator opf:file-as="Jell, Marcy" opf:role="aut">Marcy Jell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-15T00:00:00+00:00</dc:date>
+        <dc:description>Druhá kniha nové české autorky - Rap Games 1
+Pracovat pro člověka, který vám hází klacky pod nohy, chová se povýšeně a přezíravě, fakt není žádný med a já se s tím jen těžko smiřovala. Chtěla jsem s tím seknout. Představa, že už mu nebudu muset nikdy čelit, byla tak lákavá... Ale neměla jsem na výběr, vystudovat univerzitu byl můj největší sen a školné bych bez téhle práce nikdy nezaplatila. Rozhodla jsem se však přijít na kloub tomu, co stojí za jeho chováním… Proč nenávidí ženy? Co za tím vším stojí? Jaké tajemství se skrývá v jeho minulosti?</dc:description>
+        <dc:publisher>MEDIAPLEX s.r.o.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Rap games"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:34:46+00:00"/>
+        <meta name="calibre:title_sort" content="Stůj při Mně"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

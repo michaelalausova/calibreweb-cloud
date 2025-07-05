@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e921d94f-2d33-490c-9f95-df42798dd736</dc:identifier>
+        <dc:title>Zachraň mě</dc:title>
+        <dc:creator opf:file-as="Kasten, Mona" opf:role="aut">Mona Kasten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-29T22:00:00+00:00</dc:date>
+        <dc:description>Kniha Zachraň mě je o tom, co se všechno může stát, když studentka prestižní školy Maxton Hall v Anglii uvidí, co nemá… Taky o tom, jak se nesmělá, puntičkářská a cílevědomá stipendistka Ruby, která se dosud zajímala jen o studium a práci v Organizačním výboru pro školu, dostane do situací, které ji donutí vidět svět pravdivěji a barevněji. Rodina Ruby je docela obyčejná, ale harmonická, zatímco James je dědicem starobylého oděvního impéria a příkladem zkaženého, nevychovaného mladíka, který se snaží „užít si poslední rok na střední“. Kniha je o jejich vzájemné přitažlivosti a štěstí, které spolu nacházejí, ale o které musejí bojovat, a stále znovu jim uniká. Je o tom, jaké to je, projít se po prvé kampusem oxfordské univerzity, na které Ruby od dětství touží studovat, a přáních, která se možná splní. Jaké je, když se potkají na přijímacích zkouškách na Oxford daleko od domova… Kniha vás zve do světa dramatické první lásky, romantiky studentských let a napínavých okolností, které svět Ruby a Jamese obklopují.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2021</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788076425910</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Maxton Hall"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:34:10+00:00"/>
+        <meta name="calibre:title_sort" content="Zachraň mě"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bce79b13-16dc-4884-aa30-07b2b2b25b86</dc:identifier>
+        <dc:title>Když jsme to tajili</dc:title>
+        <dc:creator opf:file-as="Bowen, Sarina" opf:role="aut">Sarina Bowen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-29T22:00:00+00:00</dc:date>
+        <dc:description>CO SE STALO NA STŘEDNÍ, ZŮSTALO NA STŘEDNÍ. AŽ DOTEĎ.
+ 
+Před pěti lety Michael Graham zradil jediného člověka, který ho doopravdy znal. Od té doby svoji sexualitu tají před všemi, i před sebou.
+Nemůže uvěřit vlastním očím, když do šatny hokejového týmu Harknesské univerzity vstoupí duch jeho minulosti, s taškou s hokejovou výstrojí na rameni a s tím samým úsměvem, kterému Graham kdysi nedokázal odolat. V tu chvíli je jedinou reakcí, na kterou se Graham zmůže, čirá panika. Jediné omylem pronesené slovo a nový člen týmu by mohl Grahamovi zničit celý život.
+John Rikker je zase nováčkem. Tentokrát je to horší než obvykle, protože se mu na paty lepí novináři, kteří se nemůžou dočkat, až napíšou další článek o jediném hráči v první divizi, který o sobě otevřeně prozradil, že je gay. Jeho spoluhráči nejsou z přítomnosti tolika novinářů nadšení, a zvlášť jeden hráč zbledne pokaždé, kdy Rikker vejde do místnosti.
+Rikker rozhodně nečekal, že by ho Graham přivítal s otevřenou náručí, ale to, že se mu ani nepodívá do očí, ho překvapilo. Jak to tak vypadá, jeho bývalému… nejlepšímu kamarádovi, nebo příteli, nebo co to vlastně byli, se moc nedaří. Příliš pije a během tréninku se nedokáže soustředit.
+Buď dva nejosamělejší členy týmu tlak, který je na ně vyvíjen, dočista zničí, nebo překonají bolest, kterou si způsobili, a vrátí se k sobě.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026917335</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>MM</dc:subject>
+        <meta name="calibre:series" content="The Ivy Years"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:41:23+00:00"/>
+        <meta name="calibre:title_sort" content="Když jsme to tajili"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

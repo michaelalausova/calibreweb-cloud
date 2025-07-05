@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3b52b03-2f15-482c-9958-c391dd84cba7</dc:identifier>
+        <dc:title>Princezna popela</dc:title>
+        <dc:creator opf:file-as="Sebastian, Laura" opf:role="aut">Laura Sebastian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-24T10:28:21+00:00</dc:date>
+        <dc:description>Theodosii bylo šest let, když do země vtrhli nepřátelé a zavraždili její matku, královnu ohně. Toho dne Theodosia přišla nejen o svou rodinu a říši, ale i jméno. Stala se vězeňkyní ve vlastním paláci a byla posměšně korunována na Thoru, princeznu popela. Po letech týrání a ponižování ze strany císaře Theodosia pochopí, že za svůj lid musí bojovat do posledního dechu, i když to znamená zradit svou lásku.</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Princezna popela"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:23:21+00:00"/>
+        <meta name="calibre:title_sort" content="Princezna popela"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7430f12-6e51-4a1e-a767-a51e0589db57</dc:identifier>
+        <dc:title>Podzim, na který nezapomenu</dc:title>
+        <dc:creator opf:file-as="Constantin, Robin" opf:role="aut">Robin Constantin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Wren a Grayson mají hodně společného: minulost, které se chtějí zbavit, a budoucnost, pro kterou chtějí žít. Jak dopadne jejich osudové setkání?&lt;/p&gt;
+&lt;p&gt;Wren je úplně obyčejná hodná holka. Průměrně oblíbená, průměrně chytrá, vždycky ochotná udělat to, co se od ní čeká. Jenže s nástupem na střední má už té své nijakosti právě dost. Chtěla by být jiná, zajímavější. Jenže neví, jak na to. Grayson byl na střední Wreniným opakem: hvězda lakrosového týmu, jeden z nejlepších ve třídě, zářnou budoucnost měl jistou. Pak ho ale vyloučili ze školy za podvody při psaní esejí. Jeho skvělý život se v tu ránu změnil a on dopadl na tvrdé dno. Ačkoliv to tak nevypadá, Wren a Grayson mají hodně společného: minulost, které se chtějí zbavit, a budoucnost, pro kterou chtějí žít. Jak dopadne jejich osudové setkání? Dokážou společně najít svá nová já, nebo jim jejich nadšený, leč poněkud rozpačitý podzimní románek přinese jen další starosti a trápení?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:48:32+00:00"/>
+        <meta name="calibre:title_sort" content="Podzim, na který nezapomenu"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

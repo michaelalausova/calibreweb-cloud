@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">643</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b92c27af-71d4-4bc4-a758-399df76eb789</dc:identifier>
+        <dc:title>ZlatovláSSka</dc:title>
+        <dc:creator opf:file-as="Hajduková, Michaela Ella" opf:role="aut">Michaela Ella Hajduková</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;span class="start_text" style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 15.96px; orphans: 2; text-align: justify; widows: 2; background-color: rgb(255, 255, 255);"&gt;„Ako ťa z tohto vysekali?" spýtal sa šokovane a neprítomne hladkal zjazvenú pokožku. Ach, Gabriel, keby si videl, ako vyzerá moje telo - pomyslela som si zdrvene.&lt;br style="padding: 0px; margin: 0px;"&gt;Pokrčila som plecami. „Zázrak. A najlepší ríšski lekári. A hlavne... našli ma veľmi skoro. Nenechajú ma zomrieť. Niečo v sebe mám a oni to veľmi chcú. A keď to dostanú &lt;/span&gt;&lt;span class="end_text et_403853" style="padding: 0px; margin: 0px; display: inline; color: rgb(51, 51, 51); font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 15.96px; orphans: 2; text-align: justify; widows: 2; background-color: rgb(255, 255, 255);"&gt;je možné, že celý svet bude oblečený do našej vlajky,"&lt;br style="padding: 0px; margin: 0px;"&gt;Nemecká ríša, 1942&lt;br style="padding: 0px; margin: 0px;"&gt;Život Sanny Schlosserovej je utrpením. Pripadá jej ako pomalá cesta do pekla, lemovaná cintorínom. Nebyť však podivnej udalosti, ktorá sa stala na úsvite jedného augustového dňa, vyvíjal by sa celkom inak. Keby nie jej náhlej výnimočnosti, nikdy by nevidela sterilizovanie žien a dievčat v Osvienčime, nepodstúpila ponižujúce deflorovanie v lebensbornskom dome, neokúsila bolesť na vyšetrovacích stoloch Clauberga, Schultza a Schumanna, nespoznala desivý úsmev doktora Mengeleho, nestratila najlepšiu priateľku Rivku...&lt;br style="padding: 0px; margin: 0px;"&gt;... ale ani by nestretla Gabriela. Gabriela, ktorý by šiel po ňu aj do pekla. A možno tam napokon aj šiel.&lt;br style="padding: 0px; margin: 0px;"&gt;&lt;br style="padding: 0px; margin: 0px;"&gt;Nádherné secesné priestory Freyjiných kúpeľov, nemocničné bloky koncentračných táborov a množstvo lekárskych plášťov. Vitajte vo svete, kde zomrela sloboda, zábrany i Hippokratova prísaha. Máte odvahu? Tak otvorte dvere a poďte ďalej...&lt;/span&gt;
+
+&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">7b30e1d8-3e5f-4b06-96bf-9f6ec3f713fe</dc:identifier>
+        <dc:language>slk</dc:language>
+        <dc:subject>Historické</dc:subject>
+        <dc:subject>Válečné</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:47:42+00:00"/>
+        <meta name="calibre:title_sort" content="ZlatovláSSka"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

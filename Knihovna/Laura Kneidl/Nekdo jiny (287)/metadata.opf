@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6ff1a71-f5b8-4dd2-bb22-213330496547</dc:identifier>
+        <dc:title>Někdo jiný</dc:title>
+        <dc:creator opf:file-as="Kneidl, Laura" opf:role="aut">Laura Kneidl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-21T22:00:00+00:00</dc:date>
+        <dc:description>Cassie a Auri… naprosto dokonalé přátelství. Sdílejí spolu byt a mají i společné koníčky: fantasy literaturu a cosplay. A i když si je Cassie jistá, že ji nikdo nezná lépe než Auri, jejich světy jsou si zároveň velmi vzdálené.
+Auri je populární hráč univerzitního fotbalu, má spoustu kamarádů a známých a rád se baví. Cassie se naopak před světem spíš schovává, miluje samotu a svůj život sdílí jen s úzkým okruhem přátel.
+Postupem času se však jejich city mění. Cassie je k Aurimu silně přitahována, ale zároveň se obává, že to, co je spojuje, není tak silné jako to, co je rozděluje…</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Vendeta 2022</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027701599</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Někdo"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:32:33+00:00"/>
+        <meta name="calibre:title_sort" content="Někdo jiný"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

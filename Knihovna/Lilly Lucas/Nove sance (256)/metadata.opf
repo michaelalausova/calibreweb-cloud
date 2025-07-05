@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f18b92e-4b3c-44c6-a03b-e5b73cfdc3d5</dc:identifier>
+        <dc:title>Nové šance</dc:title>
+        <dc:creator opf:file-as="Lucas, Lilly" opf:role="aut">Lilly Lucas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-03T22:00:00+00:00</dc:date>
+        <dc:description>Zamilovaná na druhém konci světaKdyž Leonie uvízne v malém městečku Green Valley ve Skalistých horách, má za sebou perný den. Zahraniční praxe v pivovaru řemeslného piva vybouchla. Naprosto zoufalá si vylije srdce před šarmantním barmanem Samem, protože bez práce jí nezbývá nic jiného, než se vrátit domů do Německa.Mezi oběma dojde ke žhavému polibku, ale potom se Sam najednou stáhne.Další den se chce Leonie ucházet o práci chůvy a naprosto nečekaně stojí proti Samovi: Ten je otcem malé Mayi...Bušení srdce, velké sny a pocit, že jste doma: To je zamilovaná série Green Valley od Lilly Lucas.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Vendeta 2024</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027720057</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Láska z Green Valley"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:31:18+00:00"/>
+        <meta name="calibre:title_sort" content="Nové šance"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

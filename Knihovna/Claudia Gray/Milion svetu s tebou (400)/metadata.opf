@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0842932b-e832-4b1e-9e60-7884e665abb1</dc:identifier>
+        <dc:title>Milion světů s tebou</dc:title>
+        <dc:creator opf:file-as="Gray, Claudia" opf:role="aut">Claudia Gray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description" style="text-align: justify;"&gt;Milion vesmírů. Milion nebezpečí. Jeden osud. Osud multivesmíru je v rukou Marguerite Caineové. Od té doby, co začala poprvé cestovat do jiných dimenzí s pomocí Ohniváka, vynálezu svých rodičů, stojí uprostřed multidimenzionálních problémů ona. Až nyní se dozvídá, jaké jsou skutečné plány prohnané Triad Corporation – že by nejlépe chtěli vymazat stovky vesmírů. Paul Markov vždycky byl na straně Marguerity, ale po posledním útoku Triadu se změnil a leží na něm stín tragédie. Snaží se to překonat, ale i když mu Marguerite pomáhá, seč může, nezdá se, že by někdy mohl být stejný jako dřív. Marguerite je tedy jediná, kdo může zabránit zničení multivesmíru. Jde o miliardy lidských životů. V sázce nikdy nebylo víc. A Triad navíc vynesl nejvyšší trumf: zlomyslnou a duševně narušenou Marguerite z jiné dimenze, která je vždycky o krok napřed.&lt;/p&gt;
+&lt;p class="description" style="text-align: justify;"&gt;Ve finále trilogie Ohnivák se rozhodne o osudech hrdinů. Multivesmír už nikdy nebude jako dřív. Nastane souboj mezi několika Margueritami – zvítězit může jen jedna.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cooboo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788075447333</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Sci-fi</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Ohnivák"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:37:12+00:00"/>
+        <meta name="calibre:title_sort" content="Milion světů s tebou"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

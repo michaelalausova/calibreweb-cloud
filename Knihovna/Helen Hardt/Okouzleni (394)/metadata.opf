@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">394</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7dd54e3f-3e71-446e-83d3-8f6a8d832e46</dc:identifier>
+        <dc:title>Okouzlení</dc:title>
+        <dc:creator opf:file-as="Hardt, Helen" opf:role="aut">Helen Hardt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-20T22:00:00+00:00</dc:date>
+        <dc:description>Jonah Steel je mimořádně fyzicky přitažlivý a bohatý rančer, kterého však pronásledují pocity viny. Otec mu od dětství vštěpoval, že jako nejstarší ze sourozenců musí ostatní chránit a je za ně zodpovědný. A on v tom zklamal – nedokázal zabránit únosu a zneužívání svého mladšího bratra Talona. Ještě po pětadvaceti letech ho to stále pronásleduje a trápí.
+Terapeutka Melanie Talona úspěšně léčí z utrpěných traumat, ale v případě mladé dívky Giny už tak úspěšná nebyla - Gina nečekaně spáchala sebevraždu. Melanie si stále vyčítá, že nedokázala rozpoznat příznaky toho, k čemu se Gina chystala. Když se na ni Jonah obrátí s prosbou, aby ho začala léčit a zbavila ho tíživých pocitů provinilosti, brzy vyjde najevo, že jsou na tom podobně – oba si vyčítají, že selhali a nedodrželi své závazky.
+Navíc to mezi nimi již od prvního setkání silně jiskří, takže se jejich vztah terapeutky a pacienta záhy změní v něco docela jiného...</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027712748</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Bratři Steelové"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:36:57+00:00"/>
+        <meta name="calibre:title_sort" content="Okouzlení"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

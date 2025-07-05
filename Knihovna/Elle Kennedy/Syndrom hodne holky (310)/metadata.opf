@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">310</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11b8746f-2941-44fb-8da1-07c312d77944</dc:identifier>
+        <dc:title>Syndrom hodné holky</dc:title>
+        <dc:creator opf:file-as="Kennedy, Elle" opf:role="aut">Elle Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-06T23:00:00+00:00</dc:date>
+        <dc:description>Dvacetiletá Mackenzie „Mac“ Cabotová by se pro ostatní rozkrájela, vždy a za všech okolností dělá, co se od ní očekává, a dodržuje pravidla. Má své sny a cíle, přesto aby vyhověla rodičům, nastoupí na univerzitu v přímořském městečku Avalon Bay.
+Když však potká místního potížistu Coopera Hartleyho, má Mac chuť hodit všechna pravidla za hlavu. Cooper je otevřený a upřímný drsňák, který obrátí její svět svazovaný pravidly vzhůru nohama, a jejich přátelství se postupně změní v něco vážnějšího.
+Navzdory svému odporu k potomkům zbohatlíků, kteří se do jeho města sjíždějí za studiem, si Cooper brzy uvědomí, že Mac není jako ostatní, a zamiluje se do ní. Až po uši. Brzy však začne vyvěrat na povrch tajemství, které Cooper před Mac střeží a jež hrozí, že zničí to jediné místo, kde se Mac cítila skutečně jako doma.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026919438</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Avalon Bay"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:32+00:00"/>
+        <meta name="calibre:title_sort" content="Syndrom hodné holky"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

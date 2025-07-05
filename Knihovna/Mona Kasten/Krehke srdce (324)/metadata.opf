@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f52bc2fc-6233-481c-9c24-819aca572cbb</dc:identifier>
+        <dc:title>Křehké srdce</dc:title>
+        <dc:creator opf:file-as="Kasten, Mona" opf:role="aut">Mona Kasten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-19T22:00:00+00:00</dc:date>
+        <dc:description>Jsou to už tři měsíce, co se Adam neozval. Rosie stále nemůže dostat z hlavy jeho slova z dopisu na rozloučenou. Srdce ji bolí stejně jako první den, postrádá společné rozhovory i každodenní legrační zprávy a fotky, které si s Adamem posílali během turné skupiny Scarlet Luck po Evropě. Touží po blízkosti, kterou s ním cítila, i když byl tisíce kilometrů daleko.Turné skončilo předčasně, jelikož Adam se po nepříjemné události v pařížském studiu rozhodl okamžitě nastoupit odvykací protialkoholní léčbu.Rosie se ze všech sil snaží na Adama zapomenout. Určité rozptýlení nachází ve své práci. Je moderátorkou vlastního internetového pořadu o hudbě a neúnavně pracuje na tom, aby se po posledních událostech vrátil na správnou cestu, ale bohužel se to nedaří úplně nejlépe.A potom Adam opouští kliniku pro léčbu závislostí a u východu jej zachytí nedočkaví novináři. Ve zbídačelém stavu ho vyfotografují a fotky zveřejní. Když Rosie obrázky najde, dojde jí, že Adam je zpátky. A že se jí ani po návratu neozval…</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027714070</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Scarlet Luck"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:34:05+00:00"/>
+        <meta name="calibre:title_sort" content="Křehké srdce"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

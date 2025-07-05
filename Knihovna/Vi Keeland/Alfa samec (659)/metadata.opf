@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b5a70ac-e67f-440f-ba82-bfeaf30ec741</dc:identifier>
+        <dc:title>Alfa samec</dc:title>
+        <dc:creator opf:file-as="Keeland, Vi" opf:role="aut">Vi Keeland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-16T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Tu noc, kdy Emerie poprvé potkala Drewa, myslela si, že se vloupal do její nové kanceláře na Park Avenue. Než stihla zavolat 911, ukázalo se, že tenhle arogantní a pekelně pohledný chlapík je skutečným majitelem kanceláře a ona jen naletěla podvodníkovi.   &lt;/p&gt;
+&lt;p&gt;Drew nečekal, že se bude po návratu z dovolené dohadovat s touhle temperamentní mladou ženou. Taky nečekal, že ji nebude moct dostat z hlavy. Zvlášť potom, co dovolil, aby v jeho kanceláři zůstala, než si najde něco jiného.  &lt;/p&gt;
+&lt;p&gt;Jak se velmi rychle ukazuje, ti dva by nemohli být rozdílnější. Zatímco Emerie zachraňuje lidem manželství, Drew je namyšlený lamač srdcí. Zatímco ona je zamilovaná do jiného, on se neplánuje zamilovat nikdy. To jediné, co je spojuje, je prostor jedné kanceláře a odzbrojující přitažlivost, která sílí každým dnem…&lt;/p&gt;</dc:description>
+        <dc:publisher>Euromedia</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788024935744</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:48:22+00:00"/>
+        <meta name="calibre:title_sort" content="Alfa samec"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

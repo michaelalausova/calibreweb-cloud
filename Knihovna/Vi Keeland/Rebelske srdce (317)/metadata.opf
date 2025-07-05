@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5865d412-dda5-4110-a389-dab39bba19fc</dc:identifier>
+        <dc:title>Rebelské srdce</dc:title>
+        <dc:creator opf:file-as="Keeland, Vi &amp; Ward, Penelope" opf:role="aut">Vi Keeland</dc:creator>
+        <dc:creator opf:file-as="Keeland, Vi &amp; Ward, Penelope" opf:role="aut">Penelope Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-27T22:00:00+00:00</dc:date>
+        <dc:description>Po šokujícím závěru Rebelského dědice přichází pokračování příběhu Rushe a Gii ve druhém dílu s názvem Rebelské srdce.
+ Jak si pokazit jinak skvělé léto v Hamptons:
+Vyspat se se šéfem. Splněno.
+Utratit všechny peníze za nájem, který si nemůžete dovolit. Splněno.
+ Jak na konci léta odejít od muže, kterého milujete:
+… Dám vám vědět, až na to přijdu.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026911036</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Rush Duet"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:33:49+00:00"/>
+        <meta name="calibre:title_sort" content="Rebelské srdce"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

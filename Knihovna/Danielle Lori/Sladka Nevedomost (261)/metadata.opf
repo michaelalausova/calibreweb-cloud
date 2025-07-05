@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd5ebae5-b330-493b-8943-c45ed6d3968e</dc:identifier>
+        <dc:title>Sladká Nevědomost</dc:title>
+        <dc:creator opf:file-as="Lori, Danielle" opf:role="aut">Danielle Lori</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-21T23:00:00+00:00</dc:date>
+        <dc:description>Říká se, že první dojem je nejdůležitější…V temném světě newyorského podsvětí si má Elenina sestra brát Nicolase Russoa – bosse a podvodníka takového formátu, že je to moc i na samotnou mafii. Jeho pověst ho předchází a je černější než jeho obleky a kravaty. Když ho Elena poprvé spatří, nedokáže se ovládnout a zlostně se na něj podívá. Díky tomu zjišťuje, že je to muž nejen hrubý, ale také pohledný.Nelíbí se jí jeho chování ani způsob života, přesto si však její srdce nemůže pomoci a buší jako zběsilé, kdykoli je mu nablízku. Nedokáže zabránit zachvění, které jí přejede po páteři pokaždé, když slyší jeho hlas.A on je jí nablízku neustále. Přikazuje jí, co má dělat, a rozpaluje ji víc, než se na budoucího švagra sluší. Navenek je Elena stále Sladkou Abelliovou, ale ve skrytu duše si začíná uvědomovat, že jí učarovala jeho temnota, hrubé ruce, cigarety a oči barvy whisky. Jednou už si ale pověst pošpinila a nesmí dopustit, aby se minulost opakovala.Navíc, i kdyby nakonec byli spolu, každý přece ví, že do mafiána se dívka nikdy nesmí zamilovat… Nebo snad ano?</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2022</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027710539</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Made"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:31:31+00:00"/>
+        <meta name="calibre:title_sort" content="Sladká Nevědomost"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

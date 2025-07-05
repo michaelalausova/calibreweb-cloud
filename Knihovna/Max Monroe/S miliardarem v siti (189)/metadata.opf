@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4881f7a-b268-4e43-aedc-851d4fef625c</dc:identifier>
+        <dc:title>S miliardářem v síti</dc:title>
+        <dc:creator opf:file-as="Monroe, Max" opf:role="aut">Max Monroe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-28T22:00:00+00:00</dc:date>
+        <dc:description>Georgia Cummingsová nemá při seznamování moc štěstí a dnešní éra internetu jí v tom jinak nepomáhá. Ať se snaží utíkat seberychleji, pořád nemůže uniknout tomu prapodivnému alternativnímu vesmíru, v němž si muži myslí, že zaslání dickpicu plně nahrazuje úvodní seznamování a může se jít rovnou na věc. Ještě jeden další nevyžádaný rozkrok a asi už na celé mužské pokolení navždy zanevře…Jeden muž jí ale nedá spát. Proč ji pronásledují divoké fantazie právě o něm?Kline Brooks představuje klasický prototyp miliardářského floutka – oblečení podle poslední módy, krátké tmavé vlasy, vypracované svaly -a k tomu vládne odzbrojujícím úsměvem, kterým hravě kosí davy žen.Až na to, že on takový vlastně není. Navíc by se jí jako své zaměstnankyně ze zásady nedotknul ani třímetrovou tyčí. A ona jeho také ne. Oba totiž jednají naprosto profesionálně.Jenže, jak už to bývá, jejich hormonům profesionalita ani společenská korektnost nic neříkají.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027712601</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Láska za všechny prachy"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:28:45+00:00"/>
+        <meta name="calibre:title_sort" content="S miliardářem v síti"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

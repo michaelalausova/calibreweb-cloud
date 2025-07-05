@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6ff3c57-8f51-49ec-ab24-9528904a5bc6</dc:identifier>
+        <dc:title>Zkáza a naděje</dc:title>
+        <dc:creator opf:file-as="Bardugo, Leigh" opf:role="aut">Leigh Bardugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-16T15:46:58+00:00</dc:date>
+        <dc:description>Temnyj ovládl Ravku a osud celé země tak leží v rukou zlomené světlonošky, zneuctěného stopaře a pozůstalých členů kdysi úctyhodné magické armády. Oslabená Alina se vydává po stopách nepolapitelného ptáka ohně a doufá, že cestou najde vyděděného prince. Alina bude muset uzavřít nová příměří. Jakmile však začne odkrývat Temnyjova tajemství, odhalí se jí pravda, která změní všechno, co si doposud myslela o jejich poutu a moci, jíž oplývá.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Griša"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:42:16+00:00"/>
+        <meta name="calibre:title_sort" content="Zkáza a naděje"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

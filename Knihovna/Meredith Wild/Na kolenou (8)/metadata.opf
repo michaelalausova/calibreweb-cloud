@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2121346-9abd-4258-8af8-303ee5056cb7</dc:identifier>
+        <dc:title>Na kolenou</dc:title>
+        <dc:creator opf:file-as="Wild, Meredith" opf:role="aut">Meredith Wild</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-08T23:00:00+00:00</dc:date>
+        <dc:description>STÁLE JE SEXY, POŘÁD JI MILUJE, ALE NEMŮŽE JI MÍT...|
+Když Cameron požádal lásku svého života, aby si ho vzala, dala mu Maya Jacobsová, svázaná odpovědností za péči o svou problémovou matku, jedinou odpověď, kterou mohla. O několik let později, zakořeněná v bezduché pracovní rutině, se rozptyluje od přetrvávající lítosti svého rozhodnutí životním stylem „tvrdě pracovat a užívat si života“, který zaručuje, že se už nikdo do jejího srdce znovu nedostane.
+Cameron Bridge strávil posledních pět let v armádě, kde se pokoušel uniknout bolestivé vzpomínce na ztrátu Mayi. Poté, co v poušti bojoval ve své vlastní válce, začal nový život v New Yorku po boku svých sourozenců, Olivií a Darrenem. Osud je však svede opět dohromady. Může Cameron v srdci města plného nadějí a stínů najít dívku, již kdysi miloval, v té ženě, kterou se stala?
+Lehce psychologický příběh, protkaný erotickou linkou, je vhodný pro všechny, kteří chtějí poznat, jaké je milovat a nemoci se druhému plně oddat.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2020</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788076420601</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">063537df-df7d-4184-bb06-b9c35a94d10b</dc:identifier>
+        <dc:language>ces</dc:language>
+        <meta name="calibre:series" content="Na kolenou"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:17:48+00:00"/>
+        <meta name="calibre:title_sort" content="Na kolenou"/>
+        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

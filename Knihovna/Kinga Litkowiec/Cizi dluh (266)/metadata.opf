@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c8d2a42-987d-46cc-9935-8400b001f05a</dc:identifier>
+        <dc:title>Cizí dluh</dc:title>
+        <dc:creator opf:file-as="Litkowiec, Kinga" opf:role="aut">Kinga Litkowiec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-24T22:00:00+00:00</dc:date>
+        <dc:description>Kdo se rozhodne podepsat smlouvu s ďáblem, musí být připravený na všechno.
+Po otcově smrti Jessica Turnerová zjistí, že jí po něm zbyly dluhy. A ona je ta, která je musí zaplatit. Záchranu hledá u svého věřitele – Liama O´Direa, přezdívaného Ďábel z Los Angeles.
+Lhostejný a bezcitný šéf místního podsvětí jí však nabídne vskutku ďábelskou smlouvu: život výměnou za to, že se její tělo stane jeho majetkem. „Mohu být tvůj pán, nebo tvůj kat. Klidně tě tady a teď zabiju.“
+Dokáže mladá, nezkušená dívka ustát střet s pohledným mužem, jehož srdce před lety zkamenělo? A co se stane, když časem oba zjistí, že je spojuje víc, než by chtěli?Cizí dluh není jen další z řady romantických příběhů. Je plný nečekaných zvratů a střetů dvou různých světů, kde se moc a nadvláda mísí s touhou a vášní. Autorka bez příkras popisuje drsný život mafianského podsvětí Los Angeles i temná zákoutí lidských duší.</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2021</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027701568</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Démoni z Los Angeles"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:31:42+00:00"/>
+        <meta name="calibre:title_sort" content="Cizí dluh"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

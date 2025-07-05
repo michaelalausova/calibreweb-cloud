@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1cdd7ae-84cc-4824-8f59-d54a8f340041</dc:identifier>
+        <dc:title>Defy: Nebezpečná láska</dc:title>
+        <dc:creator opf:file-as="Shen, L. J." opf:role="aut">L. J. Shen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;p class="MsoNoSpacing"&gt;&lt;a name="_Hlk10235360"&gt;Jmenuju se Melody Greeneová a
+musím se vám k něčemu přiznat.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class="MsoNoSpacing"&gt;Spala jsem se
+svým studentem.&lt;/p&gt;
+
+&lt;p class="MsoNoSpacing"&gt;Spoustukrát.&lt;/p&gt;
+
+&lt;p class="MsoNoSpacing"&gt;Měla jsem spoustu
+orgasmů.&lt;/p&gt;
+
+&lt;p class="MsoNoSpacing"&gt;Ve spoustě pozic.&lt;/p&gt;
+
+&lt;p class="MsoNoSpacing"&gt;Spala jsem se
+svým studentem a užívala si to.&lt;/p&gt;
+
+&lt;p class="MsoNoSpacing"&gt;Spala jsem se
+svým studentem, a kdybych mohla vrátit čas, tak bych to klidně udělala znovu.&lt;/p&gt;
+
+&lt;p class="MsoNoSpacing"&gt;Jmenuju se Melody
+Greeneová a dělala jsem špatné věci, protože jsem se pak cítila dobře.&lt;/p&gt;
+
+&lt;p class="MsoNoSpacing"&gt;A řeknu vám, proč
+to stálo za to.&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Baronet a.s.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026911968</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Hříšníci"/>
+        <meta name="calibre:series_index" content="0.5"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:22:31+00:00"/>
+        <meta name="calibre:title_sort" content="Defy: Nebezpečná láska"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c61d3b60-8aab-49ef-8af4-85ea683e75c1</dc:identifier>
+        <dc:title>Divoký princ</dc:title>
+        <dc:creator opf:file-as="March, Meghan" opf:role="aut">Meghan March</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-06T22:00:00+00:00</dc:date>
+        <dc:description>Kdo tušil, že se situace v New Orleansu ještě zhorší? Úspěšná autorka Meghan March představuje krutého prince města, muže, kterého byste nikdy nechtěli potkat.
+ 
+Dělám si, co chci a s kým chci. Nedodržuju ničí pravidla – dokonce ani svá.
+Věděl jsem, že bych se jí neměl dotknout, ale nezastavilo mě to. Nezastavilo mě to ani podruhé. O to víc jsem ji chtěl potřetí.
+Můj životní styl vyhovuje divochovi, jímž jsem, ale jí ne.
+Temperance Ransomová je však moje nejnovější posedlost a já se jí zatím nehodám vzdát.
+Zkrotím ji, i kdyby to znamenalo odvléct ji do temnoty.
+Doufám, že nás to oba nezničí.
+ 
+Divoký princ je prvním dílem série, která se odehrává ve stejném prostředí jako Nemilosrdný král; nemusíte však číst trilogii o Mountovi, aby vás tenhle skandální erotický příběh okouzlil.</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788026917861</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Savage trilogy"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:29:42+00:00"/>
+        <meta name="calibre:title_sort" content="Divoký princ"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

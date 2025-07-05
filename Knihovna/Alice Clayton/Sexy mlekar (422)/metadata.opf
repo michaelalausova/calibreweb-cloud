@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73d4aa87-b3bb-46a5-b75f-8223dc9e0514</dc:identifier>
+        <dc:title>Sexy mlékař</dc:title>
+        <dc:creator opf:file-as="Clayton, Alice" opf:role="aut">Alice Clayton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-21T09:19:51+00:00</dc:date>
+        <dc:description>Natalie Graysonová má všechno. Je krásná, žije na Manhattanu a pracuje jako top manažerka přední reklamní agentury, jejíž kampaně se nebojí provokovat. Má spoustu přátel, milující rodinu a v adresáři samé pěkné svobodné mládence. Co víc by si mohla moderní holka z velkoměsta přát? Odpovědí je, samozřejmě… sýr. Nataliinou oblíbenou činností je trávit sobotní rána na Union Square, kde se každý týden koná farmářský trh, na němž se může naplno oddat své vášni pro všechno mléčné. Nataliin oblíbený stánek navíc uspokojuje i její vášeň pro všechno sexy. Oscar Mendoza, majitel mlékárny Bailey Falls a dodavatel těch nejlepších farmářských sýrů, jaké může Hudson Valley nabídnout, je vysoký, snědý, záhadný… a vypadá to, že nejeví zájem. Nebo to si alespoň Natalie myslí – ačkoli jí to nezabrání snít o velikosti jeho, ehm, bandasky na mléko. Romantika bublá, vášeň pění, a něco neuvěřitelného vyplouvá na povrch. Mohla by to být… láska?</dc:description>
+        <dc:publisher>Mladá fronta</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Hudson Valley"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-06-08T10:38:12+00:00"/>
+        <meta name="calibre:title_sort" content="Sexy mlékař"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

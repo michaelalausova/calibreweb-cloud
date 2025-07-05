@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce8c23eb-f34c-4ee1-9e32-f266367770ae</dc:identifier>
+        <dc:title>Nelíbánky</dc:title>
+        <dc:creator opf:file-as="Lauren, Christina" opf:role="aut">Christina Lauren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-19T22:00:00+00:00</dc:date>
+        <dc:description>ČTĚTE PRVNÍ!
+OCHUTNEJTE PRVNÍ ŘÁDKY DŘÍV NEŽ OSTATNÍ. KUPTE SI E-KNIHU EXKLUZIVNĚ JEŠTĚ PŘED OFICIÁLNÍM DNEM VYDÁNÍ 23.6. A ČTETĚ TAK MEZI PRVNÍMI. 
+
+Nesměla bych se jmenovat Olive Torresová, aby se tohle nestalo přesně mně. V šesti letech jsem uvízla v automatu na hračky a museli mě vysvobodit hasiči. Uhodil do mě blesk, uštknul mě chřestýš. Před pár týdny jsem přišla o práci a nemůžu najít jinou. A za to, že teď letím na Havaj, může katastrofální nevolnost z jídla, která zničila svatbu mé sestry a které jsem jako jediná unikla díky své potravinové alergii. Přesněji řečeno, unikli jsme dva. V tomhle letadle vedle mě sedí ženichův bratr Ethan. Proklatě přitažlivý chlap, ale jinak ten nejprotivnější protiva, jakého zrodil svět. To teda budou Nelíbánky!
+Autorky bestsellerových sérií Božský a Vášnivý vás zvou na kouzelný havajský ostrov Maui, kde se nepříliš dobrovolně ocitne dvojice ústředních hrdinů. Olive a Ethan o sobě nemají žádné iluze. Pobyt, který měl být romantickou svatební cestou jejich čerstvě sezdaných sourozenců, se nevyhnutelně změní v boj o sprchu, poukázky na masáž, klíče od auta… a taky o postel… Válka mezi švagrem a švagrovou začíná – dobře se bavte!</dc:description>
+        <dc:publisher>Nakladatelství JOTA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788075658715</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-08T10:47:32+00:00"/>
+        <meta name="calibre:title_sort" content="Nelíbánky"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>
