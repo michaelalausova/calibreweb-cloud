@@ -5,18 +5,16 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">73e00c42-01ed-4007-a8b0-83e81f4c9c05</dc:identifier>
         <dc:title>Šíleně bohatý</dc:title>
         <dc:creator opf:file-as="Scott, Kylie" opf:role="aut">Kylie Scott</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-03-20T23:00:00+00:00</dc:date>
         <dc:description>Na pohádky jsem už dávno přestala věřit, takže když se mnou začal v práci flirtovat nový uklízeč nádobí Beck, nedělala jsem si naděje. Obyčejní lidé si na lásku jako trám můžou nechat zajít chuť. Vím, o čem mluvím.
 Jak bych ale mohla odolat muži, který cituje Jane Austenovou, umí mě rozesmát a je vážně sexy? Skrývá se toho v něm však mnohem víc. Beck je playboy a miliardář s utrápenou duší, který mi chce položit k nohám celý svět. Tohle však není mnohokrát vyprávěný příběh o Popelce a rytíři na bílém koni, jenž zachrání dívku před chudobou. V tomhle příběhu se toho skrývá mnohem víc.</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026917953</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Bohatý"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:24:13+00:00"/>
         <meta name="calibre:title_sort" content="Šíleně bohatý"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

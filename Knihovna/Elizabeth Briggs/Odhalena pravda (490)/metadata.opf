@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">685a7fdd-a68e-40f5-ac61-231cd5dd0a71</dc:identifier>
         <dc:title>Odhalená pravda</dc:title>
         <dc:creator opf:file-as="Briggs, Elizabeth" opf:role="aut">Elizabeth Briggs</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-09-09T22:00:00+00:00</dc:date>
         <dc:publisher>Grada Publishing, a.s.</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788027174836</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

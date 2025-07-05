@@ -5,17 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d7a26769-94a3-4700-8437-9cf142ae62ec</dc:identifier>
         <dc:title>Prokletý princ</dc:title>
         <dc:creator opf:file-as="Watt, Erin" opf:role="aut">Erin Watt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-24T22:00:00+00:00</dc:date>
         <dc:description>Reed Royal má vše, co by si mohl přát: vzhled, postavení, peníze. Dívky na elitní akademii Astor Park stojí frontu, aby si s ním mohly vyrazit, a kluci mu závidí, jenže Reedovi nikdy nezáleželo na nikom jiném než jeho rodině – dokud mu do života nevstoupila Ella Harperová.To, co začalo spalující nenávistí a plánem, jak nové otcově chráněnce udělat ze života peklo, se brzy změní v něco silnějšího. Chce ji mít nablízku a zajistit jí bezpečí. Když ji však Reed jedinou hloupou chybou odežene a uvrhne tím rodinu Royalů do chaosu, začne se mu život rozpadat pod rukama.Ella ho už nechce. Tvrdí, že jeden druhého jen ničí.Možná má pravdu.Tajemství. Zrada. Nepřátelé. Nic podobného Reed dosud nepoznal, a pokud chce získat svou princeznu zpět, musí dokázat, že jí za to  stojí.</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026906506</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Royalové"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:18:06+00:00"/>
         <meta name="calibre:title_sort" content="Prokletý princ"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

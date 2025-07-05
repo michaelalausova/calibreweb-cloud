@@ -5,9 +5,8 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">86f45c72-6b7b-45a1-add6-addf24982740</dc:identifier>
         <dc:title>Město padlých andělů</dc:title>
         <dc:creator opf:file-as="Clare, Cassandra" opf:role="aut">Cassandra Clare</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:identifier opf:scheme="MOBI-ASIN">bfbcfefc-fb3e-4394-9fef-d9de03012d2f</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Young Adult</dc:subject>

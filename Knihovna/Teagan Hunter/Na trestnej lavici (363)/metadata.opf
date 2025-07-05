@@ -5,11 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b02f1ea6-d63a-42da-9d7b-0b4bedaa4d63</dc:identifier>
         <dc:title>Na trestnej lavici</dc:title>
         <dc:creator opf:file-as="Hunter, Teagan" opf:role="aut">Teagan Hunter</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-08-04T22:00:00+00:00</dc:date>
         <dc:description>Teagan Hunter – Na trestnej lavici</dc:description>
         <dc:publisher>Vydavateľstvo Zelený Kocúr</dc:publisher>
-        <dc:identifier opf:scheme="URN">ISBN 978-80-69010-24-6</dc:identifier>
         <dc:language>slk</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

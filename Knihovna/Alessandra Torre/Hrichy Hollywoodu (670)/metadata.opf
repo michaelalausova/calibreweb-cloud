@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5e95e55a-fc9c-4c7b-b960-7d26ed5812f8</dc:identifier>
         <dc:title>Hříchy Hollywoodu</dc:title>
         <dc:creator opf:file-as="Torre, Alessandra" opf:role="aut">Alessandra Torre</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-08T23:00:00+00:00</dc:date>
         <dc:description>NE VŠECHNY PROTIKLADY BY SE MĚLY PŘITAHOVAT…
 Cole Masten je herec, kterého opustila jeho superslavná manželka. Dokonalý hollywoodský manžel se tak stává nejžádanějším hollywoodským nezadaným mužem. Jde z jedné party a jedné postele do druhé a město Los Angeles se musí mít na pozoru.
@@ -13,11 +13,9 @@ Summer Jenkinsová je děvče z malého městečka Quincy ve státě Georgia. S
 Tihle dva pocházejí ze dvou naprosto odlišných světů a jejich životy se nikdy neměly protnout. Pak si Cole přečte knihu o městečku, v němž žijí šťastlivci, kteří vydělali jmění na akciích Coca-Coly. O šest měsíců později už vystupuje ze soukromého tryskáče na prašném letišti v Quincy a spolu s ním přichází i Hollywood a jeho hříchy.
 Summer od začátku ví, že s Colem budou jen problémy. Jak pro jejich město, tak i pro ni samotnou. Protože ne všechny protiklady by se měly přitahovat…</dc:description>
         <dc:publisher>Mystery Press</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788075881670</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:timestamp" content="2025-06-08T10:48:50+00:00"/>
         <meta name="calibre:title_sort" content="Hříchy Hollywoodu"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

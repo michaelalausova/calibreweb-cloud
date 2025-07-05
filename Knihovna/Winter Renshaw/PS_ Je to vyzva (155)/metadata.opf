@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8c0914ee-8146-4f04-84e9-a1cf1ccfd2c6</dc:identifier>
         <dc:title>PS: Je to výzva</dc:title>
         <dc:creator opf:file-as="Renshaw, Winter" opf:role="aut">Winter Renshaw</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-08-19T22:00:00+00:00</dc:date>
         <dc:description>Nový romantický příběh úspěšné autorky ze série PS
  
@@ -20,13 +20,11 @@ S úctou
 Calder Welles II
 PS: Je to výzva!</dc:description>
         <dc:publisher>Pavel Dobrovský – BETA s.r.o.</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788075932389</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="P.S."/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:27:25+00:00"/>
         <meta name="calibre:title_sort" content="PS: Je to výzva"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0c8c4866-e7a8-426b-8453-7310e01b38fe</dc:identifier>
         <dc:title>Zas tak moc ho nežeru</dc:title>
         <dc:creator opf:file-as="Quinn, Meghan" opf:role="aut">Meghan Quinn</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-02-19T22:00:00+00:00</dc:date>
         <dc:description>Jak jste se vy dva seznámili?
 Tohle je zásadní otázka pro každý pár. Odpovědí je pak obvykle nějaký sladkobolný příběh o tom, jak je do zadnice trefil Amorův šíp. 
@@ -20,7 +20,6 @@ Taková drzost!
 Jenže lidé dělají šílené věci, když jsou zoufalí. A já zoufalstvím přímo čpěla. Takže jsme uzavřeli dohodu. 
 Udělala jsem ale jednu velkou chybu… velikou… OBROVSKOU? Nešťastnou náhodou jsem se do Huxleyho Canea zamilovala.</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026920250</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Cane Brothers"/>

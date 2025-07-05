@@ -5,18 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b3bc835f-3828-44cf-97bd-f5cb6e3f37f5</dc:identifier>
         <dc:title>Kdekoliv</dc:title>
         <dc:creator opf:file-as="Sprinz, Sarah" opf:role="aut">Sarah Sprinz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-06-15T11:59:17+00:00</dc:date>
         <dc:description>&lt;p&gt;Romantický young adult příběh ze Skotska. Studentka Emma hledá svého otce, který kdysi odešel od rodiny. Při té příležitosti se seznámí se spolužákem Henrym. Ten jí pomáhá v její nové situaci. Jejich vzájemná přitažlivost však není vítaná. Emma se vydává na roční výměnný pobyt do Skotska s jediným cílem: najít svého tátu, který před lety odešel od rodiny. Doufá, že jí v hledání pomůže právě nová internátní škola, Akademie Dunbridge, kde se její rodiče seznámili. Už cestou do Edinburghu ale potkává Henryho, který není jen mluvčí školy, ale taky neskutečně okouzlující kluk. Sice už je zadaný, ale to Emmě vlastně přijde vhod, protože se přece nepřijela do Skotska zamilovat. A když se pak Henry ještě nabídne, že jí pomůže tátu najít, musí si Emma přiznat, že je na nejlepší cestě se do něj zamilovat. Ani on nedokáže ignorovat, jak moc ho tato německá studentka přitahuje. Brzy jsou oba vydáni napospas citům, které každým dnem sílí a sílí. Jenže ve chvíli, kdy už se schyluje ke šťastnému konci, do jejich životů nemilosrdně zasáhne smrt. Nakladatelská anotace. Kráceno.&lt;/p&gt;</dc:description>
         <dc:publisher>Red</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788027713486</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">d4ok0AEACAAJ</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Akademie Dunbridge"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:20:40+00:00"/>
         <meta name="calibre:title_sort" content="Kdekoliv"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

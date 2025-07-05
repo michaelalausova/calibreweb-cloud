@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">df46a131-bdaf-457d-bfc0-74822eeb2d41</dc:identifier>
         <dc:title>Vášnivý lhář</dc:title>
         <dc:creator opf:file-as="Lauren, Christina" opf:role="aut">Christina Lauren</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1969-12-31T23:00:00+00:00</dc:date>
         <dc:publisher>Jota</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788075651235</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

@@ -5,15 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a5f86d71-e944-4b6c-bbf2-7b1db6c37436</dc:identifier>
         <dc:title>Neměli bychom</dc:title>
         <dc:creator opf:file-as="Keeland, Vi" opf:role="aut">Vi Keeland</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-04-08T22:00:00+00:00</dc:date>
         <dc:description>Bennett se dovídá, že po fúzi dvou reklamních agentur bude muset o své místo kreativního ředitele soupeřit s Annalise, zastávající v druhé z firem stejnou pozici. Je si však jistý, že díky svým mnohaletým zkušenostem s přehledem zvítězí a „té ženské“ nezbyde nic jiného, než odjet na pobočku…</dc:description>
         <dc:publisher>Ikar CZ</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788024944579</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:timestamp" content="2025-06-08T10:44:16+00:00"/>
         <meta name="calibre:title_sort" content="Neměli bychom"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b73392fb-7d02-4354-b0e2-5ce24b9760ef</dc:identifier>
         <dc:title>Snít znovu</dc:title>
         <dc:creator opf:file-as="Kasten, Mona" opf:role="aut">Mona Kasten</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-26T23:00:00+00:00</dc:date>
         <dc:description>&amp;#13;
 &amp;#13;
@@ -14,7 +14,6 @@ Když se Jude Livingstonové v Los Angeles zhroutí sny, utíká za svým bratre
 &amp;#13;
 &amp;#13;</dc:description>
         <dc:publisher>knihy DOBROVSKÝ Omega 2021</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788076425682</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Začít znovu"/>

@@ -5,18 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2adad7d9-b175-4c48-a657-02783988cf2f</dc:identifier>
         <dc:title>Jako led</dc:title>
         <dc:creator opf:file-as="Lynn, J." opf:role="aut">J. Lynn</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-12-31T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Jednadvacetiletá Sydney je zamilovaná do Kylera snad odjakživa. Jsou nejlepšími kamarády od té doby, co ji shodil na hřišti a ona ho donutila sníst bábovičku. Někdy během těch let se do něj opravdu hodně zamilovala. A jaký je v tom problém? Kyler je děvkař. Nikdy nezůstal s jednou holkou déle než pár nocí. Zatímco spolu studují posledním rokem na univerzitě, Sydney nechce ohrozit jejich přátelství tím, že by Kylerovi přiznala, že ho miluje.&lt;br&gt; &lt;br&gt;Kyler vždy vnímal Sydney jako nedosažitelnou. Znamená pro něj vše a je dokonalá. Své city k ní však stále ukrývá nebo směřuje na jakékoli další ženy. Ostatně Kyler bude vždy jen chudý kluk ze špatné čtvrti a Sydney ta jediná holka, kterou nikdy nemůže mít.&lt;br&gt; &lt;br&gt;Když ale spolu kvůli masivní sněhové bouři uvíznou v luxusním lyžařském letovisku, nic nedokáže zastavit jejich vášnivé city, aby se vydraly na povrch. Přežije jejich přátelství vzájemnou přitažlivost? A přežijí vůbec oni? Protože zatímco padá sníh, někdo je sleduje, a tak jim lyžařský výlet může změnit život víc než jen jedním způsobem.&lt;/p&gt;</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="MARTINUSSK">164533</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9788073848385</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Frigid"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:31:14+00:00"/>
         <meta name="calibre:title_sort" content="Jako led"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

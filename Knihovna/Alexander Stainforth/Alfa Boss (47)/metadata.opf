@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">68eadc1c-b75e-42bb-aeca-1c6d27820bae</dc:identifier>
         <dc:title>Alfa Boss</dc:title>
         <dc:creator opf:file-as="Stainforth, Alexander" opf:role="aut">Alexander Stainforth</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-06-09T22:00:00+00:00</dc:date>
         <dc:description>&lt;p id="description"&gt;POKRAČOVÁNÍ MM ROMANCE BOSS
 &lt;br&gt;​
@@ -15,8 +15,6 @@
 &lt;br&gt;
 &lt;br&gt;Alfa boss je emotivní gay romance o lásce, bolesti a cestě za vykoupením, ale především o tom, že po každém konci může přijít další příběh.&lt;/p&gt;</dc:description>
         <dc:publisher>David Kaps</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9990001852665</dc:identifier>
-        <dc:identifier opf:scheme="MOBI-ASIN">8957eb62-4cfc-46ec-b2f1-5abf9bd15d6a</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

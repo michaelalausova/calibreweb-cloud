@@ -5,17 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d7c8c7ee-a872-4c7a-844d-d32084f42e9e</dc:identifier>
         <dc:title>Sleduj mě</dc:title>
         <dc:creator opf:file-as="Kennedy, Stacey" opf:role="aut">Stacey Kennedy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-05-17T22:00:00+00:00</dc:date>
         <dc:description>Mladá reportérka Hazel Roseová má před sebou nový úkol – najít maskovaného muže z fotografie pořízené v erotickém klubu Phoenix a pokusit se s ním udělat rozhovor. V čem je háček? V tom, že Hazel už ví jak o klubu, tak o muži ukrytém za zlatou maskou. Jmenuje se Kieran Black a je to její sexy spolubydlící. Hazel za žádnou cenu nechce odhalit světu jeho identitu, stejně jako se neodvažuje s ním probírat jeho tajnou vášeň. Stačí totiž jediný jeho úsměv, aby zrudla jako rak. Kieran preferuje sex tvrdý a vztahy krátké. Jako dítě rozvedených rodičů se nikdy nechtěl vázat. Najednou se ale dostal do věku, kdy se jeho přátelé žení, a on si začíná uvědomovat, že jeho život je vlastně prázdný. Na svatbě jejich společných přátel Rhyse a Zoey konečně svou nenápadnou spolubydlící trochu poznává. A když mu Hazel vylíčí trable s bývalým přítelem, Kieran jí nabídne dohodu. Hazel dobře ví, že jejich žhavý románek nikdy neměl přerůst v nic vážnějšího. Brzy však zjistí, že tomuhle neznámému Kieranovi – který v sobě skrývá víc vřelosti, než sám tuší – začíná propadat. Když život do jejich nevázaného vztahu vnese komplikace, oba se musí rozhodnout, zda se dál vydají každý po vlastní ose, nebo se pokusí nechat minulost za zády a vyrazí společnou cestou.</dc:description>
         <dc:publisher>Grada Publishing, a.s.</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788076257368</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Phoenix"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:33:00+00:00"/>
         <meta name="calibre:title_sort" content="Sleduj mě"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

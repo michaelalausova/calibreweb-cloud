@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">53c1eba3-cebf-4340-96db-2ece6395f030</dc:identifier>
         <dc:title>Měsíční čarodějky</dc:title>
         <dc:creator opf:file-as="Briggs, Elizabeth" opf:role="aut">Elizabeth Briggs</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-05-02T22:00:00+00:00</dc:date>
         <dc:publisher>Grada Publishing, a. s.</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788027173068</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

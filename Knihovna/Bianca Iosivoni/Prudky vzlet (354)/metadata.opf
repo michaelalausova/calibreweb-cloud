@@ -5,20 +5,18 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">820131d7-0a52-4500-af9c-59a391cb62c6</dc:identifier>
         <dc:title>Prudký vzlet</dc:title>
         <dc:creator opf:file-as="Iosivoni, Bianca" opf:role="aut">Bianca Iosivoni</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-10T22:00:00+00:00</dc:date>
         <dc:description>UPŘÍMNÝ A CITLIVÝ PŘÍBĚH HAILEE A CHASEHO POKRAČUJE | 
 V předešlé knize této řady Hailee, ta klidnější z dvojčat, která se doposud schovávala před světem ve svém pokoji mezi knížkami, vyrazila na dobrodružnou cestu napříč Amerikou. Postavila se mnohým výzvám, splnila si tajné sny a zamilovala se do šarmantního mladíka jménem Chase.
 Pokračování příběhu ale odhalí, že Hailee měla tajemství, o kterém on neměl ani tušení. Že láska ani naděje nebyly součástí jejího plánu. Už od prvního okamžiku věděla, že o něj přijde, protože na konci léta se její temný osud naplní. Přesto si Chase s každým úsměvem, dotykem a společným zážitkem získává její srdce a stojí při ní i poté, když je její tajemství odhaleno a Hailee se musí poprat se životem.
 Mají ale šanci? Nebo si musí přiznat, že ani láska někdy nestačí?</dc:description>
         <dc:publisher>knihy DOBROVSKÝ Red 2021</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788076425132</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Hailee &amp; Chase"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:35:16+00:00"/>
         <meta name="calibre:title_sort" content="Prudký vzlet"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

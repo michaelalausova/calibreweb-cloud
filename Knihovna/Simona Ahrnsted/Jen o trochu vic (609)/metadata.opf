@@ -5,11 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5ef9f597-6d89-4bf4-9a3a-2279ed613c6e</dc:identifier>
         <dc:title>Jen o trochu víc</dc:title>
         <dc:creator opf:file-as="Ahrnsted, Simona" opf:role="aut">Simona Ahrnsted</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-10T22:00:00+00:00</dc:date>
         <dc:description>Stella během jediného dne ztratí milence, práci i domov. Po divoké noci plné vzteku a koktejlů dochází k jedinému řešení, jak ze všeho ven – musí opustit Stockholm a pokusit se prodat chátrající domek po prarodičích. A tak se ocitá na venkově, ve společnosti krav, slepic, koz a jednoho nafoukaného farmáře… který ovšem umí neobyčejně dobře líbat.</dc:description>
         <dc:publisher>Grada Publishing, a. s.</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788076255678</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Protiklady se přitahují"/>

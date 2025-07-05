@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7a3f9351-91b3-4f0f-a30d-94c05a6ffd2b</dc:identifier>
         <dc:title>Nevinnost se zavázanýma očima</dc:title>
         <dc:creator opf:file-as="Torre, Alessandra" opf:role="aut">Alessandra Torre</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-05-30T22:00:00+00:00</dc:date>
         <dc:description>KDYŽ MUŽ TVRDÍ, ŽE NENÍ TAKOVÝ, JAK SE O NĚM ŘÍKÁ, MÁTE JISTOTU, ŽE JE PŘESNĚ TAKOVÝ, JAK SE O NĚM ŘÍKÁ…
 Brad De Luca je špičkový rozvodový právník, zvyklý dostat cokoli a kohokoli si zamane. Jeho postelí prošla už dobrá polovina města, včetně jeho klientek, ale nová koncipientka je podle všeho vůči jeho šarmu imunní, což Brad nemůže nechat jen tak.
@@ -14,13 +14,11 @@ Jenže než se naděje, má ji ten nenapravitelný svůdník ve své moci. Julia
 ___
 Skandální erotický román od autorky bestsellerů Smlouva na lásku, Černé lži a Hříchy Hollywoodu! Čtenářky Padesáti odstínů šedi by měly zbystřit…</dc:description>
         <dc:publisher>Mystery Press</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788075883643</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Nevinnost"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:18:54+00:00"/>
         <meta name="calibre:title_sort" content="Nevinnost se zavázanýma očima"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

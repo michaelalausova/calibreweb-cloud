@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">76491bc2-6070-4805-ac86-8a106906050e</dc:identifier>
         <dc:title>Nevděčný</dc:title>
         <dc:creator opf:file-as="Ward, Penelope" opf:role="aut">Penelope Ward</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-02-19T23:00:00+00:00</dc:date>
         <dc:description>Jmenuju se Aspyn, pracuju v domově pro seniory jako koordinátorka a mám svou práci ráda. Ale když dostanu za úkol hlídat na vycházkách jednoho z našich klientů – tedy hlavně jeho vnuka, který ho bez ohlášení klidně odveze z domova –, nejsem z toho zrovna nadšená. Zvlášť když zjistím, že dotyčného vnuka dost dobře znám!
 Důvody, proč by mě Troy Serrano neměl přitahovat:
@@ -21,11 +21,9 @@ Nic víc to není, jen moje fantazie. Tedy až do té noci v baru, kdy jsme na s
 Přesto jsem přesvědčená, že to vůbec nic neznamená.
 Není přece možné, aby kluk, kterého nenávidím, byl zároveň ten, bez kterého nemůžu žít!</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026920281</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:timestamp" content="2025-06-08T10:46:02+00:00"/>
         <meta name="calibre:title_sort" content="Nevděčný"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

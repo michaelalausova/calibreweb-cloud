@@ -5,15 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">257d427a-b022-4f5c-ab77-43d447758fe2</dc:identifier>
         <dc:title>Jen jeden rok</dc:title>
         <dc:creator opf:file-as="Ward, Penelope" opf:role="aut">Penelope Ward</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-11T22:00:00+00:00</dc:date>
         <dc:description>Druhý ročník mého vysokoškolského studia nezačal zrovna šťastně. Hned první den jsem se chytla s jedním arogantním Angličanem – a věřte tomu, nebo ne, bylo to na pánských záchodcích (dámské byly mimo provoz a mně nezbylo nic jiného než zamířit na pánské – ale nesuďte mě za to). Druhá rána přišla, když jsem navečer konečně dorazila domů a zjistila, že student, který u nás měl pronajatý pokoj, byl alergický na naši kočku. Takže si pokoj pronajal jiný student – a věřte tomu, nebo ne, byl to ten otrapa, s nímž jsem se pohádala! Tak začal můj příběh lásky a nenávisti s Calebem Yatesem.Ten chlapík přesně věděl, jak mi zabrnkat na city. Hrál si se mnou jako kočka s myší. Občas jsem mu napsala mail plný rozhořčení a pohrdání… odpověděl mi vždycky ve stejném duchu. Byl tak otravný a protivný! Ale uměl být i vtipný a roztomilý… a tak vzrušující!Brzy mi přirostl k srdci a stal se mým nejlepším přítelem. Jen škoda, že se musel vrátit zpátky do Anglie. Od začátku jsem věděla, že se do něj nesmím zamilovat… z mnoha důvodů. Ale hlavně proto, že jsme před sebou měli jen jeden rok společného života.</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026915386</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:timestamp" content="2025-06-08T10:48:19+00:00"/>
         <meta name="calibre:title_sort" content="Jen jeden rok"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -5,9 +5,8 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">46d7a4bb-6e1e-4f0f-846f-6a2979a0557a</dc:identifier>
         <dc:title>Město ztracených duší</dc:title>
         <dc:creator opf:file-as="Clare, Cassandra" opf:role="aut">Cassandra Clare</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:identifier opf:scheme="MOBI-ASIN">fd1f010b-9176-4234-bed1-d70b0e7d7096</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Young Adult</dc:subject>

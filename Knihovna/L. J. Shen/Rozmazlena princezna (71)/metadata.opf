@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d7f5f992-0121-42e8-aef4-84d4a6238dcd</dc:identifier>
         <dc:title>Rozmazlená princezna</dc:title>
         <dc:creator opf:file-as="Shen, L. J." opf:role="aut">L. J. Shen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-08-01T22:00:00+00:00</dc:date>
         <dc:description>Penn 
 Říká se, že pomsta chutná nejlépe zastudena.
@@ -29,7 +29,6 @@ Před lety mi řekl, že nic na tomhle světě není zadarmo.
 A teď je načase, abych zaplatila.
 Z cyklu Hříšníci : Nová generace (1)</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026916529</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

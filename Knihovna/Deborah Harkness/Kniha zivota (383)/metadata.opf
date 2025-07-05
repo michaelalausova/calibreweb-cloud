@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">147e7dca-7ef2-4c30-a512-bc43264d3ddb</dc:identifier>
         <dc:title>Kniha života</dc:title>
         <dc:creator opf:file-as="Harkness, Deborah" opf:role="aut">Deborah Harkness</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-07-26T22:00:00+00:00</dc:date>
         <dc:description>&lt;p&gt;Závěrečný díl světově úspěšné trilogie. Hlavní hrdinové a milenci, 
 čarodějnice Diana Bishopová a upír Matthew Clairmont, se vracejí v čase z
@@ -15,7 +15,6 @@ tajemství objevené čarodějnicemi v dávných dobách a ukryté v tajemném
 Ashmoleově svazku. Než se však Dianě a Matthewovi podaří odhalit obsah 
 tajného rukopisu alias Knihy života, musí uhájit i svůj zakázaný vztah.&lt;/p&gt;</dc:description>
         <dc:publisher>Knižní klub</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788024251219</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Urban fantasy</dc:subject>
         <dc:subject>Romantické</dc:subject>

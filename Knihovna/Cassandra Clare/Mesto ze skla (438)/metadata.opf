@@ -5,9 +5,8 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f3228921-2824-4d3e-bd8e-ee1facf8ff98</dc:identifier>
         <dc:title>Město ze skla</dc:title>
         <dc:creator opf:file-as="Clare, Cassandra" opf:role="aut">Cassandra Clare</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:identifier opf:scheme="MOBI-ASIN">8d28361b-acf4-4601-8d9a-7aaf362d97e4</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Young Adult</dc:subject>

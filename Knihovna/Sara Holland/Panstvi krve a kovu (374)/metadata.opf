@@ -5,11 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">608ddbe1-cf31-4a6e-ad17-926053bd1744</dc:identifier>
         <dc:title>Panství krve a kovu</dc:title>
         <dc:creator opf:file-as="Holland, Sara" opf:role="aut">Sara Holland</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-01T00:00:00+00:00</dc:date>
         <dc:description>&lt;p id="description"&gt;Čas je vězení. Jen ona má klíč. &lt;br&gt;&lt;br&gt;V království Sempera se platí časem. Hodiny, dny i roky jsou extrahovány z krve a pomocí magie přetavovány v kovové mince. Ty však bohatí aristokraté, jako jsou Gerlingové, neúprosně daní. Na úkor obyčejných lidí si tak zajišťují bohatství a dlouhověkost. &lt;br&gt;&lt;br&gt;Jules Emberová Gerlingy nenávidí. Před lety jim spolu se svým otcem sloužili na jejich panství Everless, pak však museli kvůli tragické nehodě utéct. Teď ale otec umírá a Jules nezbývá nic jiného, než se tam vrátit a vzácný čas pro něj získat. &lt;br&gt;&lt;br&gt;Návrat na Everless ji vystaví mnoha nebezpečím, a taky pokušením. Brzy se ocitne ve víru intrik, smrticích tajemství a lásky ke dvěma lidem, o nichž si myslela, že je už nikdy nespatří. To, jak se rozhodne, může změnit osud nejen jí, ale i samotnému času.&lt;/p&gt;</dc:description>
         <dc:publisher>Fragment (CZ)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">978-80-253-4342-5</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Everless"/>
         <meta name="calibre:series_index" content="1"/>

@@ -5,17 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">65583e28-98d1-435d-b851-d53c606715d4</dc:identifier>
         <dc:title>Polib mě ještě jednou</dc:title>
         <dc:creator opf:file-as="Tack, Stella" opf:role="aut">Stella Tack</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-01-22T22:00:00+00:00</dc:date>
         <dc:description>Být odvážný neznamená nemít strach. A milovat neznamená být neustále šťastný. V budoucnu i ty, i já nejspíš někomu ublížíme – tomu se nedá zabránit.Ale vím, že když zavřu oči a budu volně padat, budeš tam a chytíš mě. Proto dovol, abych já byla ta, která chytí tebe.A budeš-li si to přát, můžeme padat spolu, pokud mě při tom budeš držet za ruku.Když se Evangelina seznámí s jedním z královských bodyguardů, rozvíří to její veškerý citový svět. Impulzivní Kinsgley přitom naprosto nezapadá do královského dvora a dokonce si musí odsedět trest. Ačkoli už si nechce způsobovat další potíže, princezninu šarmu přesto neunikne. Rozvine se dobrodružný flirt, ovšem za vysokou cenu – když je Eva napadena, chrání ji jako bodyguard Kingsleyův otec a zaplatí životem. A Eva a Kingsley zlomeným srdcem.Když se jejich cesty rozejdou, Eva je přesvědčená, že už ho nikdy nespatří, jenže poté převezme Kingsley otcův bývalý post a dostane za úkol chránit Evin život.</dc:description>
         <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788027721306</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Osobní strážce"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:19:47+00:00"/>
         <meta name="calibre:title_sort" content="Polib mě ještě jednou"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6842fba9-133b-477d-9fab-b75ea2247713</dc:identifier>
         <dc:title>Americká královna</dc:title>
         <dc:creator opf:file-as="Simone, Sierra" opf:role="aut">Sierra Simone</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-10-25T07:00:00+00:00</dc:date>
         <dc:description>&lt;p id="description"&gt;Začalo to polibkem ukradeným pod anglickou oblohou a skončilo cestou k oltáři.
 &lt;br&gt;
@@ -17,10 +17,6 @@
 &lt;br&gt;
 &lt;br&gt;Tohle je příběh americké královny.&lt;/p&gt;</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026913481</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">49112638</dc:identifier>
-        <dc:identifier opf:scheme="DATABAZEKNIH">novy-kamelot-americka-kralovna-427703</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">CgQEzgEACAAJ</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

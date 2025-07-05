@@ -5,17 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e84c35f9-9b41-47ff-ad1e-ac84cd52e588</dc:identifier>
         <dc:title>Šílená posedlost</dc:title>
         <dc:creator opf:file-as="Lori, Danielle" opf:role="aut">Danielle Lori</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-05-01T22:00:00+00:00</dc:date>
         <dc:description>Její šaty jsou příliš těsné, podpatky příliš vysoké. Směje se příliš nahlas, neslušně jí a většinu výroků si plete. Málokdo ví, že je to jen jiskřivý převlek, který má skrýt jeden záchvat paniky za druhým.Nikdo nemůže rozbít Gianninu masku… Tedy dokud nepřijde on.Většina v něm vidí vzor morálky; zvláštní agent dodržující zákon. V newyorském podsvětí ho však znají jako podvodníka a zabijáka s ledovým srdcem. Christian Allister vždy následoval svůj životní plán, který si představoval v mládí, pod ostrými světly chladné vlhké cely. Se sklonem k pořádku a číslem tři nebyl nikdy v pokušení vychýlit se z kurzu. Ale možná by se nikdy nemělo říkat nikdy…Jedna zimní noc a jejich životy se propletou. Nenávidí ho – jeho chladné vystupování, jeho aroganci a příliš vnímavý pohled – ale v průběhu let začne žít jen proto, aby si s ním hrála.</dc:description>
         <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788027710546</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Made"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:31:34+00:00"/>
         <meta name="calibre:title_sort" content="Šílená posedlost"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

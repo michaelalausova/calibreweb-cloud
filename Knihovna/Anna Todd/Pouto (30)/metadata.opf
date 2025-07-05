@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">04a6e5c8-3e9c-4b3e-a0dd-b17a324e07a7</dc:identifier>
         <dc:title>Pouto</dc:title>
         <dc:creator opf:file-as="Todd, Anna" opf:role="aut">Anna Todd</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>YOLI</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788075491343</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

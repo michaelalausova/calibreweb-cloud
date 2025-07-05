@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a90455a8-c195-49e3-8c0b-6b5366423acf</dc:identifier>
         <dc:title>Polámaná loutka</dc:title>
         <dc:creator opf:file-as="Jones, Amo" opf:role="aut">Amo Jones</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-06-04T22:00:00+00:00</dc:date>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026908661</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Dark romance</dc:subject>
         <dc:subject>Erotické</dc:subject>

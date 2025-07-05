@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">90c47388-682f-4305-ac1c-9fd80ab64414</dc:identifier>
         <dc:title>Bentley</dc:title>
         <dc:creator opf:file-as="Moreland, Melanie" opf:role="aut">Melanie Moreland</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>&lt;p id="description"&gt;Tři mladí muži se seznámí na univerzitě, kde také začne jejich celoživotní přátelství.
 &lt;br&gt;
@@ -20,7 +20,6 @@
 &lt;br&gt;Ochranářsky.
 &lt;br&gt;
 &lt;br&gt;Milovaně.&lt;/p&gt;</dc:description>
-        <dc:identifier opf:scheme="MOBI-ASIN">aa531674-9e8a-40df-ab71-10799db452d0</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

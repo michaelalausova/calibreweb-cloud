@@ -5,11 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f179aa6c-a321-4c26-a62f-dd2ef47cf33f</dc:identifier>
         <dc:title>Zmija a krídla noci</dc:title>
         <dc:creator opf:file-as="Broadbent, Carissa" opf:role="aut">Carissa Broadbent</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-10-19T22:00:00+00:00</dc:date>
         <dc:description>Carissa Broadbent – Zmija a krídla noci</dc:description>
         <dc:publisher>Vydavateľstvo Motýľ</dc:publisher>
-        <dc:identifier opf:scheme="URN">ISBN 978-80-8164-337-8</dc:identifier>
         <dc:language>slk</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Romantické</dc:subject>

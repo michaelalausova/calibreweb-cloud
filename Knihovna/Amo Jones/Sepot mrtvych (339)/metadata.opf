@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4ba6f612-25ba-4240-8895-eec3d4df8eec</dc:identifier>
         <dc:title>Šepot mrtvých</dc:title>
         <dc:creator opf:file-as="Jones, Amo" opf:role="aut">Amo Jones</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-11-11T22:00:00+00:00</dc:date>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026909811</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Dark romance</dc:subject>
         <dc:subject>Erotické</dc:subject>

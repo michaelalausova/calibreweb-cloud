@@ -5,9 +5,8 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">08d4fe88-07e0-4117-bc6b-d04023be9c5a</dc:identifier>
         <dc:title>Učiněná katastrofa</dc:title>
         <dc:creator opf:file-as="McGuire, Jamie" opf:role="aut">Jamie McGuire</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:identifier opf:scheme="MOBI-ASIN">2df08c6e-6af8-4523-804f-1eaec5d15ad7</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Beautiful"/>

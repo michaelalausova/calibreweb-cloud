@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">871b13ef-f890-49a6-a17d-0c6340259d43</dc:identifier>
         <dc:title>Princ</dc:title>
         <dc:creator opf:file-as="Perry, Devney" opf:role="aut">Devney Perry</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-05-30T22:00:00+00:00</dc:date>
         <dc:publisher>Pavel Dobrovský – BETA s.r.o.</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">d1109867-f412-4b02-8e21-123d50b7b8bb</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>

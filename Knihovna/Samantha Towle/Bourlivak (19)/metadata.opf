@@ -5,18 +5,16 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7204456e-6190-4b5b-b17e-5f5305d1a8a0</dc:identifier>
         <dc:title>Bouřlivák</dc:title>
         <dc:creator opf:file-as="Towle, Samantha" opf:role="aut">Samantha Towle</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-09-27T22:00:00+00:00</dc:date>
         <dc:description>Rokenrolový milostný trojúhelník… životní příběh novinářky Tru Bennettové… a lídra rockové skupiny Mighty Storm Jakea, který jí kdysi zlomil srdce
 Tru bylo pouhých čtrnáct let, když její nejlepší kamarád – a první dětská láska – Jake odjel z Anglie a zanechal ji se zlomeným srdcem. Dnes, o dvanáct let později, je Jake světoznámou rockovou hvězdou a snem mnoha žen. Kromě jediné: Tru Bennettové.Úspěšná hudební recenzentka a novinářka Tru moc dobře ví, že míchat práci se soukromím se nevyplácí. Nyní má před sebou úkol: udělat s Jakem interview, než se jeho kapela vydá na dlouho očekávané turné. A taková příležitost se neodmítá. Tru je zapřisáhlá chovat se jako profesionálka, ale přitažlivost, která ani po dvanácti letech nepozbyla na síle, ji zaskočí.Jakeova nabídka zdokumentovat celé jejich turné je lákavá, avšak má jeden háček: Truina přítele Willa. Je Tru natolik silná, aby odolala atraktivnímu bouřlivákovi, který jí už jednou ukradl srdce? Přežije její vztah s Willem, když teď bude trávit dny v přítomnosti neodolatelného Jakea?</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026902195</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Mighty storm"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:18:35+00:00"/>
         <meta name="calibre:title_sort" content="Bouřlivák"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -5,18 +5,16 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e807e429-9413-4e0c-8d7f-0592429ed57c</dc:identifier>
         <dc:title>Vytočenej na MAXX</dc:title>
         <dc:creator opf:file-as="Moreland, Melanie" opf:role="aut">Melanie Moreland</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-11-27T22:00:00+00:00</dc:date>
         <dc:description>Maxx Reynolds potřebuje pomoc. Jeho práce, dům i celý život jsou v rozkladu. V zoufalství hledá na internetu a chce najmout nového zaměstnance pro svoji dílnu, kde mimo běžné opravy restauruje i historické motorky. Čeká, že do jeho firmy přijde chlapík jménem Charly a usnadní mu život. Místo toho se objeví svérázná zrzka Charlynn. Je na tom vlastně podobně. Prchá z města, protože nemá práci, byt ani peníze. Získat zaměstnání v autoopravně na kanadském venkově je pro ni jediná možnost. Čeká, že budoucí šéf bude starý mrzout. Mýlí se ovšem ona i Maxx…  
 Místo aby si oba život vyřešili, se jim však zašmodrchá ještě víc. Dokážou se přenést přes svá předchozí traumata? Charlynn je nejenom vtipná a k tomu ještě neuvěřitelně schopná, ale hlavně – je to žena, a to velmi sexy žena! Starého mládence Maxxe to vytočí na maximum. Sice ji nemůže vystát, ale taky jí nedokáže odolat. Navíc Charlynn stále víc propadá jeho mlčenlivému kouzlu a vlastnostem pravého chlapa. Ve vzduchu to jiskří… Jak tohle asi skončí?</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026917243</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Reynold's Restorations"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:46:11+00:00"/>
         <meta name="calibre:title_sort" content="Vytočenej na MAXX"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

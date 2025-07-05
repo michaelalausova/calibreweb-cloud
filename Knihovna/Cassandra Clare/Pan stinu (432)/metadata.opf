@@ -5,11 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">24539b30-6b37-4cb4-a6d5-9b8f6c098213</dc:identifier>
         <dc:title>Pán stínů</dc:title>
         <dc:creator opf:file-as="Clare, Cassandra" opf:role="aut">Cassandra Clare</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-04-09T22:00:00+00:00</dc:date>
         <dc:description>Cassandra Clare – Pán stínů - Temné lsti</dc:description>
         <dc:publisher>Slovart</dc:publisher>
-        <dc:identifier opf:scheme="URN">ISBN 978-80-7529-258-2</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Young Adult</dc:subject>

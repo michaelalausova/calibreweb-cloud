@@ -6,13 +6,11 @@
         <dc:title>Nesnáším tě</dc:title>
         <dc:creator opf:file-as="Keeland, Vi &amp; Ward, Penelope" opf:role="aut">Vi Keeland</dc:creator>
         <dc:creator opf:file-as="Keeland, Vi &amp; Ward, Penelope" opf:role="aut">Penelope Ward</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-08-18T22:00:00+00:00</dc:date>
-        <dc:identifier opf:scheme="MOBI-ASIN">5NBYTTKELVTMX5OYE5KZIG7S2LZDMJDF</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:timestamp" content="2025-06-08T10:49:37+00:00"/>
         <meta name="calibre:title_sort" content="Nesnáším tě"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

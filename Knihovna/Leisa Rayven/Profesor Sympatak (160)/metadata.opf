@@ -5,18 +5,16 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">64ff5582-b21a-405b-aaa9-cde8719c3df4</dc:identifier>
         <dc:title>Profesor Sympaťák</dc:title>
         <dc:creator opf:file-as="Rayven, Leisa" opf:role="aut">Leisa Rayven</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-04-11T22:00:00+00:00</dc:date>
         <dc:description>Ambiciózní knižní redaktorka Asha Tateová je beznadějná romantička. Navzdory svým vlažným zkušenostem s muži pevně věří na mdloby, vzdychání a nekonečnou lásku spřízněných duší. Jistě, sex je fajn, ale ona se nikdy nenechala vést svými zvířecími pudy. Až do této chvíle. Když Asha narazí na spalující instagramový feed člověka, který si říká Profesor Sympaťák, poprvé v životě propadne touze. Nejenže musí rozdýchávat pohled na žhavé umělecké fotky Profesorova vyrýsovaného těla, i jeho rozervaná poezie o ztrátě pravé lásky promlouvá přímo k její duši. Asha zoufale potřebuje najít bestseller pro své skomírající nakladatelství a ví, že Profesorovy literární schopnosti a miliony věrných fanoušků by mohly být záchranným kruhem, který její nadřízení potřebují, aby se celá společnost neutopila v dluzích. Ale ještě než zaschne inkoust na nakladatelské smlouvě, uvědomí si, že udělala příšernou chybu...
 Nenechte si ujít tento strhující nový román od autorky mezinárodního bestselleru Bad Romeo.</dc:description>
         <dc:publisher>knihy DOBROVSKÝ Red 2022</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788027703357</dc:identifier>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Mistři lásky"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:27:36+00:00"/>
         <meta name="calibre:title_sort" content="Profesor Sympaťák"/>
-        <meta name="calibre:user_metadata:#kategorizovano" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úprava&quot;, &quot;search_terms&quot;: [&quot;#kategorizovano&quot;], &quot;label&quot;: &quot;kategorizovano&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -5,12 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ba41d13e-088d-49b1-a65a-194027c254b9</dc:identifier>
         <dc:title>Vévodkyně</dc:title>
         <dc:creator opf:file-as="Chase, Nichole" opf:role="aut">Nichole Chase</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-11T23:00:00+00:00</dc:date>
         <dc:description>Samantha Rousseauová je docela obyčejná postgraduální studentka. Volný čas tráví se svými spolubydlícími, škudlí, aby vyšla s penězi, pečuje o svého nemocného otce a o zraněné dravce v univerzitním výzkumném středisku, kde pracuje, na vysoké škole přednáší ornitologii a opravuje písemky a testy svých znuděných svěřenců.
 Když do městečka přijedou dva členové královské rodiny z malé evropské země Lilarie a oznámí jí, že je poslední žijící příslušnicí tamního šlechtického rodu Rousseauových, Samanthin život se obrátí naruby. Chtě nechtě se musí rozhodnout, jestli přijme nejen titul vévodkyně, pozemky, nemovitosti i pohádkové bohatství, ale také odpovědnost, která k jejímu budoucímu postavení neodmyslitelně patří. A okouzlující korunní princ Alex jí rozhodování ani trochu neusnadňuje…</dc:description>
         <dc:publisher>Baronet</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788026910435</dc:identifier>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Lilarie"/>
