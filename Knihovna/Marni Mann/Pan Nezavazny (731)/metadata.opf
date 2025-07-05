@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c7acac0-1cc6-4fdb-87b7-6ddcdf4af429</dc:identifier>
+        <dc:title>Pan Nezávazný</dc:title>
+        <dc:creator opf:file-as="Mann, Marni" opf:role="aut">Marni Mann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-11T08:32:48+00:00</dc:date>
+        <dc:description>Vyšla jim dokonalá shoda v nové sexy aplikaci Hooked, kde lidé hledají vztah na jednu noc. Jejich srdce ale měla jiný plán…    Seznamka Hooked je výtvorem harvardských studentů Eastona Jonese a jeho dvou kamarádů. Když si Easton založí na Hooked profil, získá velmi nepravděpodobnou stoprocentní shodu. Kdo se za ní skrývá? Její uživatelské jméno je Láska. Od začátku mezi nimi funguje neskutečná chemie, po jednom setkání a právě ve chvíli, kdy se do ní Easton začíná zamilovávat, odpojí se tajemná neznámá z appky a zmizí.    Během následujících pěti let se z Hooked stane nejpopulárnější seznamovací aplikace v zemi. Easton ale v životě zažívá i další vzrušující změny. Jeho úchvatná nová zaměstnankyně Drake Maddenová v něm zažehne touhu, jakou už dlouho nepoznal. Právě když to začíná být vážné, na scéně se znovu objeví Láska. Žádá o šanci vysvětlit své jednání a Eastonovi tím pěkně zamotá hlavu. Má před sebou úchvatnou ženu z masa a kostí a zároveň vzpomínku na minulost, což jeho životem pořádně otřese.    A nebude to jen tak.</dc:description>
+        <dc:publisher>Nakladatelství JOTA</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Hooked"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-07-05T15:37:11.066148+00:00"/>
+        <meta name="calibre:title_sort" content="Pan Nezávazný"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

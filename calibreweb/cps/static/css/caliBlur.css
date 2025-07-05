@@ -289,7 +289,7 @@ body.blur .row-fluid .col-sm-10 {
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
-    color: #B22222;
+    color: #8b0000;
     background-color: hsla(0, 0%, 100%, .08)
 }
 
@@ -547,7 +547,7 @@ body.shelforder > div.container-fluid > div.row-fluid > div.col-sm-10:before {
 }
 
 #archived_form:hover label:before {
-    color: #B22222 !important
+    color: #ffff !important
 }
 
 #archived_form span, div[aria-label="Download, send to Kindle, reading"] > .btn-group:first-child > p:first-child, div[aria-label="Download, send to Kindle, reading"] > .btn-group:first-child > p:last-child {
@@ -586,7 +586,7 @@ body.shelforder > div.container-fluid > div.row-fluid > div.col-sm-10:before {
 
 #archived_cb + label:before {
     content: "\e020";
-    color: hsla(0, 0%, 100%, .7)
+    color: #b22222;
 }
 
 div[aria-label="Edit/Delete book"] > .btn {
@@ -681,7 +681,7 @@ div[aria-label="Edit/Delete book"] > .btn > span:hover {
 }
 
 a {
-    color: hsla(0, 0%, 100%, .45)
+    color: hsla(0, 0%, 100%, .45);
 }
 
 a:hover {
@@ -2035,7 +2035,7 @@ body.serieslist > div.container-fluid > div > div.col-sm-10:before {
     font-size: 6vw;
     position: fixed;
     left: 240px;
-    top: 240px;
+    top: 310px;
     width: calc(20% - 55px);
     text-align: center
 }
@@ -2164,12 +2164,12 @@ body.authorlist > div.container-fluid > div.row-fluid > div.col-sm-10:before, bo
 
 body.authorlist > div.container-fluid > div.row-fluid > div.col-sm-10:before {
     content: "\e008";
-    top: 240px;
+    top: 310px;
 }
 
 @media screen and (max-width: 992px) {
     body.authorlist > div.container-fluid > div.row-fluid > div.col-sm-10:before {
-        top: 180px;
+        top: 400px;
     }
 }
 
@@ -2181,8 +2181,8 @@ body.authorlist > div.container-fluid > div > div.col-sm-10 > div.container:befo
     top: 60px;
     font-size: 24px;
     color: #b22222;
-    line-height: 1;
-    padding-left: 15px;
+    line-height: 5;
+    padding-left: 0px;
     position: absolute;
     font-family: Open Sans Bold, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight: 400
@@ -2190,7 +2190,7 @@ body.authorlist > div.container-fluid > div > div.col-sm-10 > div.container:befo
 
 body.authorlist > div.container-fluid > div > div.col-sm-10 > div.container:before {
     content: "Autoři";
-    top: 120px;
+    top: 115px;
 }
 
 @media screen and (max-width: 992px) {
@@ -2990,7 +2990,7 @@ body > div.container-fluid > div > div.col-sm-10 > div > div > div.col-sm-3.col-
 
 .book-meta > h2 {
     font-size: 30px;
-    color: #b22222;
+    color: #8b0000;
     font-weight: 400;
     line-height: 1;
     margin: 0;
@@ -3230,7 +3230,7 @@ div.btn-group[role=group][aria-label="Download, send to Kindle, reading"] > div.
 }
 
 .btn-primary.active, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open .dropdown-toggle.btn-primary {
-    background-color: hsla(0, 0%, 100%, .3)
+    background-color: #8b0000;
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open > .dropdown-toggle.btn-primary.focus, .open > .dropdown-toggle.btn-primary:focus, .open > .dropdown-toggle.btn-primary:hover {
@@ -6123,7 +6123,7 @@ body.edituser.admin > div.container-fluid > div.row-fluid > div.col-sm-10 > div.
         position: absolute;
         left: 211px;
         top: 80px;
-        color: #fff;
+        color: #b22222;
         content: '';
         display: inline-block;
         width: 0;
@@ -6233,7 +6233,7 @@ body.edituser.admin > div.container-fluid > div.row-fluid > div.col-sm-10 > div.
     }
 
     #main-nav > li.top_tasks:before {
-        content: "MANAGE";
+        content: "ÚČET";
         color: hsla(0, 0%, 100%, .45);
         text-transform: uppercase;
         font-size: 12px;
@@ -6370,11 +6370,11 @@ body.edituser.admin > div.container-fluid > div.row-fluid > div.col-sm-10 > div.
     }
 
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-        color: hsla(0, 0%, 100%, .7)
+        color: #b22222
     }
 
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
-        color: #fff;
+        color: #b22222;
         background-color: hsla(0, 0%, 100%, .08)
     }
 
@@ -7541,7 +7541,7 @@ body.ratingslist > div.container-fluid > div > div.col-sm-10:before {
     font-size: 6vw;
     position: fixed;
     left: 240px;
-    top: 240px;
+    top: 310px;
     width: calc(20% - 55px);
     text-align: center
 }

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">730</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5042419e-0fcc-4a72-8cae-6ca790947889</dc:identifier>
+        <dc:title>Pan Garcia</dc:title>
+        <dc:creator opf:file-as="Swan, T. L." opf:role="aut">T. L. Swan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-05-14T22:00:00+00:00</dc:date>
+        <dc:description>Potkali jsme se v kavárně – byl starší, tajemný a přitahoval mě od první chvíle. Každý den se vracel, i když moji kávu nesnášel. Mimo kavárnu už nebyl jen uhlazený gentleman – jeho touha byla nezkrotná. Milovali jsme se, ale jeho démony bylo těžké zkrotit. Mám na výběr: odejít a zachránit se, nebo zůstat a doufat v sílu lásky.</dc:description>
+        <dc:publisher>Grada Publishing, a.s.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788076259850</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Pan Masters"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-07-05T15:37:10.446838+00:00"/>
+        <meta name="calibre:title_sort" content="Pan Garcia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

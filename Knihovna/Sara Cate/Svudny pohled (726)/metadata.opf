@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">726</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c57e52df-96a9-455d-bd35-6836a38874d4</dc:identifier>
+        <dc:title>Svůdný pohled</dc:title>
+        <dc:creator opf:file-as="Cate, Sara" opf:role="aut">Sara Cate</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-05-25T22:00:00+00:00</dc:date>
+        <dc:publisher>knihy DOBROVSKÝ Red 2025</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Klub zhýralců"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-07-05T15:37:07.965777+00:00"/>
+        <meta name="calibre:title_sort" content="Svůdný pohled"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

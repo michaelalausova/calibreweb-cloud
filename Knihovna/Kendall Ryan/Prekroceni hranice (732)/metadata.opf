@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">732</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d095e4b1-860c-4025-888e-38466ede2126</dc:identifier>
+        <dc:title>Překročení hranice</dc:title>
+        <dc:creator opf:file-as="Ryan, Kendall" opf:role="aut">Kendall Ryan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-07T18:53:41+00:00</dc:date>
+        <dc:description>Zotavování se z nataženého tříselného svalu není zrovna způsob, jakým jsem plánoval strávit letní dovolenou. Ale přiznávám, že nechat se ošetřovat svojí nádhernou kamarádkou Bailey, která právě dokončila studium medicíny, nezní zrovna jako utrpení. Strávíme spolu týden v domě mé rodiny na pláži. Týden, kdy jsem si užíval, jak se o mě Bailey. Ale když řekne, že nehledá vztah, jsem pevně rozhodnutý být víc než jen zábavný kamarád, který si podruhé – tentokrát s ní – natáhl třísla.</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Hot Jocks"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-07-05T15:37:11.423719+00:00"/>
+        <meta name="calibre:title_sort" content="Překročení hranice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

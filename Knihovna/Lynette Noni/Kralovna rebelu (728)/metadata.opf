@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64253413-d039-4763-a599-cff34beb2bab</dc:identifier>
+        <dc:title>Královna rebelů</dc:title>
+        <dc:creator opf:file-as="Noni, Lynette" opf:role="aut">Lynette Noni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-10T19:52:12+00:00</dc:date>
+        <dc:description>Už deset let přežívá sedmnáctiletá ranhojička Kiva ve věznici Zalindov. Když přivezou těžce nemocnou královnu rebelů, dostane za úkol udržet ji naživu, aby mohla podstoupit trýznivou zkoušku čtyřmi elementy. Pak obdrží Kiva vzkaz od své rodiny: „Nenech ji zemřít. Už jdeme.“ Dívka si uvědomuje, že zkouška by královnu zabila, a tak se nabídne, že trest podstoupí místo ní. Má ale vůbec nějakou šanci? A jak se k její volbě postaví záhadný nový vězeň Jaren?</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Ranhojička"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-07-05T15:37:08.844238+00:00"/>
+        <meta name="calibre:title_sort" content="Královna rebelů"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>
