@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c343ab08-1c13-47c4-86ec-5a95233f99ff</dc:identifier>
+        <dc:title>V oblacích</dc:title>
+        <dc:creator opf:file-as="Grace, Hannah" opf:role="aut">Hannah Grace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-08T07:08:06+00:00</dc:date>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788024958682</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ca16b7e0-1d3e-4105-9554-3d2510645313</dc:identifier>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Maple Hills"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-07-05T19:19:02.795479+00:00"/>
+        <meta name="calibre:title_sort" content="V oblacích"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0450a63-6109-457c-ba26-28150933545b</dc:identifier>
+        <dc:title>Repárat z lásky</dc:title>
+        <dc:creator opf:file-as="Peterson, Sharon M." opf:role="aut">Sharon M. Peterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-29T22:00:00+00:00</dc:date>
+        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-05T19:19:02.556419+00:00"/>
+        <meta name="calibre:title_sort" content="Repárat z lásky"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>
