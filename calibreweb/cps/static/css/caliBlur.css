@@ -3952,7 +3952,7 @@ body.author:not(.authorlist) .undefined-img:before {
 }
 
 .author > .container-fluid > .row-fluid > .col-sm-10 > h2:before {
-    content: "O autorovi";
+    content: "Autor";
     width: calc(100vw - 240px);
     height: 60px;
     margin: 0;
@@ -3976,7 +3976,7 @@ body.author:not(.authorlist) .undefined-img:before {
 .author > .container-fluid > .row-fluid > .col-sm-10 > h2 {
     font-size: 24px;
     font-family: Open Sans Bold, Helvetica Neue, Helvetica, Arial, sans-serif;
-    color: #eee;
+    color: ;
     font-weight: 400;
     line-height: 1;
     margin: 60px 0 0;
@@ -6116,7 +6116,6 @@ body.edituser.admin > div.container-fluid > div.row-fluid > div.col-sm-10 > div.
     body > div.navbar.navbar-default.navbar-static-top > div > div.navbar-collapse.collapse > ul > li > a.profileDrop {
         height: 120px;
         width: 100%;
-      
     }
 
     body > div.navbar.navbar-default.navbar-static-top > div > div.navbar-collapse.collapse > ul > li > a.profileDrop:before {
