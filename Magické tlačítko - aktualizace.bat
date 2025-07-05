@@ -1,21 +1,21 @@
 @echo off
 cls
-echo === Přecházím do složky s projektem ===
+echo === Prechazim do slozky s projektem ===
 cd /d "C:\Users\Michaela Laušová\Documents\Knihomišíweb"
 
 echo.
-echo === Přidávám všechny změny ===
+echo === Pridavam vsechny zmeny ===
 git add .
 
 echo.
-echo === Commituji změny ===
-set /p COMMSG=Zadej popis změn (např. Nové knihy + úprava stylu): 
+echo === Commituji zmeny ===
+set /p COMMSG=Zadej popis zmen : 
 git commit -m "%COMMSG%"
 
 echo.
-echo === Odesílám na GitHub ===
+echo === Odesilam do GitHubu ===
 git push
 
 echo.
-echo === Hotovo! 🎉 Změny by měly být online ===
+echo === Hotovo! :) ===
 pause
