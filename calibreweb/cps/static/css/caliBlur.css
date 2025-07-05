@@ -5938,7 +5938,7 @@ body.edituser.admin > div.container-fluid > div.row-fluid > div.col-sm-10 > div.
         line-height: 48px;
         width: calc(100vw - 138px);
         background: 0 0 !important;
-        color: hsla(0, 0%, 100%, .7) !important;
+        color: hsla(0, 0%, 100%, .7);
         font-family: Open Sans Semibold, Helvetica Neue, Helvetica, Arial, sans-serif;
         pointer-events: none
     }
@@ -6115,7 +6115,8 @@ body.edituser.admin > div.container-fluid > div.row-fluid > div.col-sm-10 > div.
 
     body > div.navbar.navbar-default.navbar-static-top > div > div.navbar-collapse.collapse > ul > li > a.profileDrop {
         height: 120px;
-        width: 100%
+        width: 100%;
+      
     }
 
     body > div.navbar.navbar-default.navbar-static-top > div > div.navbar-collapse.collapse > ul > li > a.profileDrop:before {

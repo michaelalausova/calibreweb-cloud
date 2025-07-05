@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ee30df04-2fb8-432d-9035-a517c6d2b4fc</dc:identifier>
         <dc:title>Rudá jako rubín</dc:title>
         <dc:creator opf:file-as="Gier, Kerstin" opf:role="aut">Kerstin Gier</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>ces</dc:language>
         <dc:subject>Urban fantasy</dc:subject>
@@ -13,7 +13,7 @@
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Drahokamy"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:timestamp" content="2025-06-08T18:09:36.067000+00:00"/>
         <meta name="calibre:title_sort" content="Rudá jako rubín"/>
     </metadata>
     <guide>
