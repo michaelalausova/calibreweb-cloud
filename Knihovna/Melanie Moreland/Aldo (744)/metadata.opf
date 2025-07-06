@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">744</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28e2f1a0-9643-428a-aec4-7c356227efb2</dc:identifier>
+        <dc:title>Aldo</dc:title>
+        <dc:creator opf:file-as="Moreland, Melanie" opf:role="aut">Melanie Moreland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-11T14:52:38+00:00</dc:date>
+        <dc:description>Aldo Ricci:&amp;#160;Pravá ruka Romana Costase. Vymahač. Loajální. Sám. Rád tak zůstane. Dokud mu do života nevstoupí ona.
+
+Violet Nelsonová. Svůdná. Mimo dosah.
+
+Ale on se nemůže držet stranou.
+
+To poslední, co od ní očekával, byla věc, o kterou nikdy neusiloval.
+
+Vykoupení.</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Men ofthe Falls"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:27.357659+00:00"/>
+        <meta name="calibre:title_sort" content="Aldo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

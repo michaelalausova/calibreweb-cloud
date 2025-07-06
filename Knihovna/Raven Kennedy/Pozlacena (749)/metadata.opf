@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">749</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e177b65c-0192-4fe6-aca1-fd5ea221c70a</dc:identifier>
+        <dc:title>Pozlacená</dc:title>
+        <dc:creator opf:file-as="Kennedy, Raven" opf:role="aut">Raven Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-10T09:11:08+00:00</dc:date>
+        <dc:description>Zlaté podlahy, zlaté zdi, zlatý nábytek, zlaté oblečení. Ve Výšezvonu, hradu v mrazivých horách Šestého království, je ze zlata všechno. I já – Auren. Král Midas mě zachránil a slíbil, že mě bude navěky milovat. Nabídl mi ochranu a já mu za to věnovala své srdce. Drží mě ve zlaté kleci jako svého mazlíčka, aby mě ochránil před monstry a nepřáteli. Jenže vše, čemu jsem o Midasovi a jeho lásce věřila, byla nejspíš lež. Chtěla bych utéct někam pryč… Co když na mě ale ve světě venku čeká něco mnohem horšího?</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Zlatá klec"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:28.184496+00:00"/>
+        <meta name="calibre:title_sort" content="Pozlacená"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

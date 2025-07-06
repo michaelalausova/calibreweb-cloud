@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26af1876-07f8-4dcf-ba2d-43d58fc1aa37</dc:identifier>
+        <dc:title>Co už nikdy nepřebolí</dc:title>
+        <dc:creator opf:file-as="Score, Lucy" opf:role="aut">Lucy Score</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Atraktivní vousáč Knox nejraději žije tak, jak popíjí kávu: sám. Nesnáší drama, a to ani tehdy, když má podobu zoufalé nevěsty na útěku. Naomi však neprchá jen před svou svatbou, do Knockemoutu se vydala taky proto, aby pomohla svému odcizenému dvojčeti – Tině. V tomhle na první pohled drsném městečku se spory řeší postaru… pěstmi a pivem. A většinou právě v tomto pořadí. Škoda že se Naomino dvojče vůbec nezměnilo. Tina nejen že ukradne sestře auto a peníze, ale zanechá po sobě i nečekaný dáreček – neteř, o které neměla mladá žena ani potuchy. Naomi se tak zničehonic ocitne v cizím městě bez jakýchkoli prostředků a s jedenáctiletým dítětem, o které se musí postarat…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar (ČR)</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Knockemount"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:27.829842+00:00"/>
+        <meta name="calibre:title_sort" content="Co už nikdy nepřebolí"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

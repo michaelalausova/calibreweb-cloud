@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">745</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1922fdf-10e4-4a64-aa5a-49fa2dc497db</dc:identifier>
+        <dc:title>Nelítostný princ</dc:title>
+        <dc:creator opf:file-as="Lark, Sophie" opf:role="aut">Sophie Lark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-25T22:00:00+00:00</dc:date>
+        <dc:description>Není to žádný princ z pohádky…Callum Griffin je dědicem irské mafie. Je nemilosrdný, je arogantní a chce mě zabít. Náš vztah nezačal zrovna nejlépe, když jsem v jeho domě omylem založila (menší) oheň.Naše rodiny věří, že svatba je jediný způsob, jak zabránit válce mezi irskou a italskou mafií v Chicagu.Myslím, že ho nejspíš budu muset zabít ve spánku.Všechno by ale bylo jednodušší, kdyby Callum nebyl tak přitažlivý.Své srdce si ale pečlivě střežím, protože ačkoli si ho musím vzít…Nikdy bych nemohla milovat nelítostného prince.Nelítostný princ je vzrušujícím prvním dílem epické série „Brutal Birthright“. Jedná se o nezávislý romantický příběh z prostředí mafie se šťastným koncem. Obsahuje vášnivé erotické scény vhodné pouze pro dospělé čtenáře!!!</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Podsvětí Chicaga"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:27.496741+00:00"/>
+        <meta name="calibre:title_sort" content="Nelítostný princ"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

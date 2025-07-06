@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">111841c3-493e-4ed9-adeb-ac3c656fd400</dc:identifier>
+        <dc:title>Barbaři z ledové planety</dc:title>
+        <dc:creator opf:file-as="Ruby, Dixon" opf:role="aut">Dixon Ruby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-29T10:57:29+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mezinárodní knižní fenomén míří do České republiky! Co může být příjemnějšího než se na ledové planetě přitulit k velkému, hřejivému mimozemšťanovi?&lt;/p&gt;
+&lt;p&gt;Nejspíš si myslíte, že být unesena mimozemšťany je to nejhorší, co se mi mohlo přihodit. Tak to se pletete, protože tihle mimozemšťané měli potíže s motorem, a tudíž náklad lidských žen – včetně mě – vysadili na ledové planetě. &lt;/p&gt;
+&lt;p&gt;Žádná z nás není k životu v téhle bezútěšné, mrazivé pustině vybavená. Ale protože si mě v podstatě zvolily za svou vedoucí, nezbývá mi než se vydat do sněhu hledat pomoc.&lt;/p&gt;
+&lt;p&gt;A taky že ji najdu. U velikého, modrého mimozemšťana s rohy, který se mi představí poněkud… nezvykle. Tvrdí, že jsem jeho družka, jeho vyvolená – a že to předení v jeho hrudi vyvolává moje přítomnost. Pomůže mně a mým lidem přežít, ale má to jeden drobný háček.&lt;/p&gt;
+&lt;p&gt;Nejsem si jistá, že mě nechá odejít.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Laser</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Sci-fi</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Barbaři z ledové planety"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:25.786139+00:00"/>
+        <meta name="calibre:title_sort" content="Barbaři z ledové planety"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

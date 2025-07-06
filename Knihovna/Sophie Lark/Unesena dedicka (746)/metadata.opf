@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">746</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0974298a-6ea3-48bf-9d2a-f25f0a343357</dc:identifier>
+        <dc:title>Unesená dědička</dc:title>
+        <dc:creator opf:file-as="Lark, Sophie" opf:role="aut">Sophie Lark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-03T23:00:00+00:00</dc:date>
+        <dc:description>Kráska a zvíře z prostředí mafieNessa Griffinová vede osamocený život. Je citlivá, jemná a nemá v mafiánském impériu své rodiny žádnou roli. Zápasí s uznáním jak doma, tak ve vysoce soutěživém prostředí baletní školy.Mikolaj Wilk je nejkrutějším gangsterem v Chicagu. Jeho adoptivní otec ho zachránil z varšavských ulic, ale zanedlouho poté zemřel rukou rodiny Griffinových.Mikolaj touží po pomstě, Nessu unese a drží ji jako rukojmí ve starobylém gotickém sídle. Zatímco ale plánuje zničit všechno, co je jí drahé, nevědomky ho do sebe vtáhne baletčina nejnovější choreografie.Nessu vzrůstající napětí mezi ní a jejím únoscem děsí čím dál tím víc a začíná se ztrácet v temné baletní pohádce, která se víc a víc podobá jejich měnícímu se vztahu. Dokáže Nessa objevit muže skrývajícího se za maskou netvora? Nebo to bude její poslední tanec?</dc:description>
+        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Podsvětí Chicaga"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:27.666041+00:00"/>
+        <meta name="calibre:title_sort" content="Unesená dědička"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

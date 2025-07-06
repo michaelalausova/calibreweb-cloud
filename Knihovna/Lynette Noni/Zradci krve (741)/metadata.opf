@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">741</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f04fa00-bf5e-44e3-94d0-11200b5bde3d</dc:identifier>
+        <dc:title>Zrádci krve</dc:title>
+        <dc:creator opf:file-as="Noni, Lynette" opf:role="aut">Lynette Noni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-23T17:00:42+00:00</dc:date>
+        <dc:description>Kiva si myslela, že ví, co chce – pomstu. Ale pocity se mění, lidé se mění… všechno se změnilo. Po tom, co se stalo v paláci, zoufale touží zjistit, zda jsou její přátelé a bratr v bezpečí. Mohou jí vůbec ještě někdy odpustit? V sázce je ale víc než její zlomené srdce, protože království jsou na pokraji války. Nový začátek přinese nebezpečnou výpravu, která donutí zapřisáhlé nepřátele spojit síly, aby zachránili nejen Evalon, ale celý Wenderall. Kiva už nemůže jen přežívat. Musí bojovat za to, v co věří.</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Ranhojička"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:26.598728+00:00"/>
+        <meta name="calibre:title_sort" content="Zrádci krve"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

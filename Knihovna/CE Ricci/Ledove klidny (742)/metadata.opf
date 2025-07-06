@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">742</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08152769-0554-411b-8c15-6eb6560b3a2d</dc:identifier>
+        <dc:title>Ledově klidný</dc:title>
+        <dc:creator opf:file-as="Ricci, CE" opf:role="aut">CE Ricci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-04T11:01:43+00:00</dc:date>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <dc:subject>MM</dc:subject>
+        <meta name="calibre:series" content="Leighton U"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:27.000379+00:00"/>
+        <meta name="calibre:title_sort" content="Ledově klidný"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

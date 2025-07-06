@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a12f9d83-6b14-4657-ae40-75cdd062c1a9</dc:identifier>
+        <dc:title>Indigo Ridge: Ve stínu hory</dc:title>
+        <dc:creator opf:file-as="Perry, Devney" opf:role="aut">Devney Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-15T22:00:00+00:00</dc:date>
+        <dc:publisher>Pavel Dobrovský – BETA s.r.o.</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Detektivní</dc:subject>
+        <meta name="calibre:series" content="Edenovi"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Indigo Ridge: Ve stínu hory"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

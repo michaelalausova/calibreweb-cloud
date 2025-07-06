@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f5ffe36-37c9-44b1-baa1-023150bdbe03</dc:identifier>
+        <dc:title>Sousedská výpomoc</dc:title>
+        <dc:creator opf:file-as="Gold, Lily" opf:role="aut">Lily Gold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-05-09T09:25:09+00:00</dc:date>
+        <dc:description>Nevěřím vlastním očím, když mi na dveře zaklepou moji tři žhaví sousedi a žádají mě o pomoc. Někdo jim na prahu nechal miminko a oni vůbec netuší, jak se o něj postarat. Po klucích z bytu 5A pokukuju už roky – a jako profesionální chůva mám konečně záminku se s nimi poznat líp. Jack je sympatický herní vývojář s nakažlivým úsměvem. Cyrus je tanečník, z jehož ladných pohybů mám mozek na kaši. A Sebastian je svalnatý podnikatel s uhrančivým pohledem. Každý den se jim starám o dítě. Oni se zas každou noc starají o mě. Řekla jsem jim, že s láskou nepočítám – ale s každým polibkem mám stále větší problém zůstat silná.</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:28.559474+00:00"/>
+        <meta name="calibre:title_sort" content="Sousedská výpomoc"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

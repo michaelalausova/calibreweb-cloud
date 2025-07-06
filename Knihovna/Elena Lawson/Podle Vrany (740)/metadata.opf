@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c8e2d78-3b03-4448-a094-a837f1f3770c</dc:identifier>
+        <dc:title>Podlé Vrány</dc:title>
+        <dc:creator opf:file-as="Lawson, Elena" opf:role="aut">Elena Lawson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-05-09T13:57:36+00:00</dc:date>
+        <dc:description>Corvus, Rook a Grey – Vrány. Vyrostli ve světě gangů, násilí a tajemství. Vládnou krvavému městu Thorn Valley a všem lidem v něm. Já se jim ale jen tak nepodvolím. I když ve mně všichni tři probouzí něco, co jsem považovala za dávno mrtvé, nedokážou mě zlomit. Vrány totiž nejsou první nestvůry, které se chtějí vrhnout na Avu Jade Masonovou. Jen ať si to klidně zkusí. Už mě nebaví utíkat. Už mě nebaví zadržovat svou temnotu. Thorn Valley není připraveno na nového démona. Škoda, že už jsem tady.</dc:description>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Vrány z Briarovy akademie"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:26.270605+00:00"/>
+        <meta name="calibre:title_sort" content="Podlé Vrány"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>
