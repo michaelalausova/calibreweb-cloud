@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3cb965d5-a41a-4231-a26e-adca93ca3f7c</dc:identifier>
+        <dc:title>Na ledě</dc:title>
+        <dc:creator opf:file-as="Grace, Hannah" opf:role="aut">Hannah Grace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-26T09:56:18+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Anastasia Allenová má jasný cíl: dostat se do reprezentačního týmu USA. Od svých pěti let intenzivně trénuje a členství v bruslařském družstvu Maple Hills jí zajistilo plné vysokoškolské stipendium. Její rozvrh rozhodně není pro slabší povahy. Stassie si zkrátka přišla pro vítězství. Nathan Hawkins, hokejista a kapitán maplehillských Titánů, ví, že je odpovědný za to, aby jeho tým zůstal na ledě. Když se však kvůli nedorozumění musí o ledovou plochu najednou dělit s krasobruslaři a Anastasiin partner se následkem toho zraní, ocitne se v nepředvídatelné situaci. Vymění hokejku za přiléhavý trikot a přísného trenéra za mnohem děsivější trenérku. Ale starosti nejsou na místě. Nebo ano? Stassie přece nemá hokejisty vůbec ráda…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <dc:subject>Erotické</dc:subject>
+        <meta name="calibre:series" content="Maple Hills"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-07-07T17:17:00.755342+00:00"/>
+        <meta name="calibre:title_sort" content="Na ledě"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

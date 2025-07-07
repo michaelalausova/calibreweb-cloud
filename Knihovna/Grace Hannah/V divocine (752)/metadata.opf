@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ea77c75-ea7f-493f-9386-c67f053609d7</dc:identifier>
+        <dc:title>V divočině</dc:title>
+        <dc:creator opf:file-as="Hannah, Grace" opf:role="aut">Grace Hannah</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-11T08:39:22+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mezi Russem Callaghanem a Aurorou Robertsovou přeskočí na univerzitním večírku jiskra a skončí to nocí plnou vášně. Aurora se pak v rozpacích beze slova vytratí přesvědčená, že šlo jen o jednu noc a že už se s Russem neuvidí. Jaké je tedy jejich překvapení, když na sebe narazí hned první den na letním táboře, kde mají oba dělat vedoucí? Russ i Aurora do divočiny utekli, aby si oddechli od komplikovaného života v Maple Hills. Russ ví, že pokud poruší přísné táborové pravidlo o vztazích, bude se muset vrátit domů. Zato Aurora si z něčeho takového rozhodně hlavu nedělá. Dokážou ti dva vedle sebe v poklidu existovat, nebo jediná společná noc zažehla požár, který už se nedá uhasit?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
+        <dc:language>ces</dc:language>
+        <dc:subject>Romantické</dc:subject>
+        <meta name="calibre:series" content="Maple Hills"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-07-07T17:17:00.326674+00:00"/>
+        <meta name="calibre:title_sort" content="V divočině"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Obálka" href="cover.jpg"/>
+    </guide>
+</package>

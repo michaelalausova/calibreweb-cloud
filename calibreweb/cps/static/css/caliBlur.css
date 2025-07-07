@@ -830,7 +830,7 @@ body:not(.read-frame) {
     -o-background-size: auto, cover !important;
     line-height: 1.71428571;
     background: url(images/caliblur/blur-noise.png), var(--color-background);
-    color: #b22222;
+    color: #8b2222;
     font-family: Open Sans Semibold, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight: 400;
     overflow: hidden;
@@ -2190,7 +2190,7 @@ body.authorlist > div.container-fluid > div > div.col-sm-10 > div.container:befo
 
 body.authorlist > div.container-fluid > div > div.col-sm-10 > div.container:before {
     content: "Autoři";
-    top: 115px;
+    top: 110px;
 }
 
 @media screen and (max-width: 992px) {
@@ -2201,7 +2201,7 @@ body.authorlist > div.container-fluid > div > div.col-sm-10 > div.container:befo
 
 body.catlist > div.container-fluid > div > div.col-sm-10 > div.container:before {
     content: "Štítky";
-    top: 115px;
+    top: 110x;
 }
 
 @media screen and (max-width: 992px) {
@@ -2212,7 +2212,7 @@ body.catlist > div.container-fluid > div > div.col-sm-10 > div.container:before 
 
 body.serieslist > div.container-fluid > div > div.col-sm-10 > div.container:before {
     content: "Série";
-    top: 115px;
+    top: 110px;
 }
 
 @media screen and (max-width: 992px) {
@@ -2223,7 +2223,7 @@ body.serieslist > div.container-fluid > div > div.col-sm-10 > div.container:befo
 
 body.ratingslist > div.container-fluid > div > div.col-sm-10 > div.container:before {
     content: "Hodnocení";
-    top: 115px;
+    top: 110px;
 }
 
 @media screen and (max-width: 992px) {
@@ -2234,7 +2234,7 @@ body.ratingslist > div.container-fluid > div > div.col-sm-10 > div.container:bef
 
 body.formatslist > div.container-fluid > div > div.col-sm-10 > div.container:before {
     content: "Formáty";
-    top: 115px;
+    top: 110px;
 }
 
 @media screen and (max-width: 992px) {
@@ -2971,7 +2971,7 @@ body > div.container-fluid > div > div.col-sm-10 > div > div > div.col-sm-3.col-
 
 .book-meta > .bookinfo > .languages > span:last-of-type, .book-meta > .bookinfo > .publishers > span:last-of-type, .book-meta > .bookinfo > .publishing-date > span:last-of-type, .real_custom_columns > span:last-of-type {
     font-family: Open Sans Semibold, Helvetica Neue, Helvetica, Arial, sans-serif;
-    color: #fff;
+    color: #ffff;
     font-size: 15px;
     -webkit-font-smoothing: antialiased
 }
@@ -3079,7 +3079,7 @@ body.book .author {
 .book-meta > .bookinfo > .identifiers .glyphicon-link, .book-meta > .bookinfo > .tags .glyphicon-tags {
     margin-left: -40px;
     margin-right: 17px;
-    color: hsla(0, 0%, 100%, .45);
+    color: #8b2222;
     width: 20px;
     vertical-align: text-bottom
 }
@@ -3094,7 +3094,7 @@ body.book .author {
 }
 
 .book-meta > div {
-    color: hsla(0, 0%, 100%, .65)
+    color: ;
 }
 
 .more-stuff {
@@ -3316,7 +3316,7 @@ div.btn-group[role=group][aria-label="Download, send to Kindle, reading"] .dropd
 
 .book-meta > .bookinfo .btn-info, .book-meta > .bookinfo .btn-success {
     background-color: #8B0000;
-    color: hsla(0, 0%, 100%, .7);
+    color: #fff;
     font-size: 13px;
     display: inline-block;
     border-radius: 4px;
@@ -3349,7 +3349,7 @@ div.btn-group[role=group][aria-label="Download, send to Kindle, reading"] .dropd
 }
 
 .book-meta > .bookinfo .publishers, .book-meta > .bookinfo > .identifiers > p > .glyphicon-link {
-    color: hsla(0, 0%, 100%, .45)
+    color: ;
 }
 
 .rating .glyphicon-star.good {
@@ -6001,7 +6001,7 @@ body.edituser.admin > div.container-fluid > div.row-fluid > div.col-sm-10 > div.
         border-radius: 0;
         background: 0 0;
         cursor: pointer;
-        color: transparent;
+        color: #8b0000;
         opacity: 0;
         -webkit-transition: all 0s;
         transition: all 0s
