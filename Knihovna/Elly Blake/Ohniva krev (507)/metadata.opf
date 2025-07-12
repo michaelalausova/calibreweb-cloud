@@ -5,16 +5,19 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f6ee7d9b-556e-4148-adaa-ad0d553f412e</dc:identifier>
         <dc:title>Ohnivá krev</dc:title>
         <dc:creator opf:file-as="Blake, Elly" opf:role="aut">Elly Blake</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Ruby porazila krutého Krále ledu a roztavila ledový trůn, ale krvelačný Minax, který v něm byl uvězněn, uprchl a nyní pustoší celé království a usiluje o život všech, na nichž Ruby záleží. A zdá se, že ho nemůže nikdo a nic zastavit. Jediná naděje na jeho zničení leží v daleké zemi na jihu, kde vládne magie ohně. A tak se tam Ruby vydá, nejen aby přišla na způsob, jak odstranit tuto hrozbu, ale hlavně aby přišla na podstatu své moci.&lt;/p&gt;</dc:description>
+        <dc:publisher>CooBoo</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Young Adult</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
         <dc:subject>Dobrodružné</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
         <meta name="calibre:series" content="Ledová krev"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:41:51+00:00"/>
         <meta name="calibre:title_sort" content="Ohnivá krev"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

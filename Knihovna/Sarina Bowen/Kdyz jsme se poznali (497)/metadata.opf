@@ -7,7 +7,14 @@
         <dc:creator opf:file-as="Bowen, Sarina" opf:role="aut">Sarina Bowen</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-25T22:00:00+00:00</dc:date>
-        <dc:description>Sportu, který miluje, se nebude moct věnovat. Chlapec, do něhož se zamilovala, má jinou. Co teď?Corey Callahanová předpokládala, že na Harknesskou univerzitu nastoupí jako členka univerzitního hokejového týmu. Po vážné nehodě jí však nezbývá než se pustit do studia v invalidním vozíku.Naproti přes chodbu v bezbariérové koleji bydlí Adam Hartley, další, kdo se měl původně stát univerzitní hokejovou hvězdou, avšak nyní tento až příliš pohledný kluk čeká, až se mu zahojí zlomená noha. Corey na něj nemá.Adam je navíc zadaný.Mezi Corey a Adamem vznikne na chodbách McHerrinovy koleje přátelství, které ani jeden z nich nečekal. Nad tequilou, pečlivě vybalancovanými jídelními tácy a videohrami se společně snaží smířit se zklamáním, jemuž nikdo jiný nerozumí.Jsou jen přátelé, až jedné noci… nejsou jen přátelé. A Corey si uvědomí, že se zamilovala. Těžce.Bude však Adam ochotný rozejít se s dokonalou přítelkyní, aby mohl milovat někoho tak rozbitého jako Corey? Pokud ne, Corey ví, že si bude muset vybudovat na Harknesské univerzitě jiný život, který se nebude točit kolem sportu, ani kolem hnědookého kluka, jenž se možná příliš bojí ji milovat.</dc:description>
+        <dc:description>&lt;p id="description"&gt;Sportu, který miluje, se nebude moct věnovat. Chlapec, do něhož se zamilovala, si našel jinou. Co teď?
+&lt;br&gt;
+&lt;br&gt;Corey Callahanová předpokládala, že na Harknesskou univerzitu nastoupí jako členka univerzitního hokejového týmu. Po vážné nehodě jí však nezbývá než se pustit do studia v invalidním vozíku.
+&lt;br&gt;Naproti přes chodbu v bezbariérové koleji bydlí Adam Hartley, další, kdo se měl původně stát univerzitní hokejovou hvězdou, avšak nyní tento až příliš pohledný kluk čeká, až se mu zahojí zlomená noha. Corey na něj nemá.
+&lt;br&gt;Adam je navíc zadaný.
+&lt;br&gt;Mezi Corey a Adamem vznikne na chodbách McHerrinovy koleje přátelství, které ani jeden z nich nečekal. Nad tequilou, pečlivě vybalancovanými jídelními tácy a videohrami se společně snaží smířit se zklamáním, jemuž nikdo jiný nerozumí.
+&lt;br&gt;Jsou jen přátelé, až jedné noci… nejsou jen přátelé. A Corey si uvědomí, že se zamilovala. Těžce.
+&lt;br&gt;Bude však Adam ochotný rozejít se s dokonalou přítelkyní, aby mohl milovat někoho tak rozbitého jako Corey? Pokud ne, Corey ví, že si bude muset vybudovat na Harknesské univerzitě jiný život, který se nebude točit kolem sportu, ani kolem hnědookého kluka, jenž se možná příliš bojí ji milovat.&lt;/p&gt;</dc:description>
         <dc:publisher>Baronet</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
@@ -16,6 +23,7 @@
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:41:26+00:00"/>
         <meta name="calibre:title_sort" content="Když jsme se poznali"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

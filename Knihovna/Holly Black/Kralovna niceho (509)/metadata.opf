@@ -6,9 +6,10 @@
         <dc:title>Královna ničeho</dc:title>
         <dc:creator opf:file-as="Black, Holly" opf:role="aut">Holly Black</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2020-06-29T12:51:28+00:00</dc:date>
-        <dc:description>Získat moc je snazší než si ji udržet. Jude na to přišla, když ji zrada krále Cardana připravila o všechno. Je však odhodlaná dostat zpět, co jí patří – a příležitost se brzy naskytne. Pokud chce zachránit život své sestry Taryn, musí riskovat návrat mezi víly a vyrovnat se s přetrvávajícími city ke Cardanovi. Ale Elfhame se mění. Říše stojí na pokraji války, a když je probuzena nebezpečná kletba, Jude musí volit mezi vlastní ctižádostí a lidskostí.</dc:description>
-        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:date>2019-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="description"&gt;On bude zkázou koruny a ničitelem trůnu. &lt;br&gt;&lt;br&gt;Moc je mnohem jednodušší získat než si ji udržet. Jude se tuhle lekci naučila, když se vzdala kontroly nad podlým králem Cardanem výměnou za neomezené pravomoci. &lt;br&gt;&lt;br&gt;Teď je z ní vyhoštěná královna Říše víl, skončila v lidském světě bezmocná a trpící Cardanovou zradou, ale odhodlaná získat zpátky všechno, o co ji připravil. A příležitost se brzy naskytne v podobě sestry-dvojčete Taryn, jejíž smrtelný život je v nebezpečí. &lt;br&gt;&lt;br&gt;Pokud chce svou sestru zachránit, musí se Jude vrátit mezi víly, riskovat život a vyrovnat se se svými přetrvávajícími city k Cardanovi. Ale v Elfhame je všechno jinak. Říše stojí na pokraji války, a jakmile Jude vklouzne hluboko za nepřátelskou linii, pohltí ji krvavá politika.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CooBoo</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Dobrodružné</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -17,6 +18,7 @@
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:41:59+00:00"/>
         <meta name="calibre:title_sort" content="Královna ničeho"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -6,7 +6,17 @@
         <dc:title>Pevnej kolík</dc:title>
         <dc:creator opf:file-as="Blakely, Lauren" opf:role="aut">Lauren Blakely</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2024-12-23T22:00:00+00:00</dc:date>
+        <dc:date>2024-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Ženy často říkají, že je těžké najít dobrého chlapa. A pořádného chlapa tím spíš.
+&lt;br&gt;
+&lt;br&gt;Právě proto jsem docela úlovek – hodný, pořádný chlap, za vodou a to nejlepší nakonec... Navíc jsem připravený se usadit. Ale žena, se kterou si chci postavit stan, žije na opačném konci země. V takových lesích nechce zabloudit ani jeden z nás. Stačí, když jí odolám celý týden, kdy bude ve městě.
+&lt;br&gt;
+&lt;br&gt;Snažím se. Přísahám, že se snažím. Ale jo, nefunguje to.
+&lt;br&gt;
+&lt;br&gt;A po jedné fantastické noci s mojí dobrou kamarádkou Miou jí chci dopřát léta nocí pod hvězdami. Co je pár tisíc kilometrů, když jde o lásku? Můj plán má ale háček – právě si najala mou agenturu na dobrodružné výpravy. Jestli jsem se k něčemu opravdu zavázal, je to provozovat naprosto čistý byznys. Číslo jedna na mém seznamu železných pravidel? Nešoustat s klientkami.
+&lt;br&gt;
+&lt;br&gt;Ale co mám dělat, když je tak těžké jí odolat? Jak těžké může být nesahat na sebe na krátké skupinové túře po kopcích a stezkách? Za chvilku to zjistím a mám pocit, že budu potřebovat nový odznáček za statečnost, protože v lese to bude hodně tvrdé.&lt;/p&gt;</dc:description>
+        <dc:publisher>Red</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>
@@ -14,7 +24,7 @@
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:41:36+00:00"/>
         <meta name="calibre:title_sort" content="Pevnej kolík"/>
-        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

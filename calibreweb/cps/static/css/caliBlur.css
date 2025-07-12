@@ -2971,7 +2971,7 @@ body > div.container-fluid > div > div.col-sm-10 > div > div > div.col-sm-3.col-
 
 .book-meta > .bookinfo > .languages > span:last-of-type, .book-meta > .bookinfo > .publishers > span:last-of-type, .book-meta > .bookinfo > .publishing-date > span:last-of-type, .real_custom_columns > span:last-of-type {
     font-family: Open Sans Semibold, Helvetica Neue, Helvetica, Arial, sans-serif;
-    color: #8b0000;
+    color: #eee;
     font-size: 15px;
     -webkit-font-smoothing: antialiased
 }
@@ -3030,7 +3030,7 @@ body.book .author {
 }
 
 .book-meta > p {
-    color: hsla(0, 0%, 100%, .45)
+    color: #fff;
 }
 
 .book-meta > .bookinfo > p:first-of-type {
@@ -3079,7 +3079,7 @@ body.book .author {
 .book-meta > .bookinfo > .identifiers .glyphicon-link, .book-meta > .bookinfo > .tags .glyphicon-tags {
     margin-left: -40px;
     margin-right: 17px;
-    color: #8b2222;
+    color: #8b0000;
     width: 20px;
     vertical-align: text-bottom
 }

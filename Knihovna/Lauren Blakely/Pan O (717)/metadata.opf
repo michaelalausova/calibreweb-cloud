@@ -5,8 +5,17 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0ecdd055-be39-4b03-8f6f-8ca6fd17ae52</dc:identifier>
         <dc:title>Pan O</dc:title>
         <dc:creator opf:file-as="Blakely, Lauren" opf:role="aut">Lauren Blakely</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2022-10-19T13:11:41+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Říkejte mi prostě Pan O. Protože VAŠE potěšení je moje superschopnost.
+&lt;br&gt;Vyvolat v ženě pocit bože, to je skvělý je podstatou všeho, a pokud to chlap nedokáže, měl by sakra z ložnice vypadnout. Mluvím o extázi, při který se kroutí prsty na nohou, která vyrazí dech a donutí ženskou popadat prostěradlo. Takovou, jakou pokaždý dopřávám já.
+&lt;br&gt;Předpokládám, že to ze mě dělá superhrdinu rozkoše, a mojí misí je vždy splnit svůj úkol.
+&lt;br&gt;Jasně, jsem závislý na rozdávání, ale přistupte blíž a najdete taky muže se sexy zevnějškem, výbornou prací, vtipem ostrým jako břitva a srdcem ze zlata. Jo, život je fajn...
+&lt;br&gt;A pak mě vyvede z míry, když mě jistá žena požádá, abych ji naučil všechno o tom, jak si získat muže. Jedinej problém? Je to sestra mýho nejlepšího kamaráda, ale je příliš lákavá na to, abych jí odolal – zvlášť, když se dozvím, že sladká, sexy Harper má taky nemravnou mysl a chce jí dobře využít. Co by se mohlo pokazit, když dám ženě, po který jsem tajně toužil, bez závazků lekce ve svádění?
+&lt;br&gt;Nikdo se to nedozví, ani když si pošleme pár oplzlejch sextovek. Dobře, pár stovek. Nebo když se jí zasekne zip na šatech. Ne o tamto! Nebo když na mě ve vlaku před celou rodinou udělá ty mrdavý oči.
+&lt;br&gt;Problém je, že čím víc nocí s ní trávím v posteli, tím víc dní s ní chci strávit mimo postel. A poprvý v životě nepřemýšlím jen o tom, jak přimět ženu křičet rozkoší – přemýšlím o tom, jak ji na dlouho udržet v náručí.
+&lt;br&gt;Vypadá to, že skutečná Dobrodružství pana Orgasma teprve začínají....&lt;/p&gt;</dc:description>
+        <dc:publisher>Red</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>
@@ -14,6 +23,7 @@
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:54:21+00:00"/>
         <meta name="calibre:title_sort" content="Pan O"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -5,16 +5,19 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">af37ebaf-cd06-46e2-b1fd-6ee10f07b4c5</dc:identifier>
         <dc:title>Temná krev</dc:title>
         <dc:creator opf:file-as="Blake, Elly" opf:role="aut">Elly Blake</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p id="description"&gt;Rubyin svět se změnil víc, než ona sama čekala – zamilovala se do Ledového krále a sama je dědičkou ohnivého trůnu. Ale místo idyly se dostavila noční můra. Hrozí, že se po stovkách let osvobodí temná stvoření, která touží ovládnout svět lidí a živit se jejich bolestí a utrpením. Ruby spěchá, aby jim v tom zabránila, ale k tomu potřebuje, aby spolu Mraziví i Ohniví spolupracovali. Dokáží se však po generace znepřátelené národy spojit, aby společně čelily temnému nepříteli?&lt;/p&gt;</dc:description>
+        <dc:publisher>CooBoo</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Young Adult</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
         <dc:subject>Dobrodružné</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
         <meta name="calibre:series" content="Ledová krev"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:03+00:00"/>
         <meta name="calibre:title_sort" content="Temná krev"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>
