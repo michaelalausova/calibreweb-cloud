@@ -8,12 +8,12 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-20T22:00:00+00:00</dc:date>
         <dc:description>Paul Riley je, stejně jako jeho alter ego Pan Romantik, trošku jiný společník. Žádný sex, jen dokonalé schůzky, kvůli kterým stojí za to i zemřít… Chcete miliardáře, zlobivého kluka se zlatým srdcem nebo sexy motorkáře? Paul to umí zařídit. Přitom si ale velmi pečlivě střeží soukromí sebe i svých klientek.Na scénu však přichází investigativní novinářka Eden Tateová. Když se k ní donesou zvěsti o Panu Romantikovi, je rozhodnuta odhalit jeho skutečnou identitu a celý příběh zveřejnit. Proslýchá se totiž, že tento vysněný muž také dokáže obírat osamělé paničky o jejich jmění.Paul novinářce nabídne dohodu. Ona se stane jeho klientkou a absolvuje s ním tři schůzky. Bude-li k tomu přistupovat nezaujatě, poskytne jí Paul tolik času na rozhovor, kolik si jen bude přát. Pokud jí během té doby dokáže, že vše, co dělá, je pro blaho oněch žen, pustí Eden příběh z hlavy. Když ji ale o svých dobrých úmyslech nepřesvědčí, může si novinářka příběh otisknout, jak uzná za vhodné, a to včetně jmen.Cynická Eden nepochybuje o tom, že jeho lacinému předstírání odolá, a tak na dohodu kývne…</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2021</dc:publisher>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Mistři lásky"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:27:31+00:00"/>
         <meta name="calibre:title_sort" content="Pan Romantik"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

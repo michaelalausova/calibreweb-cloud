@@ -6,8 +6,9 @@
         <dc:title>Světlo a stíny</dc:title>
         <dc:creator opf:file-as="Bardugo, Leigh" opf:role="aut">Leigh Bardugo</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1970-01-02T00:00:00+00:00</dc:date>
-        <dc:description>Ravka byla kdysi mocná země, ale nyní je zpustošena válkami, obklopena nepřáteli a všude panuje strach. Když je regiment Aliny Starkové napaden a jejímu nejlepšímu kamarádovi hrozí smrt, odhaluje v sobě Alina skrytou sílu. Sílu, která by mohla být klíčem k osvobození rozvrácené země. Opouští tak svět, který znala, aby se stala grišou – příslušnicí mocného řádu kouzelníků, kterému vládne záhadný Temnyj. Jenže v tomhle světě nic není, jak se zdá…</dc:description>
+        <dc:date>2016-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="description"&gt;Ravka, kdysi mocná a hrdá země, se otřásá v základech. Pás neprostupné temnoty obývaný krvežíznivými nestvůrami, ji rozdělil na dvě části. Její budoucnost leží v rukou nic netušící dívky… Alina nikdy v ničem nevynikala. O to víc je překvapena silou, která se projeví v okamžiku, kdy je se svým regimentem napadena a jejímu nejlepšímu příteli hrozí smrt. Jejích výjimečných schopností si všimnou na nejvyšších místech a dívka je dopravena na královský dvůr, kde se má naučit ovládat své dosud nezkrocené schopnosti. Má se stát grišou – členkou privilegované vrstvy mágů a kouzelníků. Jenže nic v tomto světě plném přetvářky není tak, jak se jí snaží namluvit. Alina proniká do tajemného společenství grišů a poznává blíž i jejich nejvyššího mága, okouzlujícího Temnyje. Postupně přichází na to, že vše, co se kolem ní děje, má jediný cíl. Zneužít její jedinečnou moc proti celé zemi i proti ní samotné. Pokud se nechce stát loutkou v rukou zla, musí uprchnout. Jediná možná cesta však vede tam, kam se jiní neodvažují. K pásu neprostupné temnoty…&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Fragment</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
@@ -16,6 +17,7 @@
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:18+00:00"/>
         <meta name="calibre:title_sort" content="Světlo a stíny"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

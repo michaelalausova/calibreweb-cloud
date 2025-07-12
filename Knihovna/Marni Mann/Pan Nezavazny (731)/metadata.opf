@@ -8,13 +8,14 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2025-04-11T08:32:48+00:00</dc:date>
         <dc:description>Vyšla jim dokonalá shoda v nové sexy aplikaci Hooked, kde lidé hledají vztah na jednu noc. Jejich srdce ale měla jiný plán…    Seznamka Hooked je výtvorem harvardských studentů Eastona Jonese a jeho dvou kamarádů. Když si Easton založí na Hooked profil, získá velmi nepravděpodobnou stoprocentní shodu. Kdo se za ní skrývá? Její uživatelské jméno je Láska. Od začátku mezi nimi funguje neskutečná chemie, po jednom setkání a právě ve chvíli, kdy se do ní Easton začíná zamilovávat, odpojí se tajemná neznámá z appky a zmizí.    Během následujících pěti let se z Hooked stane nejpopulárnější seznamovací aplikace v zemi. Easton ale v životě zažívá i další vzrušující změny. Jeho úchvatná nová zaměstnankyně Drake Maddenová v něm zažehne touhu, jakou už dlouho nepoznal. Právě když to začíná být vážné, na scéně se znovu objeví Láska. Žádá o šanci vysvětlit své jednání a Eastonovi tím pěkně zamotá hlavu. Má před sebou úchvatnou ženu z masa a kostí a zároveň vzpomínku na minulost, což jeho životem pořádně otřese.    A nebude to jen tak.</dc:description>
-        <dc:publisher>Nakladatelství JOTA</dc:publisher>
+        <dc:publisher>Jota</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Hooked"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2025-07-05T15:37:11.066148+00:00"/>
+        <meta name="calibre:timestamp" content="2025-07-05T15:37:11+00:00"/>
         <meta name="calibre:title_sort" content="Pan Nezávazný"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

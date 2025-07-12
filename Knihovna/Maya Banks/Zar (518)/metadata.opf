@@ -5,8 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">022a5288-2e96-415d-980d-6c7ef19192b5</dc:identifier>
         <dc:title>Žár</dc:title>
         <dc:creator opf:file-as="Banks, Maya" opf:role="aut">Maya Banks</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="description"&gt;Ash McIntyre má při sexu ve zvyku pustit uzdu své divoké stránce – extrémní a nesmlouvavé. Vyžaduje kontrolu. A dává přednost ženám, které preferují totéž. Ženám, které sdílel se svým nejlepším přítelem Jacem. &lt;br&gt;Jace je ale nyní zadaný a o svou ženu se dělit nechce. Dokonce i Gabe je šťastný ve vztahu s ženou, který mu dává vše, po čem touží. Ash je tak jediný, jehož touhy zůstávají neuspokojeny. &lt;br&gt;Pak ale pozná Josie, která se zdá imunní vůči jeho kouzlu i jeho bohatství. To v něm probudí zájem, je rozhodnutý, že Josie nenechá odejít. Nikdy by ho ani nenapadlo, že jediná žena, která mu kdy řekne ne, bude zároveň tou, která v něm vzedme takovou touhu.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Erotické</dc:subject>
         <dc:subject>Romantické</dc:subject>
@@ -14,6 +17,7 @@
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:24+00:00"/>
         <meta name="calibre:title_sort" content="Žár"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

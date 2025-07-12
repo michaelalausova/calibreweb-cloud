@@ -5,15 +5,23 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">873a7da0-75b5-4ce1-8be9-bfcabb8d361f</dc:identifier>
         <dc:title>Transcendence</dc:title>
         <dc:creator opf:file-as="Ann, Jewel E." opf:role="aut">Jewel E. Ann</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2023-03-18T22:00:00+00:00</dc:date>
-        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„V jiném životě byla moje navždy.“&lt;/p&gt;
+&lt;p&gt;Po nečekané tragédii se z profesora Nathaniela Hunta stane vdovec s miminkem. Najme si mladou, vzdělanou chůvu s nekomplikovaným životem, posedlostí divnými jmény a s klukem, s nímž se seznámila v supermarketu. &lt;/p&gt;
+&lt;p&gt;Postupem času chůva zjistí, že o něm už leccos ví, avšak všechno se stalo ještě před jejím narozením. Ví o skryté jizvě na jeho hlavě, o jeho oblíbené pizze i o tom, že na střední podváděl při testu ze španělštiny.&lt;/p&gt;
+&lt;p&gt;Zná fráze, které jsou mu povědomé, a prozradí mu vzpomínky, které ho vrátí o dvacet let do minulosti, kdy tragicky ztratil nejlepší kamarádku.&lt;/p&gt;
+&lt;p&gt;„Bojím se, co se stane, až ti dojde, že nejsem ona.“&lt;/p&gt;
+&lt;p&gt;Transcendece je smyslná cesta, která odhaluje nové možnosti, zpochybňuje zažité názory a zkoumá odvěkou otázku: existuje život po smrti?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Red</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Transcendence"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:46:04+00:00"/>
         <meta name="calibre:title_sort" content="Transcendence"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

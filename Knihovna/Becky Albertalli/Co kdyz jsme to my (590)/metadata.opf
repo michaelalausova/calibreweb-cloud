@@ -6,14 +6,17 @@
         <dc:title>Co když jsme to my</dc:title>
         <dc:creator opf:file-as="Albertalli, Becky &amp; Silvera, Adam" opf:role="aut">Becky Albertalli</dc:creator>
         <dc:creator opf:file-as="Albertalli, Becky &amp; Silvera, Adam" opf:role="aut">Adam Silvera</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:description>Arthur je beznadějný romantik a blázen do broadwayských muzikálů. Věří, že velké věci vás mohou potkat na každém kroku a osudová láska jakbysmet. Když narazí během letních prázdnin v New Yorku na Bena, má pocit, že mu vesmír dává znamení. Tohle nebyla náhoda, na tomhle setkání bylo něco…</dc:description>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Arthur je beznadějný romantik a blázen do broadwayských muzikálů. Věří, že velké věci vás mohou potkat na každém kroku a osudová láska jakbysmet. Když narazí během letních prázdnin v New Yorku na Bena, má pocit, že mu vesmír dává znamení. Tohle nebyla náhoda, na tomhle setkání bylo něco výjimečného… Ben pochybuje, že by byl vesmír na jeho straně. Právě se rozešel s přítelem a opravdu nemá náladu na nový vztah. Ani on ale nedokáže Arthura dostat z hlavy… Co když se ve městě s osmi miliony obyvatel už nikdy nepotkají? A co když ano… ale jejich první rande dopadne naprosto katastrofálně? Co když život vážně není broadwayský muzikál? A co když je?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>YOLI</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Young Adult</dc:subject>
         <meta name="calibre:timestamp" content="2025-06-08T10:45:28+00:00"/>
         <meta name="calibre:title_sort" content="Co když jsme to my"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

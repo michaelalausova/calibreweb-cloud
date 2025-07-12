@@ -7,7 +7,10 @@
         <dc:creator opf:file-as="Anderson, Poppy J." opf:role="aut">Poppy J. Anderson</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-04-30T09:41:23+00:00</dc:date>
-        <dc:publisher>Ikar CZ</dc:publisher>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Andrew Knight je nová hvězda na bostonském gastronomickém nebi – ovšem mezitím naprosto vyhořelá. Při spontánní dovolené v Maine potká atraktivní, ale trochu ztřeštěnou Brooke Dayovou, která vlastní spolu s rodiči malou restauraci a vůbec netuší, kdo se to u ní ubytoval.&lt;/p&gt;
+&lt;p&gt;Oba dva společně se postarají o to, aby se z Crab Inn místo lokálu pro zasvěcené stal módní restaurant pro všechny. A Andrewa poprvé po letech nejen díky Brooke, do níž se bláznivě zamiloval, vaření zase baví. Dokáže mu však dívka odpustit, že jí neřekl pravdu?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ikar</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>
@@ -15,6 +18,7 @@
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:43:03+00:00"/>
         <meta name="calibre:title_sort" content="Tajná přísada láska"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

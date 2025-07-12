@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9b481b00-87a8-4b69-a6ee-b4220c7b5369</dc:identifier>
         <dc:title>Jenom ne Cade</dc:title>
         <dc:creator opf:file-as="Bloom, Penelope" opf:role="aut">Penelope Bloom</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>Poté, co jsem kvůli Cadovi Kingovi přišla o všechno, slíbila jsem si, že už se do něj nikdy nezamiluji – i kdyby zbohatl a stal se neuvěřitelně slavným.Teď je zpátky a pořád je ztělesněním obřího, lesklého červeného knoflíku. Všichni vědí, že byste takový knoflík neměli mačkat, ale je tak, tak těžké tomu odolat.Lhala bych, kdybych řekla, že jsem si to ani trochu neužila, když jsem ho zatýkala za výtržnictví. Bohužel si myslím, že jemu se to taky trochu líbilo. Takže když mě poprosil, abych mu pomohla s výchovou syna, o kterém se právě dozvěděl, věděla jsem přesně, co mám říct: „Ne, ty hloupý, rajcovní červený knoflíku. Nedotknu se tě, ani abych ti pomohla s roztomilým klučíkem.“ A máte sakra pravdu, že jsem to řekla přesně takhle. Skoro.Cade pořád o závazcích neví ani ň. Stále žije okamžikem. Musela bych trpět amnézií, abych uvěřila, že by se mohl změnit, dokonce i kvůli synovi. Nebo kvůli mně.</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>
@@ -16,6 +15,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:41:34+00:00"/>
         <meta name="calibre:title_sort" content="Jenom ne Cade"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -520,12 +520,12 @@ body.shelforder > div.container-fluid > div.row-fluid > div.col-sm-10:before {
 
 #have_read_cb:checked + label:before {
     content: "\e105";
-    color: #B22222
+    color: #8b0000
 }
 
 #have_read_cb + label:before {
     content: "\e106";
-    color: #B22222
+    color: #8b0000
 }
 
 #archived_form {
@@ -586,7 +586,7 @@ body.shelforder > div.container-fluid > div.row-fluid > div.col-sm-10:before {
 
 #archived_cb + label:before {
     content: "\e020";
-    color: #b22222;
+    color: #8b0000;
 }
 
 div[aria-label="Edit/Delete book"] > .btn {
@@ -681,7 +681,7 @@ div[aria-label="Edit/Delete book"] > .btn > span:hover {
 }
 
 a {
-    color: hsla(0, 0%, 100%, .45);
+    color: #8b0000;
 }
 
 a:hover {
@@ -704,7 +704,7 @@ body > div.navbar.navbar-default.navbar-static-top > div > div.navbar-header > a
     width: 240px;
     height: 60px;
     text-align: left;
-    color: var(--color-primary) !important;
+    color: #b22222 !important;
     font-size: 15px;
     font-family: Open Sans Bold, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-stretch: normal;
@@ -1315,7 +1315,7 @@ body > div.container-fluid > div > div.col-sm-10 > div > form > a:hover {
 
 .navigation .nav-head {
     margin: 0;
-    color: #B22222;
+    color: #8b0000;
     font-size: 15px;
     font-family: Open Sans Bold, Helvetica Neue, Helvetica, Arial, sans-serif;
     line-height: 45px;
@@ -1350,7 +1350,7 @@ body > div.container-fluid > div > div.col-sm-10 > div > form > a:hover {
 
 .navigation li a:hover {
     background: 0 0;
-    color: #b22222
+    color: #8b0000
 }
 
 #nav_hot .glyphicon-fire::before {
@@ -2962,7 +2962,7 @@ body > div.container-fluid > div > div.col-sm-10 > div > div > div.col-sm-3.col-
 }
 
 .book-meta > .bookinfo > .languages > span:first-of-type, .book-meta > .bookinfo > .publishers > span:first-of-type, .book-meta > .bookinfo > .publishing-date > span:first-of-type, .real_custom_columns > span:first-of-type {
-    color: ;
+    color: #8b0000;
     text-transform: uppercase;
     font-family: Open Sans Bold, Helvetica Neue, Helvetica, Arial, sans-serif;
     width: 200px;
@@ -2971,7 +2971,7 @@ body > div.container-fluid > div > div.col-sm-10 > div > div > div.col-sm-3.col-
 
 .book-meta > .bookinfo > .languages > span:last-of-type, .book-meta > .bookinfo > .publishers > span:last-of-type, .book-meta > .bookinfo > .publishing-date > span:last-of-type, .real_custom_columns > span:last-of-type {
     font-family: Open Sans Semibold, Helvetica Neue, Helvetica, Arial, sans-serif;
-    color: #ffff;
+    color: #8b0000;
     font-size: 15px;
     -webkit-font-smoothing: antialiased
 }
@@ -3000,7 +3000,7 @@ body > div.container-fluid > div > div.col-sm-10 > div > div > div.col-sm-3.col-
 
 .book-meta > .author > a:first-of-type:before {
     content: "Autor ";
-    color: hsla(0, 0%, 100%, .45);
+    color: #eee;
     position: absolute;
     left: 15px;
     pointer-events: none
@@ -3034,7 +3034,7 @@ body.book .author {
 }
 
 .book-meta > .bookinfo > p:first-of-type {
-    color: hsla(0, 0%, 100%, .45);
+    color: #eeee;
     font-size: 15px;
     margin-top: -10px;
     max-width: calc(100% - 100px)
@@ -3141,7 +3141,7 @@ div.btn-group[role=group][aria-label="Download, send to Kindle, reading"] > div.
 }
 
 #add-to-shelf > span, #btnGroupDrop1 > span, #readbtn > span, #sendbtn > span, .book-meta .btn-toolbar > .btn-group > .btn-group:nth-child(1) > a:first-of-type > span, .book-meta .btn-toolbar > .btn-group > .btn-warning > span, .btn-toolbar > .btn-group > #btnGroupDrop2 > span, .btn-toolbar > .btn-group > .btn-group > #btnGroupDrop2 > span {
-    color: #B22222
+    color: #8b0000
 }
 
 #add-to-shelf:hover span, #btnGroupDrop1:hover > span, #readbtn:hover > span, #sendbtn:hover > span, .book-meta .btn-toolbar > .btn-group > .btn-group:nth-child(1) > a:first-of-type:hover > span, .book-meta .btn-toolbar > .btn-group > .btn-warning:hover > span, .btn-toolbar > .btn-group > #btnGroupDrop2:hover > span, .btn-toolbar > .btn-group > .btn-group > #btnGroupDrop2:hover > span {

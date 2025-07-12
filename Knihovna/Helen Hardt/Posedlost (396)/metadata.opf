@@ -8,7 +8,6 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-08-24T22:00:00+00:00</dc:date>
         <dc:description>Vášnivý vztah mladé právničky Jade Robertsové a rančera Talona Steela, bratra její nejlepší kamarádky, se rychle rozvíjí ve skutečnou lásku. Všechno se ale komplikuje tím, že Talon stále bojuje se svými vnitřními démony, kteří ho pronásledují už od dětství. Tehdy se stal obětí zločinu a on i jeho bratři tyto události dosud tají před celým světem.Mužovy vnitřní problémy opakovaně způsobují, že extatickou vášeň, kterou zažívá s Jade, střídají hluboké propady, střety a nedorozumění. Talon tedy začíná zvolna chápat, že se s pomocí svých blízkých a terapeutky musí znovu otevřít bolestným traumatům své minulosti a konečně se s nimi vyrovnat. To je ale pro něj neuvěřitelně těžké.Jadein šéf ji pověřuje pátráním v minulosti Steelových, a usnadní jí tím odhalování temných tajemství jejich rodiny. Otázek je však stále víc než odpovědí. Jak a proč zemřela Talonova matka? Kdo ve skutečnosti byli jeho únosci?A co přesně se před pětadvaceti lety stalo?</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2021</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>
@@ -16,6 +15,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:37:01+00:00"/>
         <meta name="calibre:title_sort" content="Posedlost"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

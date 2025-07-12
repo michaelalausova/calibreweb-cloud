@@ -8,12 +8,12 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-04-07T22:00:00+00:00</dc:date>
         <dc:description>Princezna by neměla sesadit krále.ElsaŘekl, že mě zničí, a přesně to také udělal. Možná jsem prohrála bitvu, ale válka ještě ani zdaleka neskončila.Říká se, že každý převrat začíná prvním tahem.Nikdo se ale nezmínil, že mě král při svém pádu strhne s sebou.AidenPokud malá Steelovic princezna chce válku, pak ji dostane. Existuje jen jedno pravidlo: buď moje pravidla, nebo žádná.Jen se nestyď a ukaž mi, co v sobě máš, miláčku.Ocelová princezna je druhým dílem série Royal Elite. Je to temná romance o středoškolském tyranovi pro zralé mladé čtenáře a obsahuje kontroverzní situace, které mohou někomu připadat urážlivé.Nejedná se o samostatný román.</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Royal Elite"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:32:56+00:00"/>
         <meta name="calibre:title_sort" content="Ocelová princezna"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

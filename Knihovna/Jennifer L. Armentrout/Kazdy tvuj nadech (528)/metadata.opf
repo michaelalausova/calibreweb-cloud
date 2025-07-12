@@ -6,9 +6,13 @@
         <dc:title>Každý tvůj nádech</dc:title>
         <dc:creator opf:file-as="Armentrout, Jennifer L." opf:role="aut">Jennifer L. Armentrout</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2023-11-21T22:00:00+00:00</dc:date>
-        <dc:description>NĚKTERÉ LÁSKY PŘETRVAJÍ AŽ DO POSLEDNÍHO DECHUKaždé rozhodnutí s sebou nese následky a sedmnáctiletá Layla Shawová čelí drsnějším rozhodnutím než většina z nás. Světlo, nebo temnota? Hříšně sexy démon Roth, nebo Zayne, úžasný, ochranitelský Strážce, o kterém si v životě nemyslela, že by mohl být její? Nejtěžší ze všeho je rozhodnout se, komu může věřit.Layla se potýká i s novým problémem. Byl vypuštěn Lilin, nejhrozivější ze všech démonů, který zničí, na co jen sáhne... a nebere si servítky, ani když jde o její nejbližší přátele. Aby ochránila Sama před osudem horším než smrt, musí Layla podniknout nebezpečnou cestu, a přitom ubránit své město – a lidskou rasu – před zkázou.Layla, rozervaná mezi dvěma světy a dvěma muži, nemá žádnou jistotu, ani tu, jestli přežije. Obzvlášť když ji a její přátele začne pronásledovat stará dohoda. Avšak někdy, když jsou tajemství na každém kroku a zdá se, že pravdu nelze rozeznat, musíte poslouchat své srdce, vybrat si stranu a bojovat jako o život.</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ King Cool 2023</dc:publisher>
+        <dc:date>2022-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;NĚKTERÉ LÁSKY PŘETRVAJÍ AŽ DO POSLEDNÍHO DECHU&lt;/p&gt;
+&lt;p&gt;Každé rozhodnutí s sebou nese následky a sedmnáctiletá Layla Shawová čelí drsnějším rozhodnutím než většina z nás. Světlo, nebo temnota? Hříšně sexy démon Roth, nebo Zayne, úžasný, ochranitelský Strážce, o kterém si v životě nemyslela, že by mohl být její? Nejtěžší ze všeho je rozhodnout se, komu může věřit.&lt;/p&gt;
+&lt;p&gt;Layla se potýká i s novým problémem. Byl vypuštěn Lilin, nejhrozivější ze všech démonů, který zničí, na co jen sáhne... a nebere si servítky, ani když jde o její nejbližší přátele. Aby ochránila Sama před osudem horším než smrt, musí Layla podniknout nebezpečnou cestu, a přitom ubránit své město – a lidskou rasu – před zkázou.&lt;/p&gt;
+&lt;p&gt;Layla, rozervaná mezi dvěma světy a dvěma muži, nemá žádnou jistotu, ani tu, jestli přežije. Obzvlášť když ji a její přátele začne pronásledovat stará dohoda. Avšak někdy, když jsou tajemství na každém kroku a zdá se, že pravdu nelze rozeznat, musíte poslouchat své srdce, vybrat si stranu a bojovat jako o život.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>King Cool</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Romantické</dc:subject>
@@ -17,6 +21,7 @@
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:48+00:00"/>
         <meta name="calibre:title_sort" content="Každý tvůj nádech"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

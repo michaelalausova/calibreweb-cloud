@@ -5,8 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">87f317e7-6453-4202-a141-16f625b7292e</dc:identifier>
         <dc:title>Pád</dc:title>
         <dc:creator opf:file-as="Banks, Maya" opf:role="aut">Maya Banks</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="description"&gt;Když Gabe Hamilton spatřil Miu Crestwellovou na galavečírku při příležitosti otevření jeho nejnovějšího hotelu, okamžitě věděl, že za to, po čem touží, skončí v pekle. Mia je přece mladší sestřička jeho nejlepšího přítele, jež vyrostla v překrásnou ženu. A Gabe čekal už tak dlouho. &lt;br&gt;&lt;br&gt;Mia o Gabeovi sní už od doby, kdy se coby dospívající dívka zamilovala do nejlepšího kamaráda svého bratra. Co na tom, že je Gabe o čtrnáct let starší? Mia ví, že je naprosto mimo jeho ligu, ale přesto ji přitahuje stále víc. Nyní je dospělá a nemá sebemenší důvod, proč své nejtajnější touhy neuskutečnit. &lt;br&gt;&lt;br&gt;Gabe ji vtáhne do svého provokativního světa a Mia si uvědomí, že mnoho neví ani o něm, ani o tom, jak vzrušující jeho požadavky mohou být. Jejich vztah je intenzivní a vášnivý, ale ve chvíli, kdy překročí hranici dělící tajný poměr od něčeho mnohem hlubšího, hrozí, že se jejich vztah dostane na veřejnost – zradou mnohem intimnější, než si oba kdy dokázali představit.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Erotické</dc:subject>
         <dc:subject>Romantické</dc:subject>
@@ -14,6 +17,7 @@
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:27+00:00"/>
         <meta name="calibre:title_sort" content="Pád"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

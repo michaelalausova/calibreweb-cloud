@@ -8,7 +8,6 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-04-14T22:00:00+00:00</dc:date>
         <dc:description>Niccolo AndrettiKretén. Hajzl. Svině.Tohle všechno na mě sedí, obzvlášť poté, co jsem uprchl z území Andrettiů. Věčně vytočený tím, jakým směrem se můj život ubírá, se raději držím v tichu a samotě svého domu. Nejen že je to bezpečnější, protože na mě vlastní bratr vypsal odměnu, je to i vítaný úkryt před tím, čemu se říká lidstvo. Ale pak se objeví ona – vzteklá, panovačná a zatraceně sexy. Na první pohled ji nesnáším.Minka ReynoldsováKurva. Děvka. Coura.Tak se mi říká. Nevadí mi to. Mám důležitější věci na práci – jako dokončit univerzitu, starat se o mladší sestru a ano, najít dalšího chlapa, který to všechno zatáhne. Jestli kvůli tomu musím občas roztáhnout nohy? Budiž. Se mnou nic nehne. Ale pak se objeví on – vzteklý, panovačný a zatraceně sexy. Na první pohled ho nesnáším.</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Erotické</dc:subject>
         <dc:subject>Romantické</dc:subject>
@@ -16,6 +15,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:35:21+00:00"/>
         <meta name="calibre:title_sort" content="Niccolo Andretti"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -5,13 +5,19 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">60044d51-f43a-4482-b277-e0aa3676bcea</dc:identifier>
         <dc:title>Navždy a věčně</dc:title>
         <dc:creator opf:file-as="Armentrout, Jennifer L." opf:role="aut">Jennifer L. Armentrout</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-09-19T05:28:10+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Pro někoho může být mlčenlivost zbraní. Pro Mallory „Myšku“ Dodgeovou představuje štít. Naučila se, že nejlepším způsobem, jak přežít, je neříkat nic. Přestože od její noční můry uplynuly už čtyři roky, dělá si starosti, že svůj strach nikdy nepřekoná.&lt;/p&gt;
+&lt;p&gt;Po letech domácího vyučování adoptivními rodiči se musí Mallory postavit čelem k tomu, že maturitní ročník stráví na veřejné střední škole. V hlavě se jí odehrávaly všelijaké děsivé scénáře, nikdy se jí však ani nesnilo o tom, že hned první den ve škole narazí na Ridera Starka, svého kamaráda a ochránce, kterého neviděla už od dětství.&lt;/p&gt;
+&lt;p&gt;Netrvá dlouho a Mallory si uvědomí, že pouto, jež kdysi s Riderem sdílela, nezesláblo. Naopak, čím víc se jejich vztah prohlubuje, tím víc vychází najevo, že dívka není jediná, kdo zápasí s minulostí. Když se Riderův život vymkne kontrole, Mallory se musí rozhodnout, jestli zůstane mlčet, nebo promluví. Kvůli lidem, které miluje, a kvůli vlastní budoucnosti musí pravda vyjít najevo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Young Adult</dc:subject>
         <meta name="calibre:timestamp" content="2025-06-08T10:45:23+00:00"/>
         <meta name="calibre:title_sort" content="Navždy a věčně"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

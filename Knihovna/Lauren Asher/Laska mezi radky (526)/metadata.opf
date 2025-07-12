@@ -7,12 +7,12 @@
         <dc:creator opf:file-as="Asher, Lauren" opf:role="aut">Lauren Asher</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-11-13T22:00:00+00:00</dc:date>
-        <dc:description>Rowan
-Živím se tvorbou pohádek. Zábavní parky. Produkční společnosti. Pětihvězdičkové hotely. To všechno by mohlo být moje, kdybych zrenovoval Dreamland. Najmout Zahru se zprvu jevilo jako dobrý nápad, ale pak jsem ji políbil…
-Když jsem jí napsal zprávu pod falešným jménem, všechno se začalo vymykat kontrole. Když jsem si uvědomil, kde jsem udělal chybu, bylo už pozdě. Na lidi, jako jsem já, nečeká žádné „šťastně až navěky“. Protože nám je souzeno šťastné konce ničit.Zahra
-Když jsem v opilosti odeslala projekt kritizující nejdražší horskou dráhu v Dreamlandu, měla jsem za to dostat padáka. Místo toho mi Rowan Kane nabídl pracovní místo snů. Ale mělo to háček. Znamenalo to pracovat pro toho nejtvrdohlavějšího šéfa pod sluncem. Rowan byl protivný a nedotknutelný, ale mému srdci to bylo jedno. Dokud jsem neodhalila jeho tajemství.
-Teď je načase tohohle miliardáře naučit, že peníze nedokážou spravit všechno. A už vůbec ne nás.Láska mezi řádky je prvním dílem série tematicky propojených samostatných knih sledujících osudy tří bratrů z miliardářské rodiny.</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Rowan&lt;/p&gt;
+&lt;p&gt;Živím se tvorbou pohádek. Zábavní parky. Produkční společnosti. Pětihvězdičkové hotely. To všechno by mohlo být moje, kdybych zrenovoval Dreamland. Najmout Zahru se zprvu jevilo jako dobrý nápad, ale pak jsem ji políbil… Když jsem jí napsal zprávu pod falešným jménem, všechno se začalo vymykat kontrole. Když jsem si uvědomil, kde jsem udělal chybu, bylo už pozdě. Na lidi, jako jsem já, nečeká žádné „šťastně až navěky“.Protože nám je souzeno šťastné konce ničit.&lt;/p&gt;
+&lt;p&gt;Zahra&lt;/p&gt;
+&lt;p&gt;Když jsem v opilosti odeslala projekt kritizující nejdražší horskou dráhu v Dreamlandu, měla jsem za to dostat padáka. Místo toho mi Rowan Kane nabídl pracovní místo snů. Ale mělo to háček. Znamenalo to pracovat pro toho nejtvrdohlavějšího šéfa pod sluncem. Rowan byl protivný a nedotknutelný, ale mému srdci to bylo jedno. Dokud jsem neodhalila jeho tajemství. Teď je načase tohohle miliardáře naučit, že peníze nedokážou spravit všechno. A už vůbec ne nás.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Red</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Erotické</dc:subject>
         <dc:subject>Romantické</dc:subject>
@@ -20,6 +20,7 @@ Teď je načase tohohle miliardáře naučit, že peníze nedokážou spravit v�
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:43+00:00"/>
         <meta name="calibre:title_sort" content="Láska mezi řádky"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

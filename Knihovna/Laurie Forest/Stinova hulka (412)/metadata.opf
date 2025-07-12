@@ -10,7 +10,6 @@
         <dc:description>Elloren Gardnerová skrývá nejmocnější z tajemství v celé Erthii – to ona je Černá čarodějka Proroctví a je předurčena k vítězství… Nebo aby ji zneužili jako nejstrašnější ničivou zbraň.
 Elloren, odloučená od všech, které miluje, izolovaná a pronásledovaná, se musí uchýlit k poslední osobě, které může důvěřovat – ke svému muži, veliteli Lukasi Greyovi.Protože se mágské síly Gardnerie chystají dobýt celou Erthii, nemá Elloren jinou možnost, než se spojit s Lukasem a sjednotit jejich sílu, aby se nedostala do rukou gardneriánského vůdce Marcuse Vogela… Držitele všemocné Stínové hůlky.
 S pouhými několika týdny na to, aby se stala vycvičenou bojovnicí, a bez kontroly nad svou vlastní magií, najde Elloren nečekané spojence mezi těmi, kteří mají rozkaz ji zabít. Je čas vyjít na světlo. Je čas bojovat. A postupovat kupředu navzdory dosud nejničivějším ztrátám…</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ King Cool 2021</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Dobrodružné</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -19,6 +18,7 @@ S pouhými několika týdny na to, aby se stala vycvičenou bojovnicí, a bez ko
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:37:41+00:00"/>
         <meta name="calibre:title_sort" content="Stínová hůlka"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

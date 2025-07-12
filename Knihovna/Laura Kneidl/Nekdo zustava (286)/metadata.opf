@@ -8,12 +8,12 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-11-14T23:00:00+00:00</dc:date>
         <dc:description>Aliza by se nebránila lásce, ale na vztah nemá čas. Studuje práva, aby si mohla splnit svůj sen a pomáhat znevýhodněným lidem, přičemž ještě vede úspěšný blog a instagramový profil o vaření. Plné ruce práce má i s přípravou své první kuchařky. Takže si nesmí dovolit žádné rozptýlení – ani kdyby bylo atraktivní a fascinující jako Lucien.Také pro Luciena je momentálně láska až na posledním místě. Od smrti rodičů je jeho hlavní prioritou mladší sestra, kterou má v péči. Obětování svého osobního života a svých snů bere jako povinnost, závazek k naplnění odkazu rodičů.Čím lépe se však Aliza a Lucien poznávají, tím silnější je přitažlivost mezi nimi. Jejich odhodlání držet od sebe ruce pryč tak čím dál víc pokulhává...</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2022</dc:publisher>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Někdo"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:32:30+00:00"/>
         <meta name="calibre:title_sort" content="Někdo zůstává"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

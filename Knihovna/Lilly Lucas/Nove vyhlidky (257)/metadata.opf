@@ -8,12 +8,12 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-07-30T22:00:00+00:00</dc:date>
         <dc:description>Když se Annie po těžké nehodě probouzí z kómatu, musí se toho spoustu učit znovu. A to nejenom takové věci, jako je chůze a psaní, ale musí se naučit především zase žít. Annie se chce co nejrychleji vrátit ke své práci automechaničky v dílně, kterou vede spolu s tátou v městečku Green Valley.Idylické prostředí Skalistých hor si ovšem jako svůj úkryt před novináři vybral i Cole Jacobs, seriálová hvězda Netflixu, která se tu především užírá nudou. Annie se pustí do zkoušení vánoční Betlémské hry, aby tak zachránila letní tábor pro děti, a Cole Jacobs se jí připlete do cesty jako pomocný režisér.Ti dva se ovšem nemůžou v ničem shodnout a Annie je úplné jiná než všechny ostatní ženy, které Cole doposud poznal. Najdou spolu vůbec někdy společnou řeč, nebo pochází z až příliš odlišných světů?</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Láska z Green Valley"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:31:21+00:00"/>
         <meta name="calibre:title_sort" content="Nové vyhlídky"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

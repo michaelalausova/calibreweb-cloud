@@ -5,14 +5,20 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d4518663-ee15-467d-a8f1-1c7dc653471a</dc:identifier>
         <dc:title>Pýcha a předsudek</dc:title>
         <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-26T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Příběh z prostředí vyšších vrstev anglické venkovské společnosti 19. století líčí osudy rodiny Bennetových, jejíž pět dcer na vdávání nutí matku k horečnému shánění ženichů. Hlavní hrdinkou je pak druhorozená Elizabeth, která bojuje o právo sama rozhodnout o svém životě.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Není pochyb o tom, že hrdinkou románu Pýcha a předsudek, Lízinkou, je sama Jane Austenová (1775–1817). Přestože prožila tak typicky nekonfliktní život (nikdy se neprovdala a jediné nabídnutí k sňatku prý během hodiny odmítla), neodráží se v jejím díle žádná osudová hořkost. Zdá se, že se ze své pozice dcery bez věna, a tudíž dívky bez zvláštních šancí na lepší sňatek, spíš nesmírně bavila – asi jako člověk, který v divadle sleduje zábavnou komedii. Přidáním ironického podtextu posunula románovou tvorbu ze sfér naivního realismu o několik generací dopředu. Víc než půldruhého století je doba, která dovedla pohltit stovky literárních děl, jimž se při zrodu prorokovala nesmrtelnost; a byla to díla s daleko efektnějšími a vzrušivějšími náměty než Pýcha a předsudek. Jemné kouzlo Jane Austenové má svůj stálý vděčný okruh čtenářů a každá nová generace autorčin odkaz objevuje po svém, v nových barevných odstínech a v novém lesku.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Albatros Media a.s.</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Klasika</dc:subject>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Historické</dc:subject>
         <meta name="calibre:timestamp" content="2025-06-08T10:46:34+00:00"/>
         <meta name="calibre:title_sort" content="Pýcha a předsudek"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -5,9 +5,17 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6fd9196c-930e-4515-ab94-a9d8e2c02eae</dc:identifier>
         <dc:title>Láska na oko</dc:title>
         <dc:creator opf:file-as="Asher, Lauren" opf:role="aut">Lauren Asher</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-06-18T22:00:00+00:00</dc:date>
-        <dc:publisher>knihy DOBROVSKÝ Red 2024</dc:publisher>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Declan&lt;/p&gt;
+&lt;p&gt;Odjakživa jsem věděl, že jednou převezmu vedení rodinného mediálního impéria. Jediný problém je dědická doložka v závěti mého dědečka. Splnit jeho poslední přání – oženit se a dát impériu dědice – se zdálo nemožné, dokud se nenabídla moje asistentka. Náš sňatek měl být dokonalým řešením mého největšího problému. Ale čím víc se navenek chováme zamilovaně, tím víc se mi do mysli vkrádají pochyby. Na Iris mi nikdy nemělo záležet, nebylo to součástí dohody. Zvlášť proto, že to pro ni nemůže skončit jinak než zlomeným srdcem.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Iris&lt;/p&gt;
+&lt;p&gt;Plán vzít si Declana se mi z počátku zdál jednoduchý. Sestěhovat se. Uspořádat svatbu. Mít spolu dítě. Abychom předešli komplikacím, stanovili jsme si pravidla. Pravidla, která je nutné dodržovat, přestože Declanovi je těžké odolat. Ale co se stane, když se začne stírat hranice mezi falešným a opravdovým?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Láska na oko je druhým dílem série tematicky propojených samostatných knih, sledujících osudy tří bratrů z miliardářské rodiny. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Red</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>
@@ -15,6 +23,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:40+00:00"/>
         <meta name="calibre:title_sort" content="Láska na oko"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

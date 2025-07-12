@@ -5,10 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d6ff3c57-8f51-49ec-ab24-9528904a5bc6</dc:identifier>
         <dc:title>Zkáza a naděje</dc:title>
         <dc:creator opf:file-as="Bardugo, Leigh" opf:role="aut">Leigh Bardugo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2018-02-16T15:46:58+00:00</dc:date>
-        <dc:description>Temnyj ovládl Ravku a osud celé země tak leží v rukou zlomené světlonošky, zneuctěného stopaře a pozůstalých členů kdysi úctyhodné magické armády. Oslabená Alina se vydává po stopách nepolapitelného ptáka ohně a doufá, že cestou najde vyděděného prince. Alina bude muset uzavřít nová příměří. Jakmile však začne odkrývat Temnyjova tajemství, odhalí se jí pravda, která změní všechno, co si doposud myslela o jejich poutu a moci, jíž oplývá.</dc:description>
-        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="description"&gt;Hlavní město Ravky padlo a na trůn usedl Temnyj. Zesláblá Alina se skrývá hluboko pod zemí ve starobylém jeskynním labyrintu a nabírá síly k dalšímu boji. Jen s velkým přemáháním snáší nechtěnou péči fanatiků, kteří ji začali uctívat jako svatou. V hlavě se jí rodí plán, postavený na nejistých základech. Dočká se pomoci od svého spojence prince Lantsovova, po kterém se ale slehla zem? Podaří se jí najít bájného ohnivého ptáka a využít jeho moc v boji proti temnotě? Jisté je, že válka je na spadnutí a Alinin neúspěch bude znamenat zkázu nejen pro ni, ale i pro celou zemi.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Fragment</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Young Adult</dc:subject>
@@ -16,6 +17,7 @@
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:16+00:00"/>
         <meta name="calibre:title_sort" content="Zkáza a naděje"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

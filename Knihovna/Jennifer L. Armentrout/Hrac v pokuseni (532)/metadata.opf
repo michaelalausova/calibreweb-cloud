@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">31160d87-4c22-4682-91c3-da49ea168935</dc:identifier>
         <dc:title>Hráč v pokušení</dc:title>
         <dc:creator opf:file-as="Armentrout, Jennifer L." opf:role="aut">Jennifer L. Armentrout</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2024-04-08T12:40:54+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-31T22:00:00+00:00</dc:date>
         <dc:description>Hvězdný baseballista Chad Gamble je proslulý svými výkony na hřišti i v posteli. Když v klubu, v jehož zákoutích se odehrávají erotická dobrodružství, narazí na temperamentní zrzku Bridget, vypadá to na další úlet na jednu noc. Jenomže proslulý záletník je kvůli prodloužení smlouvy nucený napravit svoji pověst a obyčejná holka z kanceláře mu v tom může pomoct. Bridget má možnost slavného baseballistu odpálkovat. Anebo kývnout na spolupráci a užít si sex, na jaký se nezapomíná. A ještě mnohem víc…</dc:description>
-        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:publisher>XYZ</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>
@@ -16,6 +16,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:58+00:00"/>
         <meta name="calibre:title_sort" content="Hráč v pokušení"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

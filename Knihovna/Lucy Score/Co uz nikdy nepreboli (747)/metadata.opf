@@ -9,14 +9,15 @@
         <dc:date>2022-12-31T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Atraktivní vousáč Knox nejraději žije tak, jak popíjí kávu: sám. Nesnáší drama, a to ani tehdy, když má podobu zoufalé nevěsty na útěku. Naomi však neprchá jen před svou svatbou, do Knockemoutu se vydala taky proto, aby pomohla svému odcizenému dvojčeti – Tině. V tomhle na první pohled drsném městečku se spory řeší postaru… pěstmi a pivem. A většinou právě v tomto pořadí. Škoda že se Naomino dvojče vůbec nezměnilo. Tina nejen že ukradne sestře auto a peníze, ale zanechá po sobě i nečekaný dáreček – neteř, o které neměla mladá žena ani potuchy. Naomi se tak zničehonic ocitne v cizím městě bez jakýchkoli prostředků a s jedenáctiletým dítětem, o které se musí postarat…&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Ikar (ČR)</dc:publisher>
+        <dc:publisher>Ikar</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Knockemount"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2025-07-06T19:12:27.829842+00:00"/>
+        <meta name="calibre:timestamp" content="2025-07-06T19:12:27+00:00"/>
         <meta name="calibre:title_sort" content="Co už nikdy nepřebolí"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

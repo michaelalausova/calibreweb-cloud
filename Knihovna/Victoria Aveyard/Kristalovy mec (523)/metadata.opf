@@ -5,8 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">796f708d-74cd-425e-947b-e2457c135dc9</dc:identifier>
         <dc:title>Křišťálový meč</dc:title>
         <dc:creator opf:file-as="Aveyard, Victoria" opf:role="aut">Victoria Aveyard</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2017-09-27T15:48:57+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-09T15:48:57+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Krev Mare Barrowové je rudá jako většiny obyčejných lidí. Má ale nadpřirozené schopnosti jako Stříbrná, dovede ovládat blesky, což je zbraň, kterou chce královský dvůr získat pod svou kontrolu. Sice ji obvinili, že to vše jen předstírá a je prachsprostá podvodnice, ale jí se podaří uprchnout od Mavena, prince a přítele, který ji zradil. A Mare zjistí něco vskutku překvapivého – není jediná Rudá, kdo má podobné schopnosti.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Pronásledovaná Mavenem, z nějž se nyní stal pomstychtivý král, vyráží pátrat po rudostříbrných bojovnících, aby je vyzvala k souboji s jejich utlačovateli. Ale nehrozí snad Mare nebezpečí, že se z ní stane přesně taková zrůda, které se pokouší porazit? Nezlomí ji váha životů, jež je nutné položit ve jménu revoluce? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CooBoo</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Sci-fi</dc:subject>
@@ -16,6 +21,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:36+00:00"/>
         <meta name="calibre:title_sort" content="Křišťálový meč"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

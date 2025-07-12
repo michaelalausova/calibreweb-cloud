@@ -8,7 +8,6 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-07-02T22:00:00+00:00</dc:date>
         <dc:description>Před sedmi lety jsme si kamarádkami slíbily, že bez ohledu na to, co se stane, nikdy nebudeme chodit s bratry Kingovými. I kdyby se z nich stali megaslavní, nádherní, srdcervoucí miliardáři. I kdyby se připlazili na kolenou a prosili o odpuštění.Ale hádejte, kdo nám právě přiletěl soukromým letadlem zpátky do našich životů? A hádejte, kdo se objevil hned první den v mé nové práci? Richard. King. Naštěstí Richardovi trvá jen dvě sekundy, než ukáže, že se vůbec nezměnil. Namyšlený. Suverénní. Hrubý. Bohužel je také tak nádherný, až to hraničí s pohoršením – s čelistí, ze které by i sochy spadly z podstavců, a s úsměvem, který mi zkratoval mozek.Roky si bere, co chce. Pochybuju, že by toužil po něčem jiném – kromě mě. V žádném případě mu nedovolím, aby se mi zase zapletl do života. Moje kamarádky by mi to nikdy neodpustily. Já bych si to nikdy neodpustila.Ale už jsem se zmínila o jeho čelisti?</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2023</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <dc:subject>Erotické</dc:subject>
@@ -16,6 +15,7 @@
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:41:38+00:00"/>
         <meta name="calibre:title_sort" content="Jenom ne Rich"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

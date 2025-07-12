@@ -5,14 +5,17 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">adfafc81-ba27-4db7-8fb3-67e3b94dd80d</dc:identifier>
         <dc:title>Panna nebo orel</dc:title>
         <dc:creator opf:file-as="Bailey, James" opf:role="aut">James Bailey</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2022-03-21T22:00:00+00:00</dc:date>
-        <dc:publisher>knihy DOBROVSKÝ Red 2022</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="description"&gt;Kdo říká, že lásku nelze svěřit náhodě? Mladý Brit se zlomeným srdcem se rozhodne svěřit své štěstí v lásce a vlastně celý svůj osud té správné straně mince. Svěží debut ve stylu britských romantických komedií, který vás rozhodně nebude nudit. Josh prožívá krizi čtvrtiny života. Právě se rozešel se svou přítelkyní, ztratil práci a musel se nastěhovat zpátky k rodičům. Pro mladého muže zvyklého na bristolský ruch je to pořádný pád na dno. Jak se tak utápí v pochybnostech o svých předchozích rozhodnutích a životníchvolbách, napadne ho bláznivá myšlenka. Možná by udělal líp, kdyby si na všechno prostě házel mincí, přesněji nalezeným padesátníkem. Ostatně, kam ho dovedlo plánování? Už teď je bez práce, bez domova a bez holky. Z vtipného nápadu se postupně stává roční předsevzetí a Josh svěřuje veškerý svůj osud rozhodnutí mince. Nemá přece co ztratit! Jenže v tom se zjeví dívka jeho snů a s ní i životní šance na lásku. Pomůže mu ji padesátník získat, nebo ho uvrhne do ještě hlubšího trápení?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Red</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Komedie</dc:subject>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:timestamp" content="2025-06-08T10:45:17+00:00"/>
         <meta name="calibre:title_sort" content="Panna nebo orel"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

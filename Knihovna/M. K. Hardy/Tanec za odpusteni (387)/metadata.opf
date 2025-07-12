@@ -8,7 +8,7 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-29T22:00:00+00:00</dc:date>
         <dc:description>Jack: Koukám na svýho nejlepšího přítele, jak je šťastnej s holkou, co za ním přiletěla přes půl světa, aby mohli být spolu, a přeju si, abych našel něco podobnýho. Holku, kterou budu nade všechno milovat a která mi bude oporou i v těch horších časech. Protože horší časy, to teď znám moc dobře. Zdravotně na tom nejsem vůbec dobře a vypadá to, že budu muset s rugby úplně skončit. A do toho se do mě opírá bulvár a hrabe se mi v soukromí docela nepříjemným způsobem. Naštěstí jsem potkal Riley, která vypadá, že by mohla být ta pravá… Riley: Velkej, silnej chlap s dredama, co se mnou flirtuje v baru? Panebože, navíc je to Jack Parata, kapitán All Blacks! To tedy můžu, i kdyby to měla být jen krátká záležitost. Ale ne, vypadá to, že by z toho mohlo být časem i něco víc… Jenomže mám toho moc. Dodělávám školu, musím se sama živit, a navíc se můj povedenej bratříček do něčeho zamotal, zmizel a nechal na mně, ať to za něj celý vyřeším. Proč nikdy nemůže jít všechno hladce? Proč člověk nikdy nemůže mít všechno?</dc:description>
-        <dc:publisher>Grada Publishing, a.s.</dc:publisher>
+        <dc:publisher>Grada Publishing a.s.</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Erotické</dc:subject>
         <dc:subject>Romantické</dc:subject>
@@ -16,6 +16,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:36:38+00:00"/>
         <meta name="calibre:title_sort" content="Tanec za odpuštění"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

@@ -6,9 +6,10 @@
         <dc:title>Králova klec</dc:title>
         <dc:creator opf:file-as="Aveyard, Victoria" opf:role="aut">Victoria Aveyard</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2018-01-11T00:00:00+00:00</dc:date>
-        <dc:description>Mare zůstává v zajetí, zbavená svého blesku a mučená vlastními chybami. Přežívá jen díky milosti nového krále. Kluka, jehož milovala, ale vyklubal se z něj lhář a zrádce. Zatímco je v paláci, tak se její skupina povstalců připravuje na válku, protože už nechce žít ve stínu. A pak je tu Cal, vyhnaný princ, který se nezastaví před ničím, aby Mare vysvobodil… Krev proti krvi a schopnost proti schopnosti – hrozí, že nezůstane nikdo, kdo vznikající požár uhasí!</dc:description>
-        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:date>2017-01-11T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ve světě Stříbrných a Rudých vládne zmatek. Mare zůstává v zajetí, zbavená svého blesku a mučená vlastními chybami. Přežívá jen díky milosti nového krále – kluka, jehož kdysi milovala, ale nakonec se z něj vyklubal lhář a zrádce. Maven Calore pokračuje v pletichách své mrtvé matky a snaží se získat moc nad celou zemí i nad svou zajatkyní. Zatímco Mare v paláci trpí pod účinky tichého kamene, její kdysi ubohá skupina novokrevných a rudokrevných se organizuje, cvičí a nabírá nové členy. Připravují se na válku, protože už se nechtějí skrývat ve stínu. A Cal, vyhnaný princ, který také usiluje o lásku blýskající dívky, se nezastaví před ničím, aby ji vysvobodil. Krev se obrací proti krvi a schopnost proti schopnosti. Hrozí, že nakonec nezůstane nikdo, kdo by vznikající požár uhasil, a z Norty, jak ji Mare zná, zůstane jen černé spáleniště.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CooBoo</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Sci-fi</dc:subject>
@@ -18,6 +19,7 @@
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:32+00:00"/>
         <meta name="calibre:title_sort" content="Králova klec"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

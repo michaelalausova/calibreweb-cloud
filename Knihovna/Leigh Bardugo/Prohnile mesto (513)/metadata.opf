@@ -6,9 +6,10 @@
         <dc:title>Prohnilé město</dc:title>
         <dc:creator opf:file-as="Bardugo, Leigh" opf:role="aut">Leigh Bardugo</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2018-05-06T22:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;Druhý díl oceňované fantasy série Šest vran od bestsellerové autorky Leigh Bardugo!Kazu Brekkerovi a jeho lidem se podařil nevídaný kousek, za který měli přislíbenou tučnou odměnu. Jenže místo toho, aby se o ni rozdělili, čekala na ně zrada. Proto musí napnout všechny své síly, aby získali to, co jim patří. V temných ulicích zkorumpovaného Ketterdamu se mezitím schyluje k válce. Nebezpečná smrtící droga jurda parem se tu stává předmětem boje o moc. Obstojí Kazova prohnanost proti nepřátelům a zůstanou mu jeho lidé vůbec věrni?&lt;/p&gt;</dc:description>
-        <dc:publisher>Albatros Media a.s.</dc:publisher>
+        <dc:date>2022-07-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Pokračování fantasy románu Šest vran, v němž se šestice zločinců snažila dostat do nejstřeženější pevnosti světa. Kazu Brekkerovi a jeho lidem se podařil nevídaný kousek, za který měli přislíbenou tučnou odměnu. Jenže místo toho, aby se o ni rozdělili, čekala na ně zrada. Proto musí napnout všechny své síly, aby získali to, co jim patří. V temných ulicích zkorumpovaného Ketterdamu se mezitím schyluje k válce. Nebezpečná smrtící droga jurda parem se tu stává předmětem boje o moc. Obstojí Kazova prohnanost proti nepřátelům a zůstanou mu jeho lidé vůbec věrni? Nakladatelská anotace.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Fragment</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Young Adult</dc:subject>
@@ -16,6 +17,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:10+00:00"/>
         <meta name="calibre:title_sort" content="Prohnilé město"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

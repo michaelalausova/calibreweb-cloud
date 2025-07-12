@@ -6,8 +6,9 @@
         <dc:title>Šest vran</dc:title>
         <dc:creator opf:file-as="Bardugo, Leigh" opf:role="aut">Leigh Bardugo</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1969-12-31T23:00:00+00:00</dc:date>
-        <dc:description>Za peníze se dá koupit všechno! Nebo aspoň to platí v Ketterdamu, ve kterém se nikdo nevyzná lépe, než Kaz Brekker, fenomenální podvodník a zloděj. A když se objeví neodolatelná zakázka? Je čas sehnat si pomocníky. Zloděj, trestanec, hazardní hráč, černá ovce rodiny, špionka a kráska-zabiják – šest nebezpečných psanců, kteří se pokusí dostat se do nejstřeženější pevnosti světa. Podaří se jim vyváznout se zdravou kůží?</dc:description>
+        <dc:date>2016-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="description"&gt;Ketterdam – rušné přístavní město, kde se dá za peníze koupit naprosto cokoliv. Nikdo to neví lépe než Kaz Brekker, fenomenální podvodník a zloděj. Neštítí se žádné špinavé práce a dokáže vybruslit z každé situace. Jednoho dne dostane nabídku, na kterou by kývl jen šílenec. Pohádková odměna však několikanásobně převyšuje všechna nebezpečí, která ze sebevražedné zakázky plynou. Sám to ale nezvládne. Bude potřebovat další pomocníky… Trestance prahnoucího po pomstě. Zázračného střelce se slabostí pro hazardní hry. Černou ovci z prominentní rodiny na útěku z domova. Špiónku pohybující se neslyšně jako stín. Dívku využívající svoji krásu jako smrtící zbraň. Šest nebezpečných psanců se pokusí o nemožné – vloupat se do Ledového paláce, nejstřeženější pevnosti světa. Kdo z nich přežije? Jaká tajemství vyplavou na povrch? Odvrátí nebezpečí, které hrozí světu?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Fragment</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
@@ -16,6 +17,7 @@
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:08+00:00"/>
         <meta name="calibre:title_sort" content="Šest vran"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

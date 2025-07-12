@@ -8,12 +8,13 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-01T00:00:00+00:00</dc:date>
         <dc:description>&lt;p id="description"&gt;Čas je vězení. Jen ona má klíč. &lt;br&gt;&lt;br&gt;V království Sempera se platí časem. Hodiny, dny i roky jsou extrahovány z krve a pomocí magie přetavovány v kovové mince. Ty však bohatí aristokraté, jako jsou Gerlingové, neúprosně daní. Na úkor obyčejných lidí si tak zajišťují bohatství a dlouhověkost. &lt;br&gt;&lt;br&gt;Jules Emberová Gerlingy nenávidí. Před lety jim spolu se svým otcem sloužili na jejich panství Everless, pak však museli kvůli tragické nehodě utéct. Teď ale otec umírá a Jules nezbývá nic jiného, než se tam vrátit a vzácný čas pro něj získat. &lt;br&gt;&lt;br&gt;Návrat na Everless ji vystaví mnoha nebezpečím, a taky pokušením. Brzy se ocitne ve víru intrik, smrticích tajemství a lásky ke dvěma lidem, o nichž si myslela, že je už nikdy nespatří. To, jak se rozhodne, může změnit osud nejen jí, ale i samotnému času.&lt;/p&gt;</dc:description>
-        <dc:publisher>Fragment (CZ)</dc:publisher>
+        <dc:publisher>Fragment</dc:publisher>
         <dc:language>ces</dc:language>
         <meta name="calibre:series" content="Everless"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:36:07+00:00"/>
         <meta name="calibre:title_sort" content="Panství krve a kovu"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

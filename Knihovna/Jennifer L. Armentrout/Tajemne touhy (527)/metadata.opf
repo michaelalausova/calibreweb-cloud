@@ -5,8 +5,14 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">49e10c68-1c17-4b28-9a2b-a4f3b6630ff5</dc:identifier>
         <dc:title>Tajemné touhy</dc:title>
         <dc:creator opf:file-as="Armentrout, Jennifer L." opf:role="aut">Jennifer L. Armentrout</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;V New Orleansu se začínají dít prapodivné věci… Dvaadvacetiletá studentka Ivy Morganová není jen tak obyčejná mladá žena. Ví, že lidé nejsou jediné bytosti ve francouzské čtvrti. Před čtyřmi lety kvůli nim přišla o všechno. Přísahala si, že ty příšery, které jí rozcupovaly život i srdce, najde a zničí.&lt;/p&gt;
+&lt;p&gt;Ani v nejmenším nepočítala s tím, že by do jejího života, jemuž dává řád pořádek a kontrola, mohl vstoupit kdosi jako Ren Owens. Představuje pro ni neodolatelný šarm a půvabné mužské kouzlo. Ivy zanedlouho dojde, že je pro ni v podstatě stejně nebezpečný jako ti ďáblové, protože s ním ztrácí kontrolu. Navíc už jednou přišla o velkou lásku a nehodlá dopustit, aby se tak krutá ztráta opakovala. Jenže přitažlivost si nevybírá a napětí, které mezi nimi stále narůstá, se odolává stěží. Hluboko ve svém nitru chce… potřebuje víc. Nestačí jí žít ze střípků minulosti a pomsty.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Po čase jí dochází, že i Ren má svá temná tajemství. Něco jí zamlčuje. Ivy najednou neví, co je pro ni nebezpečnější: starodávné bytosti, které chtějí převzít kontrolu nad městem, anebo muž žádající si její srdce i duši.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Baronet</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Romantické</dc:subject>
@@ -15,6 +21,7 @@
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:42:45+00:00"/>
         <meta name="calibre:title_sort" content="Tajemné touhy"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: true, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

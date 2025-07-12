@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ded26637-c0a4-4b67-b593-1659aec30953</dc:identifier>
         <dc:title>Královna stínů</dc:title>
         <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>Ztratila všechny, které milovala. Celaena Sardothien se vrací zpátky do říše a jediné, po čem touží, je pomsta. Brzy si ovšem uvědomí, že ve hře je mnohem víc – musí osvobodit prince Doriana, kterého pomocí magie ovládá král ze skleněného hradu. Musí zjistit příčinu královy moci! Ale hlavně nesmí zklamat svůj lid, který do ní vložil veškeré naděje.</dc:description>
-        <dc:publisher>Cooboo</dc:publisher>
+        <dc:publisher>CooBoo</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Romantické</dc:subject>
@@ -17,6 +17,7 @@
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:30:30+00:00"/>
         <meta name="calibre:title_sort" content="Královna stínů"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>

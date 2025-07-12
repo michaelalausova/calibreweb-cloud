@@ -8,13 +8,13 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-29T22:00:00+00:00</dc:date>
         <dc:description>Kniha Zachraň mě je o tom, co se všechno může stát, když studentka prestižní školy Maxton Hall v Anglii uvidí, co nemá… Taky o tom, jak se nesmělá, puntičkářská a cílevědomá stipendistka Ruby, která se dosud zajímala jen o studium a práci v Organizačním výboru pro školu, dostane do situací, které ji donutí vidět svět pravdivěji a barevněji. Rodina Ruby je docela obyčejná, ale harmonická, zatímco James je dědicem starobylého oděvního impéria a příkladem zkaženého, nevychovaného mladíka, který se snaží „užít si poslední rok na střední“. Kniha je o jejich vzájemné přitažlivosti a štěstí, které spolu nacházejí, ale o které musejí bojovat, a stále znovu jim uniká. Je o tom, jaké to je, projít se po prvé kampusem oxfordské univerzity, na které Ruby od dětství touží studovat, a přáních, která se možná splní. Jaké je, když se potkají na přijímacích zkouškách na Oxford daleko od domova… Kniha vás zve do světa dramatické první lásky, romantiky studentských let a napínavých okolností, které svět Ruby a Jamese obklopují.</dc:description>
-        <dc:publisher>knihy DOBROVSKÝ Red 2021</dc:publisher>
         <dc:language>ces</dc:language>
         <dc:subject>Romantické</dc:subject>
         <meta name="calibre:series" content="Maxton Hall"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2025-06-08T10:34:10+00:00"/>
         <meta name="calibre:title_sort" content="Zachraň mě"/>
+        <meta name="calibre:user_metadata:#hotovo" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Úpravy&quot;, &quot;search_terms&quot;: [&quot;#hotovo&quot;], &quot;label&quot;: &quot;hotovo&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;bools_show_text&quot;: false, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Obálka" href="cover.jpg"/>
